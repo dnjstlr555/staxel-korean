@@ -39,9 +39,9 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] CecileIntro_ko_KR.lang
 - [ ] characterDesigner_ko_KR.lang
 - [ ] commands_ko_KR.lang
-- [ ] crafting_ko_KR.lang
-- [ ] 
-- [ ] 
+- [X] crafting_ko_KR.lang
+- [ ]  
+- [ ]  
 - [ ] 
 - [ ] 
 - [ ] 
