@@ -74,13 +74,13 @@ staxel.tile.dungeon.DungeonWall.description=Thick Dungeon block with a second la
 staxel.tile.dungeon.DungeonWall.name=Trimmed Dungeon Stone Block
 
 //[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
-staxel.tile.fairyVillage.FairyGrassLayer.1.description=요정 지형에서 자란 잔디야. 엄청 부드럽고, 예쁘면서도 신기해!
+staxel.tile.fairyVillage.FairyGrassLayer.1.description=요정 지형에서 자란 잔디입니다. 엄청 부드럽고, 예쁘면서도 신기해!
 //[Reference] 'Pink Fairy Grass Block'
-staxel.tile.fairyVillage.FairyGrassLayer.1.name=분홍 요정 잔디 블럭
+staxel.tile.fairyVillage.FairyGrassLayer.1.name=분홍색 요정 잔디 블럭
 //[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
-staxel.tile.fairyVillage.FairyGrassLayer.2.description=요정 지형에서 자란 잔디야. 엄청 부드럽고, 예쁘면서도 신기해!
+staxel.tile.fairyVillage.FairyGrassLayer.2.description=요정 지형에서 자란 잔디. 엄청 부드럽고, 예쁘면서도 신기해!
 //[Reference] 'Long Pink Fairy Grass Block'
-staxel.tile.fairyVillage.FairyGrassLayer.2.name=두꺼운 분홍 요정 잔디 블럭
+staxel.tile.fairyVillage.FairyGrassLayer.2.name=두꺼운 분홍색 요정 잔디 블럭
 staxel.tile.grass.ForestGrassLayer.1.description=
 //[Reference] 'Forest Grass Block'
 staxel.tile.grass.ForestGrassLayer.1.name=숲속 잔디 블럭
@@ -278,9 +278,9 @@ staxel.tile.leaves.Leaf.7.description=건강하고 밝은 초록색 잎
 //[Reference] 'Green Leaf Block'
 staxel.tile.leaves.Leaf.7.name=초록 잎 블럭
 //[Reference] 'Leaves grown in the fairy biome. Soft pink leaves!'
-staxel.tile.leaves.Leaf.Fairy.description=요정 지형에서 자란 잎. 부드러운 분홍색 잎!
+staxel.tile.leaves.Leaf.Fairy.description=요정 지형에서 자란 잎입니다. 부드러운 분홍색 잎!
 //[Reference] 'Pink Fairy Leaf Block'
-staxel.tile.leaves.Leaf.Fairy.name=분홍 요정 잎 블럭
+staxel.tile.leaves.Leaf.Fairy.name=분홍색 요정 잎 블럭
 staxel.tile.leaves.Leaf.Forest.description=
 //[Reference] 'Forest Leaf Block'
 staxel.tile.leaves.Leaf.Forest.name=숲속 잎사귀 블럭
