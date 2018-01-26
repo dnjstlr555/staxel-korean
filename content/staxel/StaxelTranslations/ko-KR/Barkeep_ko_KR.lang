@@ -1,9 +1,9 @@
 language.code=ko-KR
 language=한국어
 //[Reference] 'Oh, don't think I've seen you around here before!'
-staxel.village.dialogue.Barkeep.line:10000100=Oh, don't think I've seen you around here before!
+staxel.village.dialogue.Barkeep.line:10000100=어라, 못보던 얼굴이구만!
 //[Reference] 'New in town eh?'
-staxel.village.dialogue.Barkeep.line:10000200=New in town eh?
+staxel.village.dialogue.Barkeep.line:10000200=새로 왔는가?
 //[Reference] '^c:1486b0;{0-playername}^c:pop;!'
 staxel.village.dialogue.Barkeep.line:10000210=^c:1486b0;{0-playername}^c:pop;!
 //[Reference] 'Good to see you ^c:1486b0;{0-playername}^c:pop;.'
@@ -19,29 +19,29 @@ staxel.village.dialogue.Barkeep.line:10000260=I'm thirsty.
 //[Reference] 'Nothing really.'
 staxel.village.dialogue.Barkeep.line:10000265=Nothing really.
 //[Reference] 'I'm sure you'll fit right in.'
-staxel.village.dialogue.Barkeep.line:10000300=I'm sure you'll fit right in.
+staxel.village.dialogue.Barkeep.line:10000300=분명 마을에 잘 적응해 나갈꺼라 믿네.
 //[Reference] 'Here, this is on the house!'
-staxel.village.dialogue.Barkeep.line:10000400=Here, this is on the house!
+staxel.village.dialogue.Barkeep.line:10000400=여기, 받게나!
 //[Reference] 'Think of it as our welcome to the town.'
-staxel.village.dialogue.Barkeep.line:10000500=Think of it as our welcome to the town.
+staxel.village.dialogue.Barkeep.line:10000500=우리 마을에 온걸 환영하네. 그런 의미로 주는거야.
 //[Reference] 'I hope to see you around here every now and again.'
-staxel.village.dialogue.Barkeep.line:10000600=I hope to see you around here every now and again.
+staxel.village.dialogue.Barkeep.line:10000600=얼굴 좀 많이 볼수 있었으면 좋겠구만.
 //[Reference] 'By the way... and perhaps this might seem like an odd question but...'
-staxel.village.dialogue.Barkeep.line:10000610=By the way... and perhaps this might seem like an odd question but...
+staxel.village.dialogue.Barkeep.line:10000610=그나저나... 조금 이상한 질문일수 있겠다만...
 //[Reference] 'Is there a particular type of animal you like?'
-staxel.village.dialogue.Barkeep.line:10000620=Is there a particular type of animal you like?
+staxel.village.dialogue.Barkeep.line:10000620=자네는 어떤 동물을 좋아하나?
 //[Reference] 'Cats are super cute!'
-staxel.village.dialogue.Barkeep.line:10000630=Cats are super cute!
+staxel.village.dialogue.Barkeep.line:10000630=너무 귀여운 고양이요!
 //[Reference] 'Dogs are the coolest!'
-staxel.village.dialogue.Barkeep.line:10000640=Dogs are the coolest!
+staxel.village.dialogue.Barkeep.line:10000640=엄청 든든한 강아지요!
 //[Reference] 'Oh! How lucky for you!'
-staxel.village.dialogue.Barkeep.line:10000650=Oh! How lucky for you!
+staxel.village.dialogue.Barkeep.line:10000650=오! 운이 좋구만!
 //[Reference] 'A merchant came by the other day whose aunt's friend's sister's son had a litter!'
-staxel.village.dialogue.Barkeep.line:10000660=A merchant came by the other day whose aunt's friend's sister's son had a litter!
+staxel.village.dialogue.Barkeep.line:10000660=마침 상인이 이쪽으로 오는 길이라 하네.
 //[Reference] 'If you come back once you're done with ^c:1486b0;{0-tut_name}^c:pop;, I might just have one for you!'
-staxel.village.dialogue.Barkeep.line:10000670=If you come back once you're done with ^c:1486b0;{0-tut_name}^c:pop;, I might just have one for you!
+staxel.village.dialogue.Barkeep.line:10000670=^c:1486b0;{0-tut_name}^c:pop;과 일이 잘 끝나면, 내가 하나 구해보도록 하겠네!
 //[Reference] 'Good luck!'
-staxel.village.dialogue.Barkeep.line:10000680=Good luck!
+staxel.village.dialogue.Barkeep.line:10000680=그럼 잘해보게나!
 //[Reference] 'Hope to see you around!'
 staxel.village.dialogue.Barkeep.line:10002600=Hope to see you around!
 //[Reference] 'Hmm... doesn't look like there's much going on right now.'

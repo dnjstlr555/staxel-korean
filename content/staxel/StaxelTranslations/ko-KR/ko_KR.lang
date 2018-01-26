@@ -1,7 +1,8 @@
 language.code=ko-KR
 language=한국어
 font=staxel/fonts/SDMiSaeng.ttf
-//[Reference] 'Achievement unlocked: {0-achievement}!' {0-achievement}은 "~~를 하는" 같이 ~는으로 끝내주세요
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Achievement unlocked: {0-achievement}!'
 achievements.achievementUnlocked={0-achievement} 도전과제를 달성했어요!
 //[Reference] 'Buy:'
 catalogue.buy=Buy:
@@ -28,15 +29,17 @@ commands.stopTime.stop=Time stopped
 //[Reference] 'success'
 commands.tripod.success=success
 
-//[Reference] 'Break' (일반 블럭) 캐기 부수기
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Break'
 controlHint.verb.Break=Break
 //[Reference] 'Buy'
 controlHint.verb.Buy=구매
-//[Reference] 'Calm' 	
+//[Reference] 'Calm'
 controlHint.verb.Calm=Calm
 //[Reference] 'Cast'
 controlHint.verb.Cast=Cast
-//[Reference] 'Catch' 채집 or 잡기
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Catch'
 controlHint.verb.Catch=채집
 //[Reference] 'Check'
 controlHint.verb.Check=Check
@@ -57,21 +60,22 @@ controlHint.verb.default.Drink=마시기
 //[Reference] 'Eat'
 controlHint.verb.default.Eat=먹기
 //[Reference] 'Harvest'
-controlHint.verb.default.Harvest=Harvest
-//[Reference] 'Interact' (문, 풍선)
+controlHint.verb.default.Harvest=수확
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Interact'
 controlHint.verb.default.Interact=만지기
 //[Reference] 'Restart'
 controlHint.verb.default.ManualRestart=Restart
 //[Reference] 'Memorise'
-controlHint.verb.default.Memorise=Memorise
+controlHint.verb.default.Memorise=배우기
 //[Reference] 'Replace'
 controlHint.verb.default.reDock=Replace
 //[Reference] 'Rotate'
-controlHint.verb.default.Rotate=Rotate
+controlHint.verb.default.Rotate=돌리기
 //[Reference] 'Stop'
 controlHint.verb.default.Stop=Stop
 //[Reference] 'Throw'
-controlHint.verb.default.Throw=Throw
+controlHint.verb.default.Throw=던지기
 //[Reference] 'Pick Up'
 controlHint.verb.default.Undock=줍기
 //[Reference] 'Use'
@@ -89,7 +93,7 @@ controlHint.verb.Milk=Milk
 //[Reference] 'Open'
 controlHint.verb.Open=Open
 //[Reference] 'Plant'
-controlHint.verb.Plant=Plant
+controlHint.verb.Plant=심기
 //[Reference] 'Play'
 controlHint.verb.Play=Play
 //[Reference] 'Pull'
@@ -103,25 +107,25 @@ controlHint.verb.Reset=Reset
 //[Reference] 'Resize'
 controlHint.verb.Resize=Resize
 //[Reference] 'Sell'
-controlHint.verb.Sell=Sell
+controlHint.verb.Sell=판매
 //[Reference] 'Sell Back'
 controlHint.verb.SellBack=Sell Back
 //[Reference] 'Shear'
 controlHint.verb.Shear=Shear
 //[Reference] 'Sit'
-controlHint.verb.Sit=Sit
+controlHint.verb.Sit=앉기
 //[Reference] 'Sleep'
-controlHint.verb.Sleep=Sleep
+controlHint.verb.Sleep=자기
 //[Reference] 'Sweep'
 controlHint.verb.Sweep=Sweep
 //[Reference] 'Chat'
-controlHint.verb.Talk=말걸기
+controlHint.verb.Talk=말 걸기
 //[Reference] 'Till'
-controlHint.verb.Till=Till
+controlHint.verb.Till=땅 갈구기
 //[Reference] 'Water'
-controlHint.verb.Water=Water
-//[Reference] 'Item Hotkeys'
-controllerHints.hotkeys=
+controlHint.verb.Water=물 주기
+//TODO Translate [Reference] 'Item Hotkeys'
+controllerHints.hotkeys=아이템 드는 방법
 //[Reference] 'Inventory'
 controllerHints.inventory=가방 여는 방법
 //[Reference] 'Material Quick-Pick'
@@ -218,13 +222,13 @@ credits.thomas.description=He manages our marketing & PR.
 credits.winters.description=Is our dedicated environment designer. He designs the premade structures that you'll find in-game.
 
 //[Reference] 'You're starting to feel sleepy...'
-dayNight.hintNightTransition=You're starting to feel sleepy...
+dayNight.hintNightTransition=졸음이 몰려오기 시작했습니다...
 
 //[Reference] 'MissingNotification: {0-notificationCode}'
 debug.MissingNotification=MissingNotification: {0-notificationCode}
 
 //[Reference] 'Back'
-error.back=Back
+error.back=돌아가기
 
 //[Reference] 'Bad Version'
 error.badVersion=서버와 버전이 맞지 않아요.
@@ -235,7 +239,7 @@ error.sorry=죄송해요!
 //[Reference] 'Cancel'
 escapemenu.cancel=아니요
 //[Reference] 'Are you sure you want to exit to desktop? Progress is saved automatically.'
-escapemenu.confirmExit=Are you sure you want to exit to desktop? Progress is saved automatically.
+escapemenu.confirmExit=게임을 종료하실래요? 지금까지 해온 일과들은 자동으로 저장됩니다.
 //[Reference] 'Exit'
 escapemenu.exit=나가기
 
@@ -328,7 +332,7 @@ hintText.thiefSteal=You stole {0-amount} Petals! {1-theft}
 //[Reference] 'Thief! You may be forgiven in time.'
 hintText.thiefThief=Thief! You may be forgiven in time.
 //[Reference] 'Stealing has consequences.'
-hintText.thiefWarning=Stealing has consequences.
+hintText.thiefWarning=도둑질에는 대가가 뒤따릅니다.
 //[Reference] 'true'
 language.validated=true
 
@@ -379,7 +383,7 @@ options.admin.debug.IncreasedViewRange=시야 증가
 //[Reference] 'Make a crashlog'
 options.admin.debug.makeCrashlog=crashlog 만들기
 //[Reference] 'No Clip Mode'
-options.admin.debug.noClipMode=노클립 모드
+options.admin.debug.noClipMode=충돌 해제(노클립 모드)
 //[Reference] 'Show name tags'
 options.admin.debug.showNames=이름표 표시
 
@@ -392,7 +396,7 @@ options.admin.description=관리자꺼!
 //[Reference] 'Audio'
 options.audio=소리
 //[Reference] 'Set audio options here'
-options.audio.description=소리를 설정해주세요.
+options.audio.description=소리를 설정합니다.
 //[Reference] 'Auto'
 options.auto=자동
 //[Reference] '(X)'
@@ -400,30 +404,31 @@ options.backButton=(X)
 //[Reference] 'Gameplay'
 options.gameplay=게임
 //[Reference] 'Mute Error Sounds'
-options.gameplay.audio.muteErrorSounds=오류 음소거
+options.gameplay.audio.muteErrorSounds=오류 알림 음소거
 //[Reference] 'Controller'
 options.gameplay.controller=컨트롤러
 //[Reference] 'Enable Controller Input'
 options.gameplay.controller.enableController=컨트롤러 사용
 //[Reference] 'Flip Left Y Axis'
-options.gameplay.controller.flipLeftY=왼쪽 아날로그 스틱의 위아래 반전
+options.gameplay.controller.flipLeftY=왼쪽 아날로그 스틱의 위아래 거꾸로
 //[Reference] 'Flip Right Y Axis'
-options.gameplay.controller.flipRightY=오른쪽 아날로그 스틱의 위아래 반전
+options.gameplay.controller.flipRightY=오른쪽 아날로그 스틱의 위아래 거꾸로
 //[Reference] 'Left Thumb Curve:'
-options.gameplay.controller.leftThumbCurve=Left Thumb Curve:
+options.gameplay.controller.leftThumbCurve=왼쪽 아날로그 스틱 민감도:
 //[Reference] 'Left Thumb Deadzone:'
-options.gameplay.controller.leftThumbDeadzone=Left Thumb Deadzone:
+options.gameplay.controller.leftThumbDeadzone=왼쪽 아날로그 스틱 데드존:
 //[Reference] 'Right Thumb Curve:'
-options.gameplay.controller.rightThumbCurve=Right Thumb Curve:
+options.gameplay.controller.rightThumbCurve=오른쪽 아날로그 스틱 민감도:
 //[Reference] 'Right Thumb Deadzone:'
-options.gameplay.controller.rightThumbDeadzone=Right Thumb Deadzone:
+options.gameplay.controller.rightThumbDeadzone=오른쪽 아날로그 스틱 데드존:
 //[Reference] 'Right Thumb Velocity:'
-options.gameplay.controller.rightThumbVelocity=Right Thumb Velocity:
+options.gameplay.controller.rightThumbVelocity=오른쪽 아날로그 스틱 감도:
 //[Reference] 'Set gameplay options here'
-options.gameplay.description=게임을 설정해주세요.
+options.gameplay.description=게임을 설정합니다.
 //[Reference] 'Input'
 options.gameplay.input=입력
-//[Reference] 'Enable Repeating' IDK
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Enable Repeating'
 options.gameplay.input.enableRepeat=키 반복 허용
 //[Reference] 'Keyboard'
 options.gameplay.keyboard=키보드
@@ -438,7 +443,7 @@ options.gameplay.mouse.mouseVelocity=마우스 감도:
 //[Reference] 'Other'
 options.gameplay.other=기타
 //[Reference] 'Active Achievement Tracker'
-options.gameplay.other.activeAchievement=도전과제 달성 알리미 활성화
+options.gameplay.other.activeAchievement=도전과제 알리미 활성화
 //[Reference] 'Chat Timestamps'
 options.gameplay.other.chatTimestamps=채팅 시간 기록
 //[Reference] 'Left Handed Mode'
@@ -456,26 +461,27 @@ options.gameplay.other.showCraftingKeywordTags=Crafting Keyword Tags
 //[Reference] 'Don't stretch UI'
 options.gameplay.other.StepWiseUIScale=Don't stretch UI
 //[Reference] 'Prevent NPC Staring'
-options.gameplay.other.StopNPCStaring=Prevent NPC Staring
+options.gameplay.other.StopNPCStaring=NPC의 시선 고정 방지
 //[Reference] 'UI'
 options.gameplay.ui=UI
 
 //[Reference] 'Fullscreen Resolution:'
 options.gameplay.ui.FullScreenResolution=전체화면 해상도:
-//[Reference] 'UI Scale:' UI -> 화면? UI?
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'UI Scale:'
 options.gameplay.ui.ManualUIScale=UI 크기:
 //[Reference] 'General'
 options.general=전체
 //[Reference] 'Audio'
 options.general.audio=소리
 //[Reference] 'Ambience:'
-options.general.audio.ambience=환경 소리:
+options.general.audio.ambience=환경 음량
 //[Reference] 'Master:'
-options.general.audio.master=전체 소리:
+options.general.audio.master=전체 음량:
 //[Reference] 'Music:'
-options.general.audio.music=배경음악:
+options.general.audio.music=음악 음량:
 //[Reference] 'Sound:'
-options.general.audio.sound=말소리:
+options.general.audio.sound=효과음 음량:
 //[Reference] 'Graphics'
 options.general.graphics=그래픽
 //[Reference] 'Advanced'
@@ -484,11 +490,11 @@ options.general.graphics.advanced=고급 설정
 //[Reference] 'Auto detect graphics settings'
 options.general.graphics.autoDetect=그래픽 자동 설정
 //[Reference] 'Bloom'
-options.general.graphics.bloom=Bloom 효과
+options.general.graphics.bloom=블룸(Bloom) 효과
 //[Reference] 'Borderless Window'
 options.general.graphics.borderless=테두리 없는 창모드
 //[Reference] 'Camera Distance:'
-options.general.graphics.cameraDistance=Camera Distance:
+options.general.graphics.cameraDistance=카메라의 거리:
 //[Reference] 'Field Of View:'
 options.general.graphics.fieldOfView=시야각(FOV):
 //[Reference] 'Fullscreen'
@@ -498,30 +504,30 @@ options.general.graphics.halfResolution=Half Resolution
 //[Reference] 'High'
 options.general.graphics.high=높음
 //[Reference] 'Increased View Range'
-options.general.graphics.increasedViewRange=Increased View Range
+options.general.graphics.increasedViewRange=시야 증가
 //[Reference] 'Render Distant Terrain'
-options.general.graphics.lod=Render Distant Terrain
+options.general.graphics.lod=먼 지형 표시
 //[Reference] 'Low'
 options.general.graphics.low=낮음
 //[Reference] 'Median Filter (Requires Bloom)'
-options.general.graphics.medianFilter=메디안 효과(Median Filter) (Bloom 효과를 적용하셔야 합니다)
+options.general.graphics.medianFilter=메디안 효과(Median Filter) (블룸 효과를 적용하셔야 합니다)
 //[Reference] 'Medium'
 options.general.graphics.medium=중간
 
 //[Reference] 'Multi Sampling'
-options.general.graphics.MultiSampling=Multi Sampling
+options.general.graphics.MultiSampling=멀티 샘플링
 //[Reference] 'Reduced View Range'
-options.general.graphics.reducedViewRange=Reduced View Range
+options.general.graphics.reducedViewRange=시야 거리 줄이기
 //[Reference] 'Shadows'
-options.general.graphics.shadows=Shadows
+options.general.graphics.shadows=그림자 표시
 //[Reference] 'Show Grid Cursor'
 options.general.graphics.showGridCursor=Show Grid Cursor
 //[Reference] 'Super Low'
 options.general.graphics.superLow=아주 낮음
 //[Reference] 'Super Sampling'
-options.general.graphics.superSampling=Super Sampling
+options.general.graphics.superSampling=슈퍼 샘플링
 //[Reference] 'Third Person'
-options.general.graphics.thirdPerson=Third Person
+options.general.graphics.thirdPerson=3인칭 시점
 
 //[Reference] 'Transparent Player Avatar'
 options.general.graphics.transparentThirdPerson=Transparent Player Avatar
@@ -532,21 +538,21 @@ options.general.graphics.WeatherParticles=Prevent Indoor Weather
 //[Reference] 'Language'
 options.general.language=언어
 //[Reference] 'Misc'
-options.misc=Misc
+options.misc=기타
 //[Reference] 'Reset'
-options.misc.reset=Reset
+options.misc.reset=재설정
 //[Reference] 'Reset Current Changes'
-options.misc.resetCurrent=Reset Current Changes
+options.misc.resetCurrent=현재 설정을 재설정하기
 //[Reference] 'Reset to Default Settings'
-options.misc.resetToDefault=Reset to Default Settings
+options.misc.resetToDefault=현재 설정을 기본 설정으로 되돌리기
 //[Reference] 'Network'
-options.network=Network
+options.network=네트워크
 //[Reference] 'Preferences'
-options.network.preferences=Preferences
+options.network.preferences=설정
 //[Reference] 'Video'
 options.video=비디오
 //[Reference] 'Set video options here'
-options.video.description=화면, 그래픽, 비디오등을 설정해주세요.
+options.video.description=화면, 그래픽, 비디오등을 설정합니다.
 //[Reference] 'Ban'
 playerList.ban=제명(Ban)
 //[Reference] 'Kick'
@@ -626,9 +632,9 @@ shippingCatalogue.viewOrders.description=Check and cancel pending orders here
 //[Reference] 'You have claimed this shipping station!'
 shippingDock.Claimed=You have claimed this shipping station!
 //[Reference] 'Copy from'
-singleplayer.baseOff=세계 복사
+singleplayer.baseOff=다른 세계 복사하기
 //[Reference] 'Don't copy'
-singleplayer.baseOffCancel=안하기
+singleplayer.baseOffCancel=안함
 //[Reference] 'Cancel'
 singleplayer.cancel=취소
 //[Reference] 'Are you certain you want to delete this world?'
@@ -1259,6 +1265,9 @@ staxel.crafting.recipes.SimpleWardrobeSingle.name=SimpleWardrobeSingle
 staxel.crafting.recipes.SmallCrate.description=
 //[Reference] 'SmallCrate'
 staxel.crafting.recipes.SmallCrate.name=SmallCrate
+staxel.crafting.recipes.SoupCabbage.description=
+//TODO Translate [Reference] 'Soup Cabbage'
+staxel.crafting.recipes.SoupCabbage.name=
 staxel.crafting.recipes.StraightWoodenFence.description=
 //[Reference] 'Straight Wooden Fence'
 staxel.crafting.recipes.StraightWoodenFence.name=Straight Wooden Fence
