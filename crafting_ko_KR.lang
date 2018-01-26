@@ -1,0 +1,149 @@
+language.code=ko-KR
+language=한국어
+
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.CakeCarrot.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Carrot Cake Recipe'
+staxel.crafting.recipes.CakeCarrot.name=당근 케이크 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.CakeChocolate.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Chocolate Cake Recipe'
+staxel.crafting.recipes.CakeChocolate.name=초콜릿 케이크 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.CakePlain.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Cake Recipe'
+staxel.crafting.recipes.CakePlain.name=케이크 조리법
+//[Reference] 'One of the classics, you can't go wrong with a chocolate cake.'
+staxel.crafting.recipes.ChocolateCake.description=오랜 음식 중 하나이니, 잘못 만들 수는 없을 거에요
+//[Reference] 'Chocolate Cake Recipe'
+staxel.crafting.recipes.ChocolateCake.name=초콜릿 케이크 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamBlackberry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Blackberry Jam Recipe'
+staxel.crafting.recipes.JamBlackberry.name=블랙베리 잼 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamBlueberry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Blueberry Jam Recipe'
+staxel.crafting.recipes.JamBlueberry.name=블루베리 잼 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamCherry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Cherry Jam Recipe'
+staxel.crafting.recipes.JamCherry.name=체리 잼 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamDragonFruit.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Dragon Fruit Jam Recipe'
+staxel.crafting.recipes.JamDragonFruit.name=용과 잼 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamRaspberry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Raspberry Jam Recipe'
+staxel.crafting.recipes.JamRaspberry.name=산딸기 잼 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.JamStrawberry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Strawberry Jam Recipe'
+staxel.crafting.recipes.JamStrawberry.name=딸기 잼 조리법
+staxel.crafting.recipes.MakeSugar1.description=
+
+//[Reference] 'Sugar Recipe'
+staxel.crafting.recipes.MakeSugar1.name=설탕 조리법
+staxel.crafting.recipes.MakeSugar2.description=
+//[Reference] 'Sugar Recipe'
+staxel.crafting.recipes.MakeSugar2.name=설탕 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.MarmaladeLemon.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Lemon Marmalade Recipe'
+staxel.crafting.recipes.MarmaladeLemon.name=레몬 마멀레이드 잼 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.MarmaladeLime.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Lime Marmalade Recipe'
+staxel.crafting.recipes.MarmaladeLime.name=라임 마멀레이드 잼 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.MarmaladeOrange.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Orange Marmalade Recipe'
+staxel.crafting.recipes.MarmaladeOrange.name=오렌지 마멀레이드 잼 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieApple.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Apple Pie Recipe'
+staxel.crafting.recipes.PieApple.name=사과 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieBlackberry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Blackberry Pie Recipe'
+staxel.crafting.recipes.PieBlackberry.name=블랙베리 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieBlueberry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Blueberry Pie Recipe'
+staxel.crafting.recipes.PieBlueberry.name=블루베리 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieCherry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Cherry Pie Recipe'
+staxel.crafting.recipes.PieCherry.name=체리 파이 조리법
+staxel.crafting.recipes.PieCrust.description=
+//[Reference] 'Pie Crust Recipe'
+staxel.crafting.recipes.PieCrust.name=파이 반죽 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieDragonFruit.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Dragon Fruit Pie Recipe'
+staxel.crafting.recipes.PieDragonFruit.name=용과 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieLemon.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Lemon Pie Recipe'
+staxel.crafting.recipes.PieLemon.name=레몬 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieLime.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Lime Pie Recipe'
+staxel.crafting.recipes.PieLime.name=라임 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieOrange.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Orange Pie Recipe'
+staxel.crafting.recipes.PieOrange.name=오렌지 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PiePeach.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Peach Pie Recipe'
+staxel.crafting.recipes.PiePeach.name=복숭아 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieRaspberry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Raspberry Pie Recipe'
+staxel.crafting.recipes.PieRaspberry.name=산딸기 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieStrawberry.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Strawberry Pie Recipe'
+staxel.crafting.recipes.PieStrawberry.name=딸기 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.PieVegetable.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Vegetable Pie Recipe'
+staxel.crafting.recipes.PieVegetable.name=야채 파이 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SauceApple.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Apple Sauce Recipe'
+staxel.crafting.recipes.SauceApple.name=사과 소스 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SaucePeach.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Peach Sauce Recipe'
+staxel.crafting.recipes.SaucePeach.name=복숭아 소스 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupBeetroot.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Beetroot Soup Recipe'
+staxel.crafting.recipes.SoupBeetroot.name=사탕무 뿌리 수프 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupCarrot.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Carrot Soup Recipe'
+staxel.crafting.recipes.SoupCarrot.name=당근 수프 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupPumpkin.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Pumpkin Soup Recipe'
+staxel.crafting.recipes.SoupPumpkin.name=호박 수프 조리법
+//[Reference] 'It's great tucking into some tomato soup while it's raining outside.'
+staxel.crafting.recipes.SoupTomato.description=비 오는 날에는 토마토 수프만한 게 없습니다.
+//[Reference] 'Tomato Soup Recipe'
+staxel.crafting.recipes.SoupTomato.name=토마토 수프 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupTurnip.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Turnip Soup Recipe'
+staxel.crafting.recipes.SoupTurnip.name=순무 수프 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.SoupVegetable.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Vegetable Soup Recipe'
+staxel.crafting.recipes.SoupVegetable.name=야채 수프 조리법
+//[Reference] 'Read this to learn the recipe.'
+staxel.crafting.recipes.VegetableMedley.description=이것을 읽어서 요리법을 배울 수 있습니다.
+//[Reference] 'Vegetable Medley Recipe'
+staxel.crafting.recipes.VegetableMedley.name=야채 모듬식 조리법
