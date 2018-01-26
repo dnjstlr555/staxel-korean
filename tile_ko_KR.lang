@@ -69,18 +69,18 @@ staxel.tile.dungeon.Dungeontile2.description=하얀색 테두리가 있는 던�
 //[Reference] 'Trimmed Dungeon Floor'
 staxel.tile.dungeon.Dungeontile2.name=테두리 던전 바닥
 //[Reference] 'Thick Dungeon block with a second layer of trim.'
-staxel.tile.dungeon.DungeonWall.description=Thick Dungeon block with a second layer of trim.
+staxel.tile.dungeon.DungeonWall.description=두 개의 층으로 나눠진 테두리가 있는 던전 바닥입니다.
 //[Reference] 'Trimmed Dungeon Stone Block'
-staxel.tile.dungeon.DungeonWall.name=Trimmed Dungeon Stone Block
+staxel.tile.dungeon.DungeonWall.name=테두리 던전 바닥
 
 //[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
-staxel.tile.fairyVillage.FairyGrassLayer.1.description=요정 지형에서 자란 잔디입니다. 엄청 부드럽고, 예쁘면서도 신기해!
+staxel.tile.fairyVillage.FairyGrassLayer.1.description=요정 지형에서 자란 잔디야. 엄청 부드럽고, 예쁘면서도 신기해!
 //[Reference] 'Pink Fairy Grass Block'
-staxel.tile.fairyVillage.FairyGrassLayer.1.name=분홍색 요정 잔디 블럭
+staxel.tile.fairyVillage.FairyGrassLayer.1.name=분홍 요정 잔디 블럭
 //[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
-staxel.tile.fairyVillage.FairyGrassLayer.2.description=요정 지형에서 자란 잔디. 엄청 부드럽고, 예쁘면서도 신기해!
+staxel.tile.fairyVillage.FairyGrassLayer.2.description=요정 지형에서 자란 잔디야. 엄청 부드럽고, 예쁘면서도 신기해!
 //[Reference] 'Long Pink Fairy Grass Block'
-staxel.tile.fairyVillage.FairyGrassLayer.2.name=두꺼운 분홍색 요정 잔디 블럭
+staxel.tile.fairyVillage.FairyGrassLayer.2.name=두꺼운 분홍 요정 잔디 블럭
 staxel.tile.grass.ForestGrassLayer.1.description=
 //[Reference] 'Forest Grass Block'
 staxel.tile.grass.ForestGrassLayer.1.name=숲속 잔디 블럭
@@ -278,9 +278,9 @@ staxel.tile.leaves.Leaf.7.description=건강하고 밝은 초록색 잎
 //[Reference] 'Green Leaf Block'
 staxel.tile.leaves.Leaf.7.name=초록 잎 블럭
 //[Reference] 'Leaves grown in the fairy biome. Soft pink leaves!'
-staxel.tile.leaves.Leaf.Fairy.description=요정 지형에서 자란 잎입니다. 부드러운 분홍색 잎!
+staxel.tile.leaves.Leaf.Fairy.description=요정 지형에서 자란 잎. 부드러운 분홍색 잎!
 //[Reference] 'Pink Fairy Leaf Block'
-staxel.tile.leaves.Leaf.Fairy.name=분홍색 요정 잎 블럭
+staxel.tile.leaves.Leaf.Fairy.name=분홍 요정 잎 블럭
 staxel.tile.leaves.Leaf.Forest.description=
 //[Reference] 'Forest Leaf Block'
 staxel.tile.leaves.Leaf.Forest.name=숲속 잎사귀 블럭
@@ -364,11 +364,11 @@ staxel.tile.newVillage.Pathway.stone.description=간단한 디자인의 하얀�
 //[Reference] 'White Brick Pathway'
 staxel.tile.newVillage.Pathway.stone.name=하얀색 벽돌 길
 //[Reference] 'Very thick and soft. It looks so comfortable, you could probably sleep on it!'
-staxel.tile.newVillage.PinkCarpet.description=매우 두껍고 부드럽다. 너무 편안해 보여서 이 위에서 잘 수 있을 것만 같다!
+staxel.tile.newVillage.PinkCarpet.description=매우 두껍고 부드럽다. 너무 편안해 보여서 이 위에서 잘 수 있을 것만 같습니다!
 //[Reference] 'Pink Carpet Flooring'
 staxel.tile.newVillage.PinkCarpet.name=분홍 양탄자 바닥
 //[Reference] 'A very rough stone pathway which has a rustic charm to it. Great for the outdoors!'
-staxel.tile.newVillage.RoughStonePathway.description=소박한 매력이 있는 거친 돌 길. 야외에 두기 좋다!
+staxel.tile.newVillage.RoughStonePathway.description=소박한 매력이 있는 거친 돌 길입니다.
 //[Reference] 'Rough Stone Pathway'
 staxel.tile.newVillage.RoughStonePathway.name=거친 돌 길
 //[Reference] 'A crude looking brick block.'
@@ -393,7 +393,7 @@ staxel.tile.newVillage.ThatchBlock.description=좋은 지붕엔 지푸라기가 
 //[Reference] 'Thatch Block'
 staxel.tile.newVillage.ThatchBlock.name=지푸라기 지붕
 //[Reference] 'A thick wooden beam block. A great way to add a touch of coziness to a structure'
-staxel.tile.newVillage.WoodBeamTile.description=A thick wooden beam block. A great way to add a touch of coziness to a structure
+staxel.tile.newVillage.WoodBeamTile.description=두꺼운 나무 빔 블록. 구조물에 아늑함을 더할 수 있습니다.
 //[Reference] 'Wooden Beam Block'
 staxel.tile.newVillage.WoodBeamTile.name=Wooden Beam Block
 //[Reference] 'A good wooden block to use both outdoors and in!'
@@ -502,7 +502,7 @@ staxel.tile.temple.AztecPillar.description=고대의 글자가 쓰여있는 큰 
 //[Reference] 'Aztec Pillar'
 staxel.tile.temple.AztecPillar.name=아즈텍 기둥
 //[Reference] 'Can be chopped into the wood resource which is used in crafting.'
-staxel.tile.temple.BasicWood.description=Can be chopped into the wood resource which is used in crafting.
+staxel.tile.temple.BasicWood.description=제작에 사용되는 나무로, 잘라서 쓸 수 있습니다.
 //[Reference] 'Wood Block'
 staxel.tile.temple.BasicWood.name=나무 블럭
 //[Reference] 'White stone brick. Seems to be very old!'
