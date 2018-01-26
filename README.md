@@ -29,17 +29,17 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] BarkeepRumour_ko_KR.lang
 - [ ] BarkeepTheft_ko_KR.lang
 - [ ] BarkeepWorkPlaceMissing_ko_KR.lang
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]  
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] BugCatcherJob_ko_KR.lang
+- [ ] CaithFisher_ko_KR.lang
+- [ ] CaithFisherRumour_ko_KR.lang
+- [ ] Caithgirl_ko_KR.lang
+- [ ] CaithGirlWinter_ko_KR.lang
+- [ ] category_ko_KR.lang
+- [ ] CecileFond_ko_KR.lang
+- [ ] CecileIntro_ko_KR.lang
+- [ ] characterDesigner_ko_KR.lang
+- [ ] commands_ko_KR.lang
+- [ ] crafting_ko_KR.lang
 - [ ] 
 - [ ] 
 - [ ] 
