@@ -8,3 +8,4 @@ supermarket -> 상점 <br>
 block -> 블럭 <br>
 (色)orange -> 주황<br>
 rough -> 울퉁불퉁<br>
+parcel -> 택배<br>
