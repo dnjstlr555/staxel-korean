@@ -9,7 +9,7 @@ staxel.tileObject.airship.RopeFenceStraight.description=
 staxel.tileObject.airship.RopeFenceStraight.name=밧줄 울타리
 
 //[Reference] 'This is where bees are kept. If a bee colony resides here they will slowly make and store honey inside here which can be harvested!'
-staxel.tileObject.animalFurniture.Apiary.description=꿀벌이 들어있는 곳입니다. 꿀벌 나라가 여기 있으면 꿀벌들이 여기다 꿀을 만들어 저장합니다!
+staxel.tileObject.animalFurniture.Apiary.description=벌들이 들어있는 곳입니다. 꿀벌 나라가 여기 있으면 꿀벌들이 여기로 꿀을 가지고 옵니다!
 //[Reference] 'Apiary'
 staxel.tileObject.animalFurniture.Apiary.name=벌 양봉장
 //[Reference] 'A little structure for chickens so they have a place to sleep at night. Very homely!'
@@ -464,11 +464,11 @@ staxel.tileObject.gamePieces.YellowPiece.description=
 //[Reference] 'Yellow Piece'
 staxel.tileObject.gamePieces.YellowPiece.name=노란색 말
 //[Reference] 'This is where bees are kept. If a bee colony resides here they will slowly make and store honey inside here which can be harvested!'
-staxel.tileObject.gatherable.Apiary.description=This is where bees are kept. If a bee colony resides here they will slowly make and store honey inside here which can be harvested!
+staxel.tileObject.gatherable.Apiary.description=벌들이 들어있는 곳입니다. 꿀벌 나라가 여기 있으면 꿀벌들이 여기로 꿀을 가지고 옵니다!
 //[Reference] 'Apiary'
 staxel.tileObject.gatherable.Apiary.name=벌 양봉장
 //[Reference] 'A worker bee gathers pollen from flowers and then brings it back to its hive's honey production.'
-staxel.tileObject.gatherable.Bee.description=A worker bee gathers pollen from flowers and then brings it back to its hive's honey production.
+staxel.tileObject.gatherable.Bee.description=꿀벌은 꽃에서 꿀을 모아 벌집으로 돌아갑니다.
 //[Reference] 'Worker Bee'
 staxel.tileObject.gatherable.Bee.name=꿀벌
 //[Reference] 'A queen bee rules over a bee colony. She takes care of all the important decisions.'
@@ -520,7 +520,7 @@ staxel.tileObject.merchantTotem.ToolVendor.description=
 //[Reference] 'Tool Merchant Totem'
 staxel.tileObject.merchantTotem.ToolVendor.name=도구 상인 토템
 //[Reference] 'Place a seed packet inside to mark your crops! Remember, you can rotate items before you dock them.'
-staxel.tileObject.misc.SeedpacketSign.description=농작물 표시를 위해 씨앗 포장을 넣으세요! 
+staxel.tileObject.misc.SeedpacketSign.description=농작물 표시를 위해 씨앗 포장을 넣으세요! 두기 전에 회전도 할 수 있습니다.
 //[Reference] 'Seed Sign'
 staxel.tileObject.misc.SeedpacketSign.name=씨앗 표지판
 //[Reference] 'To be removed'
