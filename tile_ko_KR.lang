@@ -380,7 +380,7 @@ staxel.tile.newVillage.ShopFlooring.description=
 staxel.tile.newVillage.ShopFlooring.name=가게 바닥
 staxel.tile.newVillage.ShopRoof.description=
 //[Reference] 'Shop Roof'
-staxel.tile.newVillage.ShopRoof.name=가게 천장
+staxel.tile.newVillage.ShopRoof.name=가게 지붕
 staxel.tile.newVillage.ShopWall1.description=
 
 //[Reference] 'Blue Shop Wall'
@@ -393,9 +393,9 @@ staxel.tile.newVillage.ThatchBlock.description=좋은 지붕엔 지푸라기가 
 //[Reference] 'Thatch Block'
 staxel.tile.newVillage.ThatchBlock.name=지푸라기 지붕
 //[Reference] 'A thick wooden beam block. A great way to add a touch of coziness to a structure'
-staxel.tile.newVillage.WoodBeamTile.description=두꺼운 나무 빔 블록. 구조물에 아늑함을 더할 수 있습니다.
+staxel.tile.newVillage.WoodBeamTile.description=두꺼운 나무 빔 블럭. 구조물에 아늑함을 더할 수 있습니다.
 //[Reference] 'Wooden Beam Block'
-staxel.tile.newVillage.WoodBeamTile.name=Wooden Beam Block
+staxel.tile.newVillage.WoodBeamTile.name=나무 빔 블럭
 //[Reference] 'A good wooden block to use both outdoors and in!'
 staxel.tile.newVillage.WoodenDecking.description=밖에서도 안에서도 쓸 수 있는 나무 바닥이다!
 //[Reference] 'Dark Wooden Plank Flooring'
