@@ -44,11 +44,11 @@ staxel.village.dialogue.Tutorial.line:10002150=길을 잃었으면, 언제라도
 //[Reference] 'Follow me!'
 staxel.village.dialogue.Tutorial.line:10002200=따라와!
 //[Reference] 'This is the local ^c:1486b0;tavern^c:pop;.'
-staxel.village.dialogue.Tutorial.line:10002300=여기가 이 마을의^c:1486b0;여관^c:pop;이야.
+staxel.village.dialogue.Tutorial.line:10002300=여기가 이 마을의 ^c:1486b0;여관^c:pop;이야.
 //[Reference] 'It's a pretty nice place to hang out after a long day of work!'
 staxel.village.dialogue.Tutorial.line:10002400=일한 후에 쉬고싶다면, 여기로 오는것도 좋아!
 //[Reference] '^c:1486b0;Rowan^c:pop;, the owner, can be a good source of local rumours.'
-staxel.village.dialogue.Tutorial.line:10002500=이 곳의 주인 ^c:1486b0;Rowan^c:pop;씨는 소문을 좋아하는데 여러가지 이야기를 들을 수 있을꺼야.
+staxel.village.dialogue.Tutorial.line:10002500=이 곳의 주인 ^c:1486b0;Rowan^c:pop;은 소문을 좋아하는데 여러가지 이야기를 들을 수 있을꺼야.
 //[Reference] 'You should head on in and talk to him - I think he has something for you!'
 staxel.village.dialogue.Tutorial.line:10002600=그와 이야기를 해보는게 어때? 뭔가를 줄지도 몰라!
 //[Reference] 'I'll be waiting right here.'
@@ -64,9 +64,9 @@ staxel.village.dialogue.Tutorial.line:10003100=다음은 ^c:1486b0;상점^c:pop;
 //[Reference] 'Follow me!'
 staxel.village.dialogue.Tutorial.line:10003200=따라와!
 //[Reference] 'The ^c:1486b0;supermarket^c:pop; sells many of the items you'll need on a daily basis.'
-staxel.village.dialogue.Tutorial.line:10003300=^c:1486b0;상점^c:pop;에서는 물건들을 팔고있어.
+staxel.village.dialogue.Tutorial.line:10003300=^c:1486b0;상점^c:pop;에서는 너에게 유용할 물건들을 많이 팔고있어.
 //[Reference] 'There's things like pet ^c:d03e37;food^c:pop;, ^c:d03e37;seeds^c:pop;, ^c:d03e37;tools^c:pop;, and other handy items!'
-staxel.village.dialogue.Tutorial.line:10003400=^c:d03e37;애완동물 먹이^c:pop;, ^c:d03e37;씨앗^c:pop;, ^c:d03e37;도구^c:pop;그외의 편리한 아이템들이 있어!
+staxel.village.dialogue.Tutorial.line:10003400=^c:d03e37;애완동물 먹이^c:pop;, ^c:d03e37;씨앗^c:pop;, ^c:d03e37;도구^c:pop; 외에 편리한 아이템들이 많이 있어!
 //[Reference] 'While you were busy chatting with ^c:1486b0;Rowan^c:pop; I popped over to the merchants.'
 staxel.village.dialogue.Tutorial.line:10003500=네가 ^c:1486b0;Rowan^c:pop;과 이야기를 할때, 상인들이 있는곳으로 갔다왔어.
 //[Reference] 'They're just on the other side of the ^c:1486b0;town square^c:pop;.'
@@ -90,9 +90,9 @@ staxel.village.dialogue.Tutorial.line:10004700=지금은 조금 불안하겠지�
 //[Reference] 'You're a little ways outside the village compared to the rest of us.'
 staxel.village.dialogue.Tutorial.line:10004800=다른 주민이 살고 있는 곳부터 네 농장은 마을에서 조금 떨어져있어.
 //[Reference] 'Hopefully your pet should keep you from feeling too lonely once it arrives!'
-staxel.village.dialogue.Tutorial.line:10005000=애완동물이 오면,외롭지는 않을 거야!
+staxel.village.dialogue.Tutorial.line:10005000=애완동물이 오면 외롭지는 않을 거야!
 //[Reference] 'If not, we're just down the road and always happy to chat.'
-staxel.village.dialogue.Tutorial.line:10005100=그래도 외롭다면,마을까지 와서 모두와 이야기를 하면 좋겠지?
+staxel.village.dialogue.Tutorial.line:10005100=그래도 외롭다면, 마을까지 와서 모두와 이야기를 하면 좋겠지?
 //[Reference] 'Perhaps we should start by heading out to the fields?'
 staxel.village.dialogue.Tutorial.line:10005200=슬슬 농장으로 향해볼까?
 //[Reference] 'Follow me!'
