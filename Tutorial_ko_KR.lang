@@ -140,7 +140,7 @@ staxel.village.dialogue.Tutorial.line:10006750=그대신에,그에게 도와줄�
 //[Reference] 'I'll be waiting right here when you get back!'
 staxel.village.dialogue.Tutorial.line:10006760=나는 여기서 기다릴게!
 //[Reference] 'Still not done helping ^c:1486b0;Rowan^c:pop; out?'
-staxel.village.dialogue.Tutorial.line:10006782=^c:1486b0;로완^c:pop씨의 심부름은 끝났니?
+staxel.village.dialogue.Tutorial.line:10006782=^c:1486b0;Rowan^c:pop;씨의 심부름은 끝났니?
 //[Reference] 'I'm getting thirstier by the minute!'
 staxel.village.dialogue.Tutorial.line:10006783=점점 목이 말라오네!
 //[Reference] 'Those plants don't look very wet to me...'
@@ -251,7 +251,7 @@ staxel.village.dialogue.Tutorial.line:10008600=해냈네! 생각보다 간단한
 //[Reference] 'The time has finally come to give you your ^c:d03e37;Farm Registration Letter^c:pop;!'
 staxel.village.dialogue.Tutorial.line:10008700=너한테^c:d03e37;농장 가입용지^c:pop;를 드디어 주는구나!
 //[Reference] 'You should head to the ^c:1486b0;town hall^c:pop; to file it with ^c:1486b0;Max^c:pop; as soon as possible.'
-staxel.village.dialogue.Tutorial.line:10008800=될 수 있으면 빨리,이 용지를^c:1486b0;이장^c:pop;^c:1486b0;maxmilian^c:pop;씨가 있는곳에 기다리고 있으라구.
+staxel.village.dialogue.Tutorial.line:10008800=될 수 있으면 빨리,이 용지를^c:1486b0;이장maxmilian^c:pop;씨가 있는곳에 기다리고 있으라구.
 //[Reference] 'In exchange you'll get a special package to help jump start your farm!'
 staxel.village.dialogue.Tutorial.line:10008900=용지를 드리면, 목장운영을 시작할 때 도움이 될만한 것 을 받을 수 있을거야!
 //[Reference] 'As for me, I think it's about time I get out of your way.'
