@@ -2,551 +2,551 @@ language.code=ko-KR
 language=한국어
 
 //[Reference] 'This a simple black block.'
-staxel.tile.color.Color.black.description=This a simple black block.
+staxel.tile.color.Color.black.description=평범한 검정색 블럭입니다.
 //[Reference] 'Black Block'
-staxel.tile.color.Color.black.name=Black Block
+staxel.tile.color.Color.black.name=검정색 블럭
 //[Reference] 'This a simple red block.'
-staxel.tile.color.Color.red.description=This a simple red block.
+staxel.tile.color.Color.red.description=평범한 빨간색 블럭입니다.
 //[Reference] 'Red Block'
-staxel.tile.color.Color.red.name=Red Block
+staxel.tile.color.Color.red.name=빨간색 블럭
 //[Reference] 'This a simple test block.'
-staxel.tile.color.Color.test.description=This a simple test block.
+staxel.tile.color.Color.test.description=간단한 테스트용 블럭입니다.
 //[Reference] 'Test Block'
-staxel.tile.color.Color.test.name=Test Block
+staxel.tile.color.Color.test.name=테스트용 블럭
 //[Reference] 'This a simple test stairs block.'
-staxel.tile.color.Color.test.stairs.description=This a simple test stairs block.
+staxel.tile.color.Color.test.stairs.description=간단한 테스트용 계단블럭입니다.
 //[Reference] 'Test Stairs Block'
-staxel.tile.color.Color.test.stairs.name=Test Stairs Block
+staxel.tile.color.Color.test.stairs.name=테스트용 계단 블럭
 //[Reference] 'This a simple white block.'
-staxel.tile.color.Color.white.description=This a simple white block.
+staxel.tile.color.Color.white.description=평범한 하얀색 블럭입니다.
 //[Reference] 'White Block'
-staxel.tile.color.Color.white.name=White Block
+staxel.tile.color.Color.white.name=하얀색 블럭
 //[Reference] 'This a simple yellow block.'
-staxel.tile.color.Color.yellow.description=This a simple yellow block.
+staxel.tile.color.Color.yellow.description=평범한 노란색 블럭입니다.
 //[Reference] 'Yellow Block'
-staxel.tile.color.Color.yellow.name=Yellow Block
+staxel.tile.color.Color.yellow.name=노란색 블럭
 
 //[Reference] 'This grass is purple... how spooky!'
-staxel.tile.creepy.PurpleGrassLayer.1.description=This grass is purple... how spooky!
+staxel.tile.creepy.PurpleGrassLayer.1.description=이 잔디는 보라색이네요... 소름끼쳐!
 //[Reference] 'Purple Grass Block'
-staxel.tile.creepy.PurpleGrassLayer.1.name=Purple Grass Block
+staxel.tile.creepy.PurpleGrassLayer.1.name=보라색 잔디 블럭
 //[Reference] 'This grass is purple... how spooky!'
-staxel.tile.creepy.PurpleGrassLayer.2.description=This grass is purple... how spooky!
+staxel.tile.creepy.PurpleGrassLayer.2.description=이 잔디는 보라색이네요... 소름끼쳐!
 //[Reference] 'Long Purple Grass Block'
-staxel.tile.creepy.PurpleGrassLayer.2.name=Long Purple Grass Block
+staxel.tile.creepy.PurpleGrassLayer.2.name=두꺼운 보라색 잔디 블럭
 
 //[Reference] 'Good, rich soil. Perfect for crop growing.'
-staxel.tile.dirt.Dirt.description=Good, rich soil. Perfect for crop growing.
+staxel.tile.dirt.Dirt.description=기름진 흙입니다. 식물들에게 딱 맞는 흙인것 같은데요?
 //[Reference] 'Dirt Block'
-staxel.tile.dirt.Dirt.name=Dirt Block
+staxel.tile.dirt.Dirt.name=흙 블럭
 //[Reference] 'This dirt block is tilled, ready for crops!'
-staxel.tile.dirt.Dirt.tilled.description=This dirt block is tilled, ready for crops!
+staxel.tile.dirt.Dirt.tilled.description=농사짓기 딱 좋은 잘 갈아진 흙 블럭입니다! 
 //[Reference] 'Tilled Dirt Block'
-staxel.tile.dirt.Dirt.tilled.name=Tilled Dirt Block
+staxel.tile.dirt.Dirt.tilled.name=밭 블럭
 //[Reference] 'This tilled dirt block has been watered.'
-staxel.tile.dirt.Dirt.watered.description=This tilled dirt block has been watered.
+staxel.tile.dirt.Dirt.watered.description=물에 젖은 축축한 밭입니다.
 //[Reference] 'Damp Tilled Dirt Block'
-staxel.tile.dirt.Dirt.watered.name=Damp Tilled Dirt Block
+staxel.tile.dirt.Dirt.watered.name=축축한 밭 블럭
 //[Reference] 'Dirt block border'
-staxel.tile.dirt.DirtBorder2.description=Dirt block border
+staxel.tile.dirt.DirtBorder2.description=흙 블럭의 테두리입니다.
 //[Reference] 'Dirt Border'
-staxel.tile.dirt.DirtBorder2.name=Dirt Border
+staxel.tile.dirt.DirtBorder2.name=흙 테두리
 
 //[Reference] 'A flooring perfect for basements, dungeons or just about any underground building.'
-staxel.tile.dungeon.Dungeon1.description=A flooring perfect for basements, dungeons or just about any underground building.
+staxel.tile.dungeon.Dungeon1.description=던전이나 지하실에 쓰기에 적합한 바닥입니다.
 //[Reference] 'Dungeon Floor'
-staxel.tile.dungeon.Dungeon1.name=Dungeon Floor
+staxel.tile.dungeon.Dungeon1.name=던전 바닥
 //[Reference] 'A neat, sturdy, stone block.'
-staxel.tile.dungeon.DungeonStep.description=A neat, sturdy, stone block.
+staxel.tile.dungeon.DungeonStep.description=깔끔하고 튼튼한 돌 블럭입니다.
 //[Reference] 'Dungeon Stone Block'
-staxel.tile.dungeon.DungeonStep.name=Dungeon Stone Block
+staxel.tile.dungeon.DungeonStep.name=돌로 된 던전 블럭
 //[Reference] 'Dungeon flooring with small tiles and a white trim.'
-staxel.tile.dungeon.Dungeontile1.description=Dungeon flooring with small tiles and a white trim.
+staxel.tile.dungeon.Dungeontile1.description=하얀 테두리와 격자무늬가 함께 있는 던전 바닥입니다.
 //[Reference] 'Trimmed Dungeon Floor'
-staxel.tile.dungeon.Dungeontile1.name=Trimmed Dungeon Floor
+staxel.tile.dungeon.Dungeontile1.name=다듬어진 던전 바닥
 //[Reference] 'Dungeon flooring with a white trim.'
-staxel.tile.dungeon.Dungeontile2.description=Dungeon flooring with a white trim.
+staxel.tile.dungeon.Dungeontile2.description=하얀 테두리가 있는 던전 바닥입니다.
 //[Reference] 'Trimmed Dungeon Floor'
-staxel.tile.dungeon.Dungeontile2.name=Trimmed Dungeon Floor
+staxel.tile.dungeon.Dungeontile2.name=다듬어진 던전 바닥
 //[Reference] 'Thick Dungeon block with a second layer of trim.'
-staxel.tile.dungeon.DungeonWall.description=Thick Dungeon block with a second layer of trim.
+staxel.tile.dungeon.DungeonWall.description=두 개의 층으로 나눠진 격자가 있는 던전 바닥입니다.
 //[Reference] 'Trimmed Dungeon Stone Block'
-staxel.tile.dungeon.DungeonWall.name=Trimmed Dungeon Stone Block
+staxel.tile.dungeon.DungeonWall.name=다듬어진 돌로 된 던전 바닥
 
 //[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
-staxel.tile.fairyVillage.FairyGrassLayer.1.description=Grass grown in the fairy biome. Very soft, pretty and magical!
+staxel.tile.fairyVillage.FairyGrassLayer.1.description=요정나라에서 자란 잔디입니다. 엄청 부드럽고, 예쁘면서도 신기해요!
 //[Reference] 'Pink Fairy Grass Block'
-staxel.tile.fairyVillage.FairyGrassLayer.1.name=Pink Fairy Grass Block
+staxel.tile.fairyVillage.FairyGrassLayer.1.name=분홍색 요정 잔디 블럭
 //[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
-staxel.tile.fairyVillage.FairyGrassLayer.2.description=Grass grown in the fairy biome. Very soft, pretty and magical!
+staxel.tile.fairyVillage.FairyGrassLayer.2.description=요정나라에서 자란 잔디입니다. 엄청 부드럽고, 예쁘면서도 신기해요!
 //[Reference] 'Long Pink Fairy Grass Block'
-staxel.tile.fairyVillage.FairyGrassLayer.2.name=Long Pink Fairy Grass Block
+staxel.tile.fairyVillage.FairyGrassLayer.2.name=두꺼운 분홍색 요정 잔디 블럭
 staxel.tile.grass.ForestGrassLayer.1.description=
 //[Reference] 'Forest Grass Block'
-staxel.tile.grass.ForestGrassLayer.1.name=Forest Grass Block
+staxel.tile.grass.ForestGrassLayer.1.name=숲속 잔디 블럭
 staxel.tile.grass.ForestGrassLayer.2.description=
 //[Reference] 'Long Forest Grass Block'
-staxel.tile.grass.ForestGrassLayer.2.name=Long Forest Grass Block
+staxel.tile.grass.ForestGrassLayer.2.name=두꺼운 숲속 잔디 블럭
 
 //[Reference] 'Soft, green grass.'
-staxel.tile.grass.Grass.description=Soft, green grass.
+staxel.tile.grass.Grass.description=부드러운 초록색 잔디입니다.
 //[Reference] 'Grass Block'
-staxel.tile.grass.Grass.name=Grass Block
+staxel.tile.grass.Grass.name=잔디 블럭
 //[Reference] 'Grass Block Border'
-staxel.tile.grass.GrassBorder2.description=Grass Block Border
+staxel.tile.grass.GrassBorder2.description=잔디 블럭 테두리입니다.
 //[Reference] 'Grass Block Border'
-staxel.tile.grass.GrassBorder2.name=Grass Block Border
+staxel.tile.grass.GrassBorder2.name=잔디 블럭 테두리
 //[Reference] 'Soft, green grass.'
-staxel.tile.grass.GrassLayer.1.description=Soft, green grass.
+staxel.tile.grass.GrassLayer.1.description=부드러운 초록색 잔디입니다.
 //[Reference] 'Green Grass Block'
-staxel.tile.grass.GrassLayer.1.name=Green Grass Block
+staxel.tile.grass.GrassLayer.1.name=초록색 잔디 블럭
 //[Reference] 'Soft, long, green grass.'
-staxel.tile.grass.GrassLayer.2.description=Soft, long, green grass.
+staxel.tile.grass.GrassLayer.2.description=부드럽고 두꺼운 초록색 잔디입니다.
 //[Reference] 'Long Green Grass Block'
-staxel.tile.grass.GrassLayer.2.name=Long Green Grass Block
+staxel.tile.grass.GrassLayer.2.name=두꺼운 초록색 잔디 블럭
 staxel.tile.grass.MeadowGrassLayer.1.description=
 //[Reference] 'Meadow Grass Block'
-staxel.tile.grass.MeadowGrassLayer.1.name=Meadow Grass Block
+staxel.tile.grass.MeadowGrassLayer.1.name=초원 잔디 블럭
 staxel.tile.grass.MeadowGrassLayer.2.description=
 //[Reference] 'Long Meadow Grass Block'
-staxel.tile.grass.MeadowGrassLayer.2.name=Long Meadow Grass Block
+staxel.tile.grass.MeadowGrassLayer.2.name=두꺼운 초원 잔디 블럭
 staxel.tile.happyBlocks.brick.BlueBrick.description=
 //[Reference] 'Blue Brick Block'
-staxel.tile.happyBlocks.brick.BlueBrick.name=Blue Brick Block
+staxel.tile.happyBlocks.brick.BlueBrick.name=파란색 벽돌 블럭
 staxel.tile.happyBlocks.brick.BrownBrick.description=
 //[Reference] 'Brick Block'
-staxel.tile.happyBlocks.brick.BrownBrick.name=Brick Block
+staxel.tile.happyBlocks.brick.BrownBrick.name=벽돌 블럭
 staxel.tile.happyBlocks.brick.CreamBrick.description=
 //[Reference] 'Cream Brick Block'
-staxel.tile.happyBlocks.brick.CreamBrick.name=Cream Brick Block
+staxel.tile.happyBlocks.brick.CreamBrick.name=흐린 노란색 벽돌 블럭
 staxel.tile.happyBlocks.brick.GreenBrick.description=
 //[Reference] 'Green Brick Block'
-staxel.tile.happyBlocks.brick.GreenBrick.name=Green Brick Block
+staxel.tile.happyBlocks.brick.GreenBrick.name=초록색 벽돌 블럭
 staxel.tile.happyBlocks.brick.GreyBrick.description=
 //[Reference] 'Grey Brick Block'
-staxel.tile.happyBlocks.brick.GreyBrick.name=Grey Brick Block
+staxel.tile.happyBlocks.brick.GreyBrick.name=회색 벽돌 블럭
 staxel.tile.happyBlocks.brick.OrangeBrick.description=
 //[Reference] 'Orange Brick Block'
-staxel.tile.happyBlocks.brick.OrangeBrick.name=Orange Brick Block
+staxel.tile.happyBlocks.brick.OrangeBrick.name=주황색 벽돌 블럭
 staxel.tile.happyBlocks.brick.PinkBrick.description=
 //[Reference] 'Pink Brick Block'
-staxel.tile.happyBlocks.brick.PinkBrick.name=Pink Brick Block
+staxel.tile.happyBlocks.brick.PinkBrick.name=분홍색 벽돌 블럭
 staxel.tile.happyBlocks.brick.PurpleBrick.description=
 //[Reference] 'Purple Brick Block'
-staxel.tile.happyBlocks.brick.PurpleBrick.name=Purple Brick Block
+staxel.tile.happyBlocks.brick.PurpleBrick.name=보라색 벽돌 블럭
 staxel.tile.happyBlocks.brick.RedBrick.description=
 //[Reference] 'Red Brick Block'
-staxel.tile.happyBlocks.brick.RedBrick.name=Red Brick Block
+staxel.tile.happyBlocks.brick.RedBrick.name=빨간색 벽돌 블럭
 staxel.tile.happyBlocks.brick.YellowBrick.description=
 //[Reference] 'Yellow Brick Block'
-staxel.tile.happyBlocks.brick.YellowBrick.name=Yellow Brick Block
+staxel.tile.happyBlocks.brick.YellowBrick.name=노란색 벽돌 블럭
 staxel.tile.happyBlocks.carpet.BlueCheckerCarpet.description=
 //[Reference] 'Blue Checker Carpet'
-staxel.tile.happyBlocks.carpet.BlueCheckerCarpet.name=Blue Checker Carpet
+staxel.tile.happyBlocks.carpet.BlueCheckerCarpet.name=파란 격자무늬 양탄자
 staxel.tile.happyBlocks.carpet.BlueDotCarpet.description=
 //[Reference] 'Blue Dot Carpet'
-staxel.tile.happyBlocks.carpet.BlueDotCarpet.name=Blue Dot Carpet
+staxel.tile.happyBlocks.carpet.BlueDotCarpet.name=파란 도트무늬 양탄자
 staxel.tile.happyBlocks.carpet.GreenCheckerCarpet.description=
 //[Reference] 'Green Checker Carpet'
-staxel.tile.happyBlocks.carpet.GreenCheckerCarpet.name=Green Checker Carpet
+staxel.tile.happyBlocks.carpet.GreenCheckerCarpet.name=초록 격자무늬 양탄자
 staxel.tile.happyBlocks.carpet.GreenDotCarpet.description=
 //[Reference] 'Green Dot Carpet'
-staxel.tile.happyBlocks.carpet.GreenDotCarpet.name=Green Dot Carpet
+staxel.tile.happyBlocks.carpet.GreenDotCarpet.name=초록 도트무늬 양탄자
 staxel.tile.happyBlocks.carpet.PinkCheckerCarpet.description=
 //[Reference] 'Pink Checker Carpet'
-staxel.tile.happyBlocks.carpet.PinkCheckerCarpet.name=Pink Checker Carpet
+staxel.tile.happyBlocks.carpet.PinkCheckerCarpet.name=분홍 격자무늬 양탄자
 staxel.tile.happyBlocks.carpet.PinkDotCarpet.description=
 //[Reference] 'Pink Dot Carpet'
-staxel.tile.happyBlocks.carpet.PinkDotCarpet.name=Pink Dot Carpet
+staxel.tile.happyBlocks.carpet.PinkDotCarpet.name=분홍 도트무늬 양탄자
 staxel.tile.happyBlocks.carpet.YellowCheckerCarpet.description=
 //[Reference] 'Yellow Checker Carpet'
-staxel.tile.happyBlocks.carpet.YellowCheckerCarpet.name=Yellow Checker Carpet
+staxel.tile.happyBlocks.carpet.YellowCheckerCarpet.name=노란 격자무늬 양탄자
 staxel.tile.happyBlocks.carpet.YellowDotCarpet.description=
 //[Reference] 'Yellow Dot Carpet'
-staxel.tile.happyBlocks.carpet.YellowDotCarpet.name=Yellow Dot Carpet
+staxel.tile.happyBlocks.carpet.YellowDotCarpet.name=노란 도트무늬 양탄자
 staxel.tile.happyBlocks.pathing.PlazaBlock.2.description=
 //[Reference] 'Plaza Block'
-staxel.tile.happyBlocks.pathing.PlazaBlock.2.name=Plaza Block
+staxel.tile.happyBlocks.pathing.PlazaBlock.2.name=광장 블럭
 staxel.tile.happyBlocks.pathing.PlazaBlock.description=
 //[Reference] 'Large Tile Plaza Block'
-staxel.tile.happyBlocks.pathing.PlazaBlock.name=Large Tile Plaza Block
+staxel.tile.happyBlocks.pathing.PlazaBlock.name=큰 광장 블럭
 staxel.tile.happyBlocks.PlazaBlock.2.description=
 //[Reference] 'Plaza Block'
-staxel.tile.happyBlocks.PlazaBlock.2.name=Plaza Block
+staxel.tile.happyBlocks.PlazaBlock.2.name=광장 블럭
 staxel.tile.happyBlocks.PlazaBlock.description=
 //[Reference] 'Large Tile Plaza Block'
-staxel.tile.happyBlocks.PlazaBlock.name=Large Tile Plaza Block
+staxel.tile.happyBlocks.PlazaBlock.name=큰 격자무늬 광장 블럭
 staxel.tile.happyBlocks.stone.BlueStone.description=
 //[Reference] 'Blue Stone Block'
-staxel.tile.happyBlocks.stone.BlueStone.name=Blue Stone Block
+staxel.tile.happyBlocks.stone.BlueStone.name=파란색 돌 블럭
 staxel.tile.happyBlocks.stone.BrownStone.description=
 //[Reference] 'Brown Stone Block'
-staxel.tile.happyBlocks.stone.BrownStone.name=Brown Stone Block
+staxel.tile.happyBlocks.stone.BrownStone.name=갈색 돌 블럭
 staxel.tile.happyBlocks.stone.CreamStone.description=
 //[Reference] 'Cream Stone Block'
-staxel.tile.happyBlocks.stone.CreamStone.name=Cream Stone Block
+staxel.tile.happyBlocks.stone.CreamStone.name=흐린 노란색 돌 블럭
 staxel.tile.happyBlocks.stone.greenStone.description=
 //[Reference] 'Green Stone Block'
-staxel.tile.happyBlocks.stone.greenStone.name=Green Stone Block
+staxel.tile.happyBlocks.stone.greenStone.name=초록색 돌 블럭
 staxel.tile.happyBlocks.stone.OrangeStone.description=
 //[Reference] 'Orange Stone Block'
-staxel.tile.happyBlocks.stone.OrangeStone.name=Orange Stone Block
+staxel.tile.happyBlocks.stone.OrangeStone.name=주황색 돌 블럭
 staxel.tile.happyBlocks.stone.PinkStone.description=
 //[Reference] 'Pink Stone Block'
-staxel.tile.happyBlocks.stone.PinkStone.name=Pink Stone Block
+staxel.tile.happyBlocks.stone.PinkStone.name=분홍색 돌 블럭
 staxel.tile.happyBlocks.stone.PurpleStone.description=
 //[Reference] 'Purple Stone Block'
-staxel.tile.happyBlocks.stone.PurpleStone.name=Purple Stone Block
+staxel.tile.happyBlocks.stone.PurpleStone.name=보라색 돌 블럭
 staxel.tile.happyBlocks.stone.RedStone.description=
 //[Reference] 'Red Stone Block'
-staxel.tile.happyBlocks.stone.RedStone.name=Red Stone Block
+staxel.tile.happyBlocks.stone.RedStone.name=빨간색 돌 블럭
 staxel.tile.happyBlocks.stone.WhiteStone.description=
 //[Reference] 'White Stone Block'
-staxel.tile.happyBlocks.stone.WhiteStone.name=White Stone Block
+staxel.tile.happyBlocks.stone.WhiteStone.name=하얀색 돌 블럭
 staxel.tile.happyBlocks.stone.YellowStone.description=
 //[Reference] 'Yellow Stone Block'
-staxel.tile.happyBlocks.stone.YellowStone.name=Yellow Stone Block
+staxel.tile.happyBlocks.stone.YellowStone.name=노란색 돌 블럭
 staxel.tile.happyBlocks.wood.BlueWood.description=
 //[Reference] 'Blue Wood Block'
-staxel.tile.happyBlocks.wood.BlueWood.name=Blue Wood Block
+staxel.tile.happyBlocks.wood.BlueWood.name=파란색 나무 블럭
 staxel.tile.happyBlocks.wood.BrownWood.description=
 //[Reference] 'Brown Wood Block'
-staxel.tile.happyBlocks.wood.BrownWood.name=Brown Wood Block
+staxel.tile.happyBlocks.wood.BrownWood.name=갈색 나무 블럭
 staxel.tile.happyBlocks.wood.CreamWood.description=
 //[Reference] 'Cream Wood Block'
-staxel.tile.happyBlocks.wood.CreamWood.name=Cream Wood Block
+staxel.tile.happyBlocks.wood.CreamWood.name=흐린 노란색 나무 블럭
 staxel.tile.happyBlocks.wood.DarkTexturedWood.description=
 //[Reference] 'Dark Textured Wood Block'
-staxel.tile.happyBlocks.wood.DarkTexturedWood.name=Dark Textured Wood Block
+staxel.tile.happyBlocks.wood.DarkTexturedWood.name=어두운 나무 기둥
 staxel.tile.happyBlocks.wood.GreenWood.description=
 //[Reference] 'Green Wood Block'
-staxel.tile.happyBlocks.wood.GreenWood.name=Green Wood Block
+staxel.tile.happyBlocks.wood.GreenWood.name=초록색 나무 블럭
 staxel.tile.happyBlocks.wood.GreyWood.description=
 //[Reference] 'Gray Wood Block'
-staxel.tile.happyBlocks.wood.GreyWood.name=Gray Wood Block
+staxel.tile.happyBlocks.wood.GreyWood.name=회색 나무 블럭
 staxel.tile.happyBlocks.wood.LightTexturedWood.description=
 //[Reference] 'Light Textured Wood Block'
-staxel.tile.happyBlocks.wood.LightTexturedWood.name=Light Textured Wood Block
+staxel.tile.happyBlocks.wood.LightTexturedWood.name=밝은 나무 기둥
 staxel.tile.happyBlocks.wood.MediumTexturedWood.description=
 //[Reference] 'Medium Textured Wood Block'
-staxel.tile.happyBlocks.wood.MediumTexturedWood.name=Medium Textured Wood Block
+staxel.tile.happyBlocks.wood.MediumTexturedWood.name=나무 기둥
 staxel.tile.happyBlocks.wood.OrangeWood.description=
 //[Reference] 'Orange Wood Block'
-staxel.tile.happyBlocks.wood.OrangeWood.name=Orange Wood Block
+staxel.tile.happyBlocks.wood.OrangeWood.name=주황색 나무 블럭
 staxel.tile.happyBlocks.wood.PinkWood.description=
 //[Reference] 'Pink Wood Block'
-staxel.tile.happyBlocks.wood.PinkWood.name=Pink Wood Block
+staxel.tile.happyBlocks.wood.PinkWood.name=분홍색 나무 블럭
 staxel.tile.happyBlocks.wood.PurpleWood.description=
 //[Reference] 'Purple Wood Block'
-staxel.tile.happyBlocks.wood.PurpleWood.name=Purple Wood Block
+staxel.tile.happyBlocks.wood.PurpleWood.name=보라색 나무 블럭
 staxel.tile.happyBlocks.wood.RedWood.description=
 //[Reference] 'Red Wood Block'
-staxel.tile.happyBlocks.wood.RedWood.name=Red Wood Block
+staxel.tile.happyBlocks.wood.RedWood.name=빨간색 나무 블럭
 staxel.tile.happyBlocks.wood.TexturedWood.description=
 //[Reference] 'Textured Wood Block'
-staxel.tile.happyBlocks.wood.TexturedWood.name=Textured Wood Block
+staxel.tile.happyBlocks.wood.TexturedWood.name=덜 어두운 나무 기둥
 staxel.tile.happyBlocks.wood.YellowWood.description=
 //[Reference] 'Yellow Wood Block'
-staxel.tile.happyBlocks.wood.YellowWood.name=Yellow Wood Block
+staxel.tile.happyBlocks.wood.YellowWood.name=노란색 나무 블럭
 
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.1.description=Healthy, bright green leaves.
+staxel.tile.leaves.Leaf.1.description=건강하고 밝은 녹색 잎 블럭입니다.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.1.name=Green Leaf Block
+staxel.tile.leaves.Leaf.1.name=녹색 잎 블럭
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.2.description=Healthy, bright green leaves.
+staxel.tile.leaves.Leaf.2.description=건강하고 밝은 녹색 잎 블럭입니다.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.2.name=Green Leaf Block
+staxel.tile.leaves.Leaf.2.name=녹색 잎 블럭
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.3.description=Healthy, bright green leaves.
+staxel.tile.leaves.Leaf.3.description=건강하고 밝은 녹색 잎 블럭입니다.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.3.name=Green Leaf Block
+staxel.tile.leaves.Leaf.3.name=녹색 잎 블럭
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.4.description=Healthy, bright green leaves.
+staxel.tile.leaves.Leaf.4.description=건강하고 밝은 녹색 잎 블럭입니다.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.4.name=Green Leaf Block
+staxel.tile.leaves.Leaf.4.name=녹색 잎 블럭
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.5.description=Healthy, bright green leaves.
+staxel.tile.leaves.Leaf.5.description=건강하고 밝은 녹색 잎 블럭입니다.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.5.name=Green Leaf Block
+staxel.tile.leaves.Leaf.5.name=녹색 잎 블럭
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.6.description=Healthy, bright green leaves.
+staxel.tile.leaves.Leaf.6.description=건강하고 밝은 녹색 잎 블럭입니다.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.6.name=Green Leaf Block
+staxel.tile.leaves.Leaf.6.name=녹색 잎 블럭
 //[Reference] 'Healthy, bright green leaves.'
-staxel.tile.leaves.Leaf.7.description=Healthy, bright green leaves.
+staxel.tile.leaves.Leaf.7.description=건강하고 밝은 녹색 잎 블럭입니다.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.7.name=Green Leaf Block
+staxel.tile.leaves.Leaf.7.name=초록 잎 블럭
 //[Reference] 'Leaves grown in the fairy biome. Soft pink leaves!'
-staxel.tile.leaves.Leaf.Fairy.description=Leaves grown in the fairy biome. Soft pink leaves!
+staxel.tile.leaves.Leaf.Fairy.description=요정나라에서 자란 분홍색 잎입니다. 부드러워요!
 //[Reference] 'Pink Fairy Leaf Block'
-staxel.tile.leaves.Leaf.Fairy.name=Pink Fairy Leaf Block
+staxel.tile.leaves.Leaf.Fairy.name=분홍 요정 잎 블럭
 staxel.tile.leaves.Leaf.Forest.description=
 //[Reference] 'Forest Leaf Block'
-staxel.tile.leaves.Leaf.Forest.name=Forest Leaf Block
+staxel.tile.leaves.Leaf.Forest.name=숲속 잎사귀 블럭
 
 //[Reference] 'This grass looks dead!'
-staxel.tile.lighthouse.Grass.dry.description=This grass looks dead!
+staxel.tile.lighthouse.Grass.dry.description=이 잔디는 죽은것 같아요!
 //[Reference] 'Long Grass'
-staxel.tile.lighthouse.Grass.dry.name=Long Grass
+staxel.tile.lighthouse.Grass.dry.name=지저분한 잔디
 //[Reference] 'An overgrown tuft of grass.'
-staxel.tile.lighthouse.Grass.long.1.description=An overgrown tuft of grass.
+staxel.tile.lighthouse.Grass.long.1.description=관리가 되지 않아 길게 자란 잔디입니다.
 //[Reference] 'Long Grass'
-staxel.tile.lighthouse.Grass.long.1.name=Long Grass
+staxel.tile.lighthouse.Grass.long.1.name=지저분한 잔디
 //[Reference] 'An overgrown tuft of grass.'
-staxel.tile.lighthouse.Grass.long.2.description=An overgrown tuft of grass.
+staxel.tile.lighthouse.Grass.long.2.description=관리가 되지 않아 길게 자란 잔디입니다.
 //[Reference] 'Long Grass'
-staxel.tile.lighthouse.Grass.long.2.name=Long Grass
+staxel.tile.lighthouse.Grass.long.2.name=지저분한 잔디
 //[Reference] 'An overgrown tuft of grass.'
-staxel.tile.lighthouse.Grass.long.dry.description=An overgrown tuft of grass.
+staxel.tile.lighthouse.Grass.long.dry.description=관리가 되지 않아 길게 자란 잔디입니다.
 //[Reference] 'Long Grass'
-staxel.tile.lighthouse.Grass.long.dry.name=Long Grass
+staxel.tile.lighthouse.Grass.long.dry.name=지저분한 잔디
 //[Reference] 'An overgrown tuft of grass.'
-staxel.tile.lighthouse.Grass.veryLong.description=An overgrown tuft of grass.
+staxel.tile.lighthouse.Grass.veryLong.description=관리가 되지 않아 길게 자란 잔디입니다.
 //[Reference] 'Long Grass'
-staxel.tile.lighthouse.Grass.veryLong.name=Long Grass
+staxel.tile.lighthouse.Grass.veryLong.name=지저분한 잔디
 //[Reference] 'This block has some engravings carved into it.'
-staxel.tile.lighthouse.Lighthouse.innerWall.description=This block has some engravings carved into it.
+staxel.tile.lighthouse.Lighthouse.innerWall.description=조각이 새겨져 있는 블럭입니다.
 //[Reference] 'Engraved White Brick Block'
-staxel.tile.lighthouse.Lighthouse.innerWall.name=Engraved White Brick Block
+staxel.tile.lighthouse.Lighthouse.innerWall.name=조각이 새겨진 하얀색 블럭
 //[Reference] 'A white block with a diamond shape on it.'
-staxel.tile.lighthouse.LighthouseLamp.description=A white block with a diamond shape on it.
+staxel.tile.lighthouse.LighthouseLamp.description=다이아몬드 무늬의 하얀색 블럭입니다.
 //[Reference] 'White Brick Block'
-staxel.tile.lighthouse.LighthouseLamp.name=White Brick Block
+staxel.tile.lighthouse.LighthouseLamp.name=하얀색 벽돌 블럭
 //[Reference] 'A solid metal block'
-staxel.tile.lighthouse.MetalGridFloor.description=A solid metal block
+staxel.tile.lighthouse.MetalGridFloor.description=단단한 철 블럭입니다.
 //[Reference] 'Metal Grid Block'
-staxel.tile.lighthouse.MetalGridFloor.name=Metal Grid Block
+staxel.tile.lighthouse.MetalGridFloor.name=격자무늬 철 블럭
 //[Reference] 'A painted red wall'
-staxel.tile.lighthouse.PaintedBrick.red.description=A painted red wall
+staxel.tile.lighthouse.PaintedBrick.red.description=빨간 페인트가 칠해진 벽입니다.
 //[Reference] 'Red Painted Brick Block'
-staxel.tile.lighthouse.PaintedBrick.red.name=Red Painted Brick Block
+staxel.tile.lighthouse.PaintedBrick.red.name=빨간 페인트 벽돌 블럭
 //[Reference] 'A painted white wall'
-staxel.tile.lighthouse.PaintedBrick.white.description=A painted white wall
+staxel.tile.lighthouse.PaintedBrick.white.description=하얀 페인트가 칠해진 벽입니다.
 //[Reference] 'White Painted Brick Block'
-staxel.tile.lighthouse.PaintedBrick.white.name=White Painted Brick Block
+staxel.tile.lighthouse.PaintedBrick.white.name=하얀 페인트 벽돌 블럭
 //[Reference] 'A small stone. Very common.'
-staxel.tile.lighthouse.Stone.small.description=A small stone. Very common.
+staxel.tile.lighthouse.Stone.small.description=작고 흔한 돌입니다.
 //[Reference] 'Small Stone'
-staxel.tile.lighthouse.Stone.small.name=Small Stone
+staxel.tile.lighthouse.Stone.small.name=작은 돌
 
 //[Reference] 'A rough cobblestone block, great for outdoor pathing.'
-staxel.tile.newVillage.CobbleStonePath.description=A rough cobblestone block, great for outdoor pathing.
+staxel.tile.newVillage.CobbleStonePath.description=바깥 길로 쓰기 적당한 울퉁불퉁한 조약돌 블럭입니다.
 //[Reference] 'Cobblestone Path'
-staxel.tile.newVillage.CobbleStonePath.name=Cobblestone Path
+staxel.tile.newVillage.CobbleStonePath.name=조약돌 길바닥
 staxel.tile.newVillage.CobbleStonePath2.description=
 //[Reference] 'Cobblestone Path'
-staxel.tile.newVillage.CobbleStonePath2.name=Cobblestone Path
+staxel.tile.newVillage.CobbleStonePath2.name=조약돌 길바닥
 staxel.tile.newVillage.CobbleStonePath3.description=
 //[Reference] 'Cobblestone Path'
-staxel.tile.newVillage.CobbleStonePath3.name=Cobblestone Path
+staxel.tile.newVillage.CobbleStonePath3.name=조약돌 길바닥
 staxel.tile.newVillage.CobbleStonePath4.description=
 //[Reference] 'Cobblestone Path'
-staxel.tile.newVillage.CobbleStonePath4.name=Cobblestone Path
+staxel.tile.newVillage.CobbleStonePath4.name=조약돌 길바닥
 //[Reference] 'A white brick block. Very standard style.'
-staxel.tile.newVillage.Homebrick.description=A white brick block. Very standard style.
+staxel.tile.newVillage.Homebrick.description=흔한 하얀 벽돌입니다.
 //[Reference] 'White Brick Block'
-staxel.tile.newVillage.Homebrick.name=White Brick Block
+staxel.tile.newVillage.Homebrick.name=하얀색 벽돌 블럭
 //[Reference] 'Quality wooden flooring. Made from a light brown wood.'
-staxel.tile.newVillage.IndoorFlooring.description=Quality wooden flooring. Made from a light brown wood.
+staxel.tile.newVillage.IndoorFlooring.description=연한 갈색 나무로 만들어진 고급 목재바닥입니다.
 //[Reference] 'Wooden Plank Flooring'
-staxel.tile.newVillage.IndoorFlooring.name=Wooden Plank Flooring
+staxel.tile.newVillage.IndoorFlooring.name=나무 판자 바닥
 //[Reference] 'A block made from light wooden planks.'
-staxel.tile.newVillage.LightWoodenBlock.description=A block made from light wooden planks.
+staxel.tile.newVillage.LightWoodenBlock.description=밝은 색 나무판자로 만든 블럭입니다.
 //[Reference] 'Light Wooden Plank Block'
-staxel.tile.newVillage.LightWoodenBlock.name=Light Wooden Plank Block
+staxel.tile.newVillage.LightWoodenBlock.name=밝은색 나무 판자 블럭
 //[Reference] 'White floor tile with an elegant design.'
-staxel.tile.newVillage.Pathway.stone.2.description=White floor tile with an elegant design.
+staxel.tile.newVillage.Pathway.stone.2.description=세련된 디자인의 하얀색 바닥재입니다.
 //[Reference] 'White Brick Pathway'
-staxel.tile.newVillage.Pathway.stone.2.name=White Brick Pathway
+staxel.tile.newVillage.Pathway.stone.2.name=하얀색 벽돌 길
 //[Reference] 'A white floor tile with a simple design.'
-staxel.tile.newVillage.Pathway.stone.description=A white floor tile with a simple design.
+staxel.tile.newVillage.Pathway.stone.description=간단한 디자인의 하얀색 바닥재입니다.
 //[Reference] 'White Brick Pathway'
-staxel.tile.newVillage.Pathway.stone.name=White Brick Pathway
+staxel.tile.newVillage.Pathway.stone.name=하얀색 벽돌 길
 //[Reference] 'Very thick and soft. It looks so comfortable, you could probably sleep on it!'
-staxel.tile.newVillage.PinkCarpet.description=Very thick and soft. It looks so comfortable, you could probably sleep on it!
+staxel.tile.newVillage.PinkCarpet.description=푹신푹신하고 높아서 편안해 보입니다. 이 위에서 잘 수 있을 것만 같아요!
 //[Reference] 'Pink Carpet Flooring'
-staxel.tile.newVillage.PinkCarpet.name=Pink Carpet Flooring
+staxel.tile.newVillage.PinkCarpet.name=분홍 양탄자 바닥
 //[Reference] 'A very rough stone pathway which has a rustic charm to it. Great for the outdoors!'
-staxel.tile.newVillage.RoughStonePathway.description=A very rough stone pathway which has a rustic charm to it. Great for the outdoors!
+staxel.tile.newVillage.RoughStonePathway.description=소박한 매력이 있는 울퉁불퉁한 돌 길바닥입니다.
 //[Reference] 'Rough Stone Pathway'
-staxel.tile.newVillage.RoughStonePathway.name=Rough Stone Pathway
+staxel.tile.newVillage.RoughStonePathway.name=울퉁불퉁한 돌 길바닥
 //[Reference] 'A crude looking brick block.'
-staxel.tile.newVillage.ShoddyWall.description=A crude looking brick block.
+staxel.tile.newVillage.ShoddyWall.description=조잡해보이는 벽돌 블럭입니다.
 //[Reference] 'Shoddy Brick Block'
-staxel.tile.newVillage.ShoddyWall.name=Shoddy Brick Block
+staxel.tile.newVillage.ShoddyWall.name=조잡한 벽돌 블럭
 staxel.tile.newVillage.ShopFlooring.description=
 //[Reference] 'Shop Flooring'
-staxel.tile.newVillage.ShopFlooring.name=Shop Flooring
+staxel.tile.newVillage.ShopFlooring.name=가게 바닥
 staxel.tile.newVillage.ShopRoof.description=
 //[Reference] 'Shop Roof'
-staxel.tile.newVillage.ShopRoof.name=Shop Roof
+staxel.tile.newVillage.ShopRoof.name=가게 천장
 staxel.tile.newVillage.ShopWall1.description=
 
 //[Reference] 'Blue Shop Wall'
-staxel.tile.newVillage.ShopWall1.name=Blue Shop Wall
+staxel.tile.newVillage.ShopWall1.name=파란색 가게 벽
 staxel.tile.newVillage.ShopWall2.description=
 //[Reference] 'Light Blue Shop Wall'
-staxel.tile.newVillage.ShopWall2.name=Light Blue Shop Wall
+staxel.tile.newVillage.ShopWall2.name=하늘색 가게 벽
 //[Reference] 'Thatch makes for a great roof!'
-staxel.tile.newVillage.ThatchBlock.description=Thatch makes for a great roof!
+staxel.tile.newVillage.ThatchBlock.description=지푸라기는 좋은 지붕이 될수 있죠!
 //[Reference] 'Thatch Block'
-staxel.tile.newVillage.ThatchBlock.name=Thatch Block
+staxel.tile.newVillage.ThatchBlock.name=지푸라기 지붕
 //[Reference] 'A thick wooden beam block. A great way to add a touch of coziness to a structure'
-staxel.tile.newVillage.WoodBeamTile.description=A thick wooden beam block. A great way to add a touch of coziness to a structure
+staxel.tile.newVillage.WoodBeamTile.description=두꺼운 나무조각 블럭, 남는 나무조각들을 붙혔습니다. 건물에 아늑함을 더할 수 있습니다.
 //[Reference] 'Wooden Beam Block'
-staxel.tile.newVillage.WoodBeamTile.name=Wooden Beam Block
+staxel.tile.newVillage.WoodBeamTile.name=나무조각 블럭
 //[Reference] 'A good wooden block to use both outdoors and in!'
-staxel.tile.newVillage.WoodenDecking.description=A good wooden block to use both outdoors and in!
+staxel.tile.newVillage.WoodenDecking.description=밖에서도 안에서도 유용히 쓸 수 있는 나무로된 바닥입니다!
 //[Reference] 'Dark Wooden Plank Flooring'
-staxel.tile.newVillage.WoodenDecking.name=Dark Wooden Plank Flooring
+staxel.tile.newVillage.WoodenDecking.name=어두운 나무 판자 바닥
 staxel.tile.ocean.OceanTile.description=
 //[Reference] 'Ocean Block'
-staxel.tile.ocean.OceanTile.name=Ocean Block
+staxel.tile.ocean.OceanTile.name=바닷물
 
 //[Reference] 'A block with a deep black colour. Very mysterious!'
-staxel.tile.retrotest.darkstone.description=A block with a deep black colour. Very mysterious!
+staxel.tile.retrotest.darkstone.description=엄청 어두운 색의 블럭입니다. 신비로워요!
 //[Reference] 'Darkstone Block'
-staxel.tile.retrotest.darkstone.name=Darkstone Block
+staxel.tile.retrotest.darkstone.name=검은 돌 블럭
 //[Reference] 'A block with a deep black colour. This darkstone block also has a golden trim.'
-staxel.tile.retrotest.darkstone_gold.description=A block with a deep black colour. This darkstone block also has a golden trim.
+staxel.tile.retrotest.darkstone_gold.description=금색 테두리가 둘러 쌓여있는 엄청 어두운 색의 블럭입니다.
 //[Reference] 'Gold Trimmed Darkstone Block'
-staxel.tile.retrotest.darkstone_gold.name=Gold Trimmed Darkstone Block
+staxel.tile.retrotest.darkstone_gold.name=금색 테두리의 검은 돌 블럭
 //[Reference] 'A block with a deep black colour. Very mysterious!'
-staxel.tile.retrotest.darkstone_plain.description=A block with a deep black colour. Very mysterious!
+staxel.tile.retrotest.darkstone_plain.description=엄청 어두운 색의 블럭입니다. 신비로워요!
 //[Reference] 'Darkstone Block'
-staxel.tile.retrotest.darkstone_plain.name=Darkstone Block
+staxel.tile.retrotest.darkstone_plain.name=검은 돌 블럭
 //[Reference] 'A dirt block with a melody symbol engraved on it.'
-staxel.tile.retrotest.dirtmelody.description=A dirt block with a melody symbol engraved on it.
+staxel.tile.retrotest.dirtmelody.description=흙 블럭에 음표 기호가 새겨져있습니다.
 //[Reference] 'Dirt Melody'
-staxel.tile.retrotest.dirtmelody.name=Dirt Melody
+staxel.tile.retrotest.dirtmelody.name=음표가 새겨진 흙 블럭
 //[Reference] 'A block with an ancient feel to it. Made up from big, brown bricks.'
-staxel.tile.retrotest.dungeon_brown_brick.description=A block with an ancient feel to it. Made up from big, brown bricks.
+staxel.tile.retrotest.dungeon_brown_brick.description=오래 전 느낌이 나는 큰 갈색의 벽돌입니다.
 //[Reference] 'Brown Dungeon Brick Block'
-staxel.tile.retrotest.dungeon_brown_brick.name=Brown Dungeon Brick Block
+staxel.tile.retrotest.dungeon_brown_brick.name=갈색 던전 벽돌 블럭
 //[Reference] 'A block made up from fine brown bricks.'
-staxel.tile.retrotest.dungeon_brown_cobblestone.description=A block made up from fine brown bricks.
+staxel.tile.retrotest.dungeon_brown_cobblestone.description=고른 갈색 벽돌들로 만들어진 블럭입니다.
 //[Reference] 'Brown Cobblestone Block'
-staxel.tile.retrotest.dungeon_brown_cobblestone.name=Brown Cobblestone Block
+staxel.tile.retrotest.dungeon_brown_cobblestone.name=갈색 조약돌 블럭
 //[Reference] 'A shoddy looking pillar.'
-staxel.tile.retrotest.dungeon_brown_pillar.description=A shoddy looking pillar.
+staxel.tile.retrotest.dungeon_brown_pillar.description=조잡해보이는 기둥입니다.
 //[Reference] 'Brown Pillar'
-staxel.tile.retrotest.dungeon_brown_pillar.name=Brown Pillar
+staxel.tile.retrotest.dungeon_brown_pillar.name=갈색 기둥
 //[Reference] 'An old looking blue block. This looks like it would be found in an ancient dungeon.'
-staxel.tile.retrotest.dungeon_floor.description=An old looking blue block. This looks like it would be found in an ancient dungeon.
+staxel.tile.retrotest.dungeon_floor.description=오래된 던전에서나 볼법한 오래된 파란색 블럭입니다.
 //[Reference] 'Blue Cobblestone Block'
-staxel.tile.retrotest.dungeon_floor.name=Blue Cobblestone Block
+staxel.tile.retrotest.dungeon_floor.name=파란색 조약돌 블럭
 //[Reference] 'This is a dungeon flooring block. Usually used for underground rooms.'
-staxel.tile.retrotest.dungeon_floor_brick.description=This is a dungeon flooring block. Usually used for underground rooms.
+staxel.tile.retrotest.dungeon_floor_brick.description=보통 지하의 방에 자주 쓰이는 던전 바닥 블럭입니다.
 //[Reference] 'Blue Dungeon Brick Block'
-staxel.tile.retrotest.dungeon_floor_brick.name=Blue Dungeon Brick Block
+staxel.tile.retrotest.dungeon_floor_brick.name=파란색 던전 벽돌 블럭
 //[Reference] 'A dungeon flooring block with a skull engraved into it. Could add the perfect touch of spookiness to any room!'
-staxel.tile.retrotest.dungeon_floor_skull.description=A dungeon flooring block with a skull engraved into it. Could add the perfect touch of spookiness to any room!
+staxel.tile.retrotest.dungeon_floor_skull.description=해골이 새겨진 던전 바닥입니다. 어떤 방이든 섬뜩하게 만들어주죠!
 //[Reference] 'Skull Engraved Blue Brick Block'
-staxel.tile.retrotest.dungeon_floor_skull.name=Skull Engraved Blue Brick Block
+staxel.tile.retrotest.dungeon_floor_skull.name=해골이 새겨진 파란색 벽돌 블럭
 //[Reference] 'A shoddy looking pillar.'
-staxel.tile.retrotest.dungeon_pillar_blue.description=A shoddy looking pillar.
+staxel.tile.retrotest.dungeon_pillar_blue.description=조잡해보이는 기둥입니다.
 //[Reference] 'Blue Pillar'
-staxel.tile.retrotest.dungeon_pillar_blue.name=Blue Pillar
+staxel.tile.retrotest.dungeon_pillar_blue.name=파란색 기둥
 //[Reference] 'A simple, light brown block. It may be plain but it's a great way to balance out a room!'
-staxel.tile.retrotest.dungeon_staircase.description=A simple, light brown block. It may be plain but it's a great way to balance out a room!
+staxel.tile.retrotest.dungeon_staircase.description=간단한 밝은 갈색 계열의 블럭입니다. 단순하지만 미의 균형을 맞추는데는 이만한게 없죠!
 //[Reference] 'Light Brown Brick Block'
-staxel.tile.retrotest.dungeon_staircase.name=Light Brown Brick Block
+staxel.tile.retrotest.dungeon_staircase.name=밝은 갈색 벽돌 블럭
 //[Reference] 'A simple, light brown block. It may be plain but it's a great way to balance out a room!'
-staxel.tile.retrotest.dungeon_staircase_alternate.description=A simple, light brown block. It may be plain but it's a great way to balance out a room!
+staxel.tile.retrotest.dungeon_staircase_alternate.description=간단한 밝은 갈색 계열의 블럭입니다. 단순하지만 미의 균형을 맞추는데는 이만한게 없죠!
 //[Reference] 'Light Brown Brick Block'
-staxel.tile.retrotest.dungeon_staircase_alternate.name=Light Brown Brick Block
+staxel.tile.retrotest.dungeon_staircase_alternate.name=밝은 갈색 벽돌 블럭
 //[Reference] 'A solid block of liquid.'
-staxel.tile.retrotest.water.description=A solid block of liquid.
+staxel.tile.retrotest.water.description=액체지만 흐르지 않습니다. 얼리엑세스라서...
 //[Reference] 'Water Block'
-staxel.tile.retrotest.water.name=Water Block
+staxel.tile.retrotest.water.name=물 블럭
 
-//[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.1.description=A solid stone block. Usually mined and broken down into smaller chunks of stone.
+//[Reference] '딱딱한 돌 블럭이다. 보통 채굴되면 작은 조각으로 부서진다..?
+staxel.tile.rock.Rock.1.description=돌 블럭입니다. 부수면 작은 돌로 나뉘어 쪼개집니다.
 //[Reference] 'Stone Block'
-staxel.tile.rock.Rock.1.name=Stone Block
+staxel.tile.rock.Rock.1.name=돌 블럭
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.2.description=A solid stone block. Usually mined and broken down into smaller chunks of stone.
+staxel.tile.rock.Rock.2.description=돌 블럭입니다. 부수면 작은 돌로 나뉘어 쪼개집니다.
 //[Reference] 'Stone Block'
-staxel.tile.rock.Rock.2.name=Stone Block
+staxel.tile.rock.Rock.2.name=돌 블럭
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.3.description=A solid stone block. Usually mined and broken down into smaller chunks of stone.
+staxel.tile.rock.Rock.3.description=돌 블럭입니다. 부수면 작은 돌로 나뉘어 쪼개집니다.
 //[Reference] 'Stone Block'
-staxel.tile.rock.Rock.3.name=Stone Block
+staxel.tile.rock.Rock.3.name=돌 블럭
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.4.description=A solid stone block. Usually mined and broken down into smaller chunks of stone.
+staxel.tile.rock.Rock.4.description=돌 블럭입니다. 부수면 작은 돌로 나뉘어 쪼개집니다..
 //[Reference] 'Stone Block'
-staxel.tile.rock.Rock.4.name=Stone Block
+staxel.tile.rock.Rock.4.name=돌 블럭
 //[Reference] 'A solid stone block. Usually mined and broken down into smaller chunks of stone.'
-staxel.tile.rock.Rock.5.description=A solid stone block. Usually mined and broken down into smaller chunks of stone.
+staxel.tile.rock.Rock.5.description=돌 블럭입니다. 부수면 작은 돌로 나뉘어 쪼개집니다.
 //[Reference] 'Mossy Stone Block'
-staxel.tile.rock.Rock.5.name=Mossy Stone Block
+staxel.tile.rock.Rock.5.name=이끼가 낀 돌 블럭
 staxel.tile.rock.Rock.snow.1.description=
 //[Reference] 'Snow Covered Stone Block'
-staxel.tile.rock.Rock.snow.1.name=Snow Covered Stone Block
+staxel.tile.rock.Rock.snow.1.name=눈이 쌓인 돌 블럭
 
 //[Reference] 'This block is made up of a very fine sand.'
-staxel.tile.sand.Sand.beach.description=This block is made up of a very fine sand.
+staxel.tile.sand.Sand.beach.description=엄청 고운 모래로 이루어져 있습니다.
 //[Reference] 'Sand Block'
-staxel.tile.sand.Sand.beach.name=Sand Block
+staxel.tile.sand.Sand.beach.name=모래 블럭
 //[Reference] 'This block is made up of a very fine sand.'
-staxel.tile.sand.Sand.desert.description=This block is made up of a very fine sand.
+staxel.tile.sand.Sand.desert.description=엄청 고운 모래로 이루어져 있습니다.
 //[Reference] 'Sand Block'
-staxel.tile.sand.Sand.desert.name=Sand Block
+staxel.tile.sand.Sand.desert.name=모래 블럭
 staxel.tile.Sky.description=
 //[Reference] 'Sky'
-staxel.tile.Sky.name=Sky
+staxel.tile.Sky.name=하늘
 
 //[Reference] 'A tall pillar with ancient writing carved into it. I wonder what it says?'
-staxel.tile.temple.AztecPillar.description=A tall pillar with ancient writing carved into it. I wonder what it says?
+staxel.tile.temple.AztecPillar.description=고대의 글자가 쓰여있는 큰 기둥입니다. 뭐라고 쓰여있을까요?
 //[Reference] 'Aztec Pillar'
-staxel.tile.temple.AztecPillar.name=Aztec Pillar
+staxel.tile.temple.AztecPillar.name=고대 유적 기둥
 //[Reference] 'Can be chopped into the wood resource which is used in crafting.'
-staxel.tile.temple.BasicWood.description=Can be chopped into the wood resource which is used in crafting.
+staxel.tile.temple.BasicWood.description=벨수 있는 나무입니다. 베어서 무언가를 만드는데 쓸수 있습니다.
 //[Reference] 'Wood Block'
-staxel.tile.temple.BasicWood.name=Wood Block
+staxel.tile.temple.BasicWood.name=나무 블럭
 //[Reference] 'White stone brick. Seems to be very old!'
-staxel.tile.temple.Brick.description=White stone brick. Seems to be very old!
+staxel.tile.temple.Brick.description=하얀색 벽돌입니다. 매우 오래 된것 같아요!
 //[Reference] 'White stone brick which is overgrown with moss. Looks to be incredibly old.'
-staxel.tile.temple.Brick.mossy.description=White stone brick which is overgrown with moss. Looks to be incredibly old.
+staxel.tile.temple.Brick.mossy.description=엄청 오래되서 이끼가 많이 낀 하얀색 벽돌입니다.
 //[Reference] 'Mossy White Aztec Brick Block'
-staxel.tile.temple.Brick.mossy.name=Mossy White Aztec Brick Block
+staxel.tile.temple.Brick.mossy.name=이끼가 낀 하얀색 고대 유적 벽돌 블럭
 //[Reference] 'White Aztec Brick Block'
-staxel.tile.temple.Brick.name=White Aztec Brick Block
+staxel.tile.temple.Brick.name=하얀색 고대 유적 벽돌 블럭
 //[Reference] 'An ancient block with some strange writing carved into it.'
-staxel.tile.temple.InnerWall.description=An ancient block with some strange writing carved into it.
+staxel.tile.temple.InnerWall.description=고대의 글자가 쓰여있는 블럭입니다.
 //[Reference] 'Aztec Engraving Block'
-staxel.tile.temple.InnerWall.name=Aztec Engraving Block
+staxel.tile.temple.InnerWall.name=글이 새겨진 고대 유적 블럭
 //[Reference] 'A very strange leafy block. It's very soft.'
-staxel.tile.temple.LeafyTile.description=A very strange leafy block. It's very soft.
+staxel.tile.temple.LeafyTile.description=이상한 잎 블럭입니다. 엄청 폭신해요!
 //[Reference] 'Dark Green Leaf Block'
-staxel.tile.temple.LeafyTile.name=Dark Green Leaf Block
-//[Reference] 'A solid block of liquid.'
-staxel.tile.temple.Water.description=A solid block of liquid.
+staxel.tile.temple.LeafyTile.name=짙은 녹색 잎 블럭
+//[Reference] 'A solid block of liquid.(액체의 고체블럭????)'
+staxel.tile.temple.Water.description=액체지만 흐르지 않습니다. 얼리엑세스라서...
 //[Reference] 'Water Block'
-staxel.tile.temple.Water.name=Water Block
+staxel.tile.temple.Water.name=물 블럭
 staxel.tile.water.PondWater.description=
 
 //[Reference] 'Pond Water'
-staxel.tile.water.PondWater.name=Pond Water
+staxel.tile.water.PondWater.name=연못 물
 
 //[Reference] 'Flooring block made out of wicker. Belongs to the 'Wicker Set'.'
-staxel.tile.wicker.WickerFloorTile.description=Flooring block made out of wicker. Belongs to the 'Wicker Set'.
+staxel.tile.wicker.WickerFloorTile.description=지푸라기로 만든 바닥. '지푸라기 세트'중 하나입니다.
 //[Reference] 'Wicker Flooring'
-staxel.tile.wicker.WickerFloorTile.name=Wicker Flooring
+staxel.tile.wicker.WickerFloorTile.name=지푸라기로 만든 바닥
 
 //[Reference] 'Can be chopped into the wood resource which is used in crafting.'
-staxel.tile.wood.BasicWood.description=Can be chopped into the wood resource which is used in crafting.
+staxel.tile.wood.BasicWood.description=벨수 있는 나무입니다. 베어서 무언가를 만드는데 쓸수 있습니다.
 //[Reference] 'Wood Block'
-staxel.tile.wood.BasicWood.name=Wood Block
+staxel.tile.wood.BasicWood.name=나무 블럭
 staxel.tile.wood.ForestWood.description=
 //[Reference] 'Forest Wood Block'
-staxel.tile.wood.ForestWood.name=Forest Wood Block
+staxel.tile.wood.ForestWood.name=숲속 나무 블럭
 //[Reference] 'A quality flooring block of lightly coloured wooden planks.'
-staxel.tile.wood.WoodPlankTile.description=A quality flooring block of lightly coloured wooden planks.
+staxel.tile.wood.WoodPlankTile.description=밝은 색 나무 판자로 만든 바닥입니다.
 //[Reference] 'White Wooden Plank Flooring'
-staxel.tile.wood.WoodPlankTile.name=White Wooden Plank Flooring
+staxel.tile.wood.WoodPlankTile.name=하얀색 나무 판자 바닥
 //[Reference] 'A block of quality wooden planking.'
-staxel.tile.wood.WoodPlankWall.description=A block of quality wooden planking.
+staxel.tile.wood.WoodPlankWall.description=고급 나무 판자로 만든 블럭입니다.
 //[Reference] 'White Wooden Plank Block'
-staxel.tile.wood.WoodPlankWall.name=White Wooden Plank Block
+staxel.tile.wood.WoodPlankWall.name=하얀색 나무 판자 블럭
