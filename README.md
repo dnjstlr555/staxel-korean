@@ -2,7 +2,7 @@
 ## tileobject_ko_KR.lang<br>
 0 600 Line >  SuRang<br>
 600 1200 Line > SexyKang<br>
-
+1200 1800 Line > Candy<br>
 # Guideline
 ## 꼭!! 게임이랑 확인하며 번역
 속도는 많이 느려지겠지만 최고의 번역을 하려면 이게 제일 중요합니다. <br>
