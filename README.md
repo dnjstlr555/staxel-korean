@@ -1,7 +1,7 @@
 # staxel-korean
 ## tileobject_ko_KR.lang<br>
-0~600Line -> SuRang<br>
-600~1200Line -> SexyKang<br>
+0 600 Line >  SuRang<br>
+600 1200 Line > SexyKang<br>
 
 # Guideline
 ## 꼭!! 게임이랑 확인하며 번역
