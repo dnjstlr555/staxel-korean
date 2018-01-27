@@ -3,3 +3,5 @@ Mayor -> 이장님 <br>
 farm -> 농장 <br>
 tavern -> 여관 <br>
 supermarket -> 상점 <br>
+block -> 블럭 <br>
+(色)orange -> 주황<br>
