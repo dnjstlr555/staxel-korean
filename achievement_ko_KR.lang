@@ -1,3 +1,4 @@
+//[Reference] '아이템 등 이름이 아직 합의가 나지 않았으니 도전과제는 수정하지 말아주세요'
 language.code=ko-KR
 language=한국어
 //[Reference] 'Bugs can be sold for money.'
@@ -13,9 +14,9 @@ staxel.achievement.Catch100Bug.description=
 //[Reference] 'Catch 100 Bugs'
 staxel.achievement.Catch100Bug.name=
 //[Reference] 'Them's good eating!'
-staxel.achievement.Catch100Fish.description=
+staxel.achievement.Catch100Fish.description=잘도 잡히는군!
 //[Reference] 'Catch 100 Fish'
-staxel.achievement.Catch100Fish.name=Catch 100 Fish
+staxel.achievement.Catch100Fish.name=물고기 100마리 낚기
 //[Reference] 'Use a bug net.'
 staxel.achievement.CatchBug.description=잠자리채로 벌레를 잡으세요.
 //[Reference] 'Catch a Bug'
@@ -265,7 +266,7 @@ staxel.achievement.SellItem.description=Sell one of your freshly harvested crops
 //[Reference] 'Sell a crop'
 staxel.achievement.SellItem.name=Sell a crop
 //[Reference] 'Shear a Sheep. Don't worry, they'll be fine!'
-staxel.achievement.ShearSheep.description=양털을 깎으세요. 걱정마요, 양들은 괜찮을거예요!
+staxel.achievement.ShearSheep.description=양털을 깎으세요. 걱정은 마세요, 양들은 괜찮을거예요!
 //[Reference] 'Shear a Sheep'
 staxel.achievement.ShearSheep.name=양털 깎기
 //[Reference] 'Rev up those shears!'
@@ -279,11 +280,11 @@ staxel.achievement.SweepBall.name=SweepBall
 //[Reference] 'Use right click or left trigger to talk to her.'
 staxel.achievement.TalkFarmFan.description=오른쪽 클릭이나 left trigger로 말을 거세요.
 //[Reference] 'Talk to Farm Fan'
-staxel.achievement.TalkFarmFan.name=파무팡과 대화하기
+staxel.achievement.TalkFarmFan.name=Farm Fan과 대화하기
 //[Reference] 'Throw a ball for your pet. They'll fetch it if they're following you!'
 staxel.achievement.ThrowBall.description=Throw a ball for your pet. They'll fetch it if they're following you!
 //[Reference] 'Throw a Ball'
-staxel.achievement.ThrowBall.name=Throw a Ball
+staxel.achievement.ThrowBall.name=공 던지기
 //[Reference] 'Tick the circle in the recipe menu to get an overlay.'
 staxel.achievement.UseRecipeOverlay.description=Tick the circle in the recipe menu to get an overlay.
 //[Reference] 'Use Recipe Overlay'
@@ -291,7 +292,7 @@ staxel.achievement.UseRecipeOverlay.name=Use Recipe Overlay
 //[Reference] 'Use the watering can to water a crop.'
 staxel.achievement.WaterCrop.description=Use the watering can to water a crop.
 //[Reference] 'Water a crop'
-staxel.achievement.WaterCrop.name=Water a crop
+staxel.achievement.WaterCrop.name=농작물에 물 주기
 //[Reference] 'Use a wardrobe to change your clothing'
 staxel.achievements.changeClothing=Use a wardrobe to change your clothing
 //[Reference] 'Charge a tool all the way'
