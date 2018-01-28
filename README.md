@@ -32,10 +32,10 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] accessories_ko_KR.lang
 - [ ] achievement_ko_KR.lang
 - [ ] Barkeep_ko_KR.lang
-- [ ] BarkeepRumour_ko_KR.lang
+- [X] BarkeepRumour_ko_KR.lang -> Artist_Nau
 - [ ] BarkeepTheft_ko_KR.lang
 - [ ] BarkeepWorkPlaceMissing_ko_KR.lang
-- [ ] BugCatcherJob_ko_KR.lang
+- [ ] BugCatcherJob_ko_KR.lang -> Dalrae
 - [ ] CaithFisher_ko_KR.lang
 - [ ] CaithFisherRumour_ko_KR.lang
 - [ ] Caithgirl_ko_KR.lang
