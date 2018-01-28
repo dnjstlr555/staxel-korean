@@ -1,4 +1,4 @@
-﻿//[Reference] 'en-GB'
+//[Reference] 'en-GB'
 language.code=ko-KR
 
 //[Reference] 'English'
@@ -22,9 +22,9 @@ staxel.village.dialogue.Tutorial.line:10000600=네! 저에요!
 //[Reference] 'No...'
 staxel.village.dialogue.Tutorial.line:10000700=아닌데요...
 //[Reference] 'Nice to see you again!'
-staxel.village.dialogue.Tutorial.line:10000800=또다시 만났구나!
+staxel.village.dialogue.Tutorial.line:10000800=오! 반가워!
 //[Reference] 'Doing well?'
-staxel.village.dialogue.Tutorial.line:10000900=뭔일은 없지?
+staxel.village.dialogue.Tutorial.line:10000900=뭔일 없지?
 //[Reference] 'No? Hmm... are you sure about that?'
 staxel.village.dialogue.Tutorial.line:10001100=아니라고? 음... 확실해?
 //[Reference] 'Oh well, I guess this must be a pleasant surprise then?'
@@ -32,7 +32,7 @@ staxel.village.dialogue.Tutorial.line:10001200=하하하. 지금 나 놀래켜�
 //[Reference] 'Excellent! Just as I thought!'
 staxel.village.dialogue.Tutorial.line:10001300=역시 그렇지?
 //[Reference] 'Glad to hear it!'
-staxel.village.dialogue.Tutorial.line:10001350=다행이다! 그럴꺼라고 생각했어! 
+staxel.village.dialogue.Tutorial.line:10001350=다행이다! 그럴꺼라고 생각했어!
 //[Reference] 'First, I'll take you on a brief tour of the village.'
 staxel.village.dialogue.Tutorial.line:10001900=우선 먼저 우리 마을에 대해 간단하게 소개해줄께.
 //[Reference] 'Then we'll head over to the farm.'
@@ -85,11 +85,11 @@ staxel.village.dialogue.Tutorial.line:10003570=아참, 가는 김에 마을과 �
 //[Reference] 'It's this way!'
 staxel.village.dialogue.Tutorial.line:10003600=이쪽이야!
 //[Reference] 'So here it is - your new home!'
-staxel.village.dialogue.Tutorial.line:10004600=도착했네. 여기가 너의 새 집이야!
+staxel.village.dialogue.Tutorial.line:10004600=도착했네. 여기가 너의 새로운 집이야!
 //[Reference] 'It might be a bit daunting at first, but you'll settle in.'
 staxel.village.dialogue.Tutorial.line:10004700=처음에는 조금 불편하겠지만, 금방 내집처럼 편안해질꺼야.
 //[Reference] 'You're a little ways outside the village compared to the rest of us.'
-staxel.village.dialogue.Tutorial.line:10004800=여기는 마을에서 조금 떨어져 있는 외로운 곳이긴 하지만 
+staxel.village.dialogue.Tutorial.line:10004800=여기는 마을에서 조금 떨어져 있는 외로운 곳이긴 하지만
 //[Reference] 'Hopefully your pet should keep you from feeling too lonely once it arrives!'
 staxel.village.dialogue.Tutorial.line:10005000=애완동물이 오면 그렇게 외롭지는 않을 거야!
 //[Reference] 'If not, we're just down the road and always happy to chat.'
@@ -103,171 +103,172 @@ staxel.village.dialogue.Tutorial.line:10005400=^c:d03e37;괭이^c:pop;로 땅을
 //[Reference] 'If you ^c:d03e37;hold down the button^c:pop;, you can ^c:d03e37;charge^c:pop; to till a larger area!'
 staxel.village.dialogue.Tutorial.line:10005500=^c:d03e37;마우스 왼쪽 버튼을 꾹 누르고 있으면 ^c:pop;^c:d03e37;힘을 모아서^c:pop;, 한꺼번에 넓은 땅을 갈 수 있어!
 //[Reference] 'Give it a shot and plant the ^c:d03e37;seeds^c:pop; I gave you earlier.'
-staxel.village.dialogue.Tutorial.line:10005600=내가 아까 너에게 준 ^c:d03e37;씨앗^c:pop;을 시험삼아 심어봐..
+staxel.village.dialogue.Tutorial.line:10005600=아까 내가 준 ^c:d03e37;씨앗^c:pop;을 시험삼아 심어봐.
 //[Reference] 'If you lost them, you can buy some more from one of the merchants!'
 staxel.village.dialogue.Tutorial.line:10005700=아까 준 씨앗을 잃어버렸어? 그러면 상인한테서 다시 살 수 있어!
 //[Reference] 'Have you planted any ^c:d03e37;seeds^c:pop; yet?'
 staxel.village.dialogue.Tutorial.line:10005800=^c:d03e37;씨앗^c:pop;은 심어봤니?
 //[Reference] 'I gave you some earlier, remember?'
-staxel.village.dialogue.Tutorial.line:10005900=아까 준 씨앗,기억해?
+staxel.village.dialogue.Tutorial.line:10005900=아까 준 씨앗 있잖아. 기억나?
 //[Reference] 'The merchants in the ^c:1486b0;square^c:pop; sell them otherwise!'
 staxel.village.dialogue.Tutorial.line:10005910=^c:1486b0;광장^c:pop;에 있는 상인으로부터도 살수있어!
 //[Reference] 'Good job!'
 staxel.village.dialogue.Tutorial.line:10006000=잘했어!
 //[Reference] 'Here's a little something to celebrate your success!'
-staxel.village.dialogue.Tutorial.line:10006100=이 성공의 기념으로, 선물을 줄게!
+staxel.village.dialogue.Tutorial.line:10006100=축하의 의미로, 작은 선물을 줄게!
 //[Reference] 'You can use the ^c:d03e37;watering can^c:pop; to water your crops.'
-staxel.village.dialogue.Tutorial.line:10006200=^c:d03e37;물뿌리개^c:pop;를 쓰면은,농작물에 물을 줄수가 있어.
+staxel.village.dialogue.Tutorial.line:10006200=^c:d03e37;물뿌리개^c:pop;를 쓰면 식물에 물을 줄 수 있어.
 //[Reference] 'If you don't water them every day, they'll start to wither.'
-staxel.village.dialogue.Tutorial.line:10006300=매일 물을 주지않으면, 농작물은 시들어져.
+staxel.village.dialogue.Tutorial.line:10006300=매일 물을 주지않으면, 그만큼 식물은 시들어져 가게 돼.
 //[Reference] 'Withered crops won't grow!'
-staxel.village.dialogue.Tutorial.line:10006400=농작물은 시들면 자라지않아!
+staxel.village.dialogue.Tutorial.line:10006400=농작물은 시든 이상 자라지 않게 되니 조심해야해!
 //[Reference] 'Go on, give it a shot!'
-staxel.village.dialogue.Tutorial.line:10006500=자,시도해봐!
+staxel.village.dialogue.Tutorial.line:10006500=자, 한번해봐!
 //[Reference] 'Looks like you've got the hang of it!'
-staxel.village.dialogue.Tutorial.line:10006600=아무래도 요령이 잡혔나보네.
+staxel.village.dialogue.Tutorial.line:10006600=아무래도 요령이 잡혔나보네!
 //[Reference] 'Here, another reward.'
-staxel.village.dialogue.Tutorial.line:10006700=네,또 선물 받으세요.
+staxel.village.dialogue.Tutorial.line:10006700=네, 또 선물 받으세요.
 //[Reference] 'Hmm...'
-staxel.village.dialogue.Tutorial.line:10006710=흠...
+staxel.village.dialogue.Tutorial.line:10006710=그나저나...
 //[Reference] 'I think it's going to take quite a while for the crop to grow...'
-staxel.village.dialogue.Tutorial.line:10006720=이 농작물이 자라기에는 꽤 시간이 걸릴꺼라고 생각해...
+staxel.village.dialogue.Tutorial.line:10006720=이 식물이 자라려면 언제까지 기다려야될까?
 //[Reference] 'In fact, I'm already starting to feel a bit thirsty!'
-staxel.village.dialogue.Tutorial.line:10006730=사실은,조금 목이 마르기 시작했어!
+staxel.village.dialogue.Tutorial.line:10006730=솔직히 말하면, 조금 목이 마르기 시작했어.
 //[Reference] 'Could you take this note to ^c:1486b0;{0-bar_name}^c:pop; and bring me back something to drink?'
-staxel.village.dialogue.Tutorial.line:10006740=이 메모를^c:1486b0;{0-bar_name}^c:pop;에게 주고,뭔가 마실것을 받고 와주지 않을래?
+staxel.village.dialogue.Tutorial.line:10006740=이 메모를 ^c:1486b0;{0-bar_name}^c:pop;씨에게 전달하고, 뭔가 마실것을 가지고 와주지 않을래?
 //[Reference] 'Might be good to see if he has any tasks for you while you're at it!'
-staxel.village.dialogue.Tutorial.line:10006750=그대신에,그에게 도와줄것이 없냐고 물어보는게 좋을꺼야!
+staxel.village.dialogue.Tutorial.line:10006750=그대신 로완씨가 뭔가를 부탁할지도 모르거든. 로완씨를 잘 도와드려줘.
 //[Reference] 'I'll be waiting right here when you get back!'
 staxel.village.dialogue.Tutorial.line:10006760=나는 여기서 기다릴게!
 //[Reference] 'Still not done helping ^c:1486b0;Rowan^c:pop; out?'
-staxel.village.dialogue.Tutorial.line:10006782=^c:1486b0;로완^c:pop의 심부름은 끝났니?
+staxel.village.dialogue.Tutorial.line:10006782=^c:1486b0;로완^c:pop씨의 심부름은 끝났니?
 //[Reference] 'I'm getting thirstier by the minute!'
-staxel.village.dialogue.Tutorial.line:10006783=목이 점점 목말라오네!
+staxel.village.dialogue.Tutorial.line:10006783=목이 점점 말라오고 있어!
 //[Reference] 'Those plants don't look very wet to me...'
-staxel.village.dialogue.Tutorial.line:10006800=농작물에 제대로 물을 주지 않은거같아...
+staxel.village.dialogue.Tutorial.line:10006800=식물에게 물을 제대로 주고 와줘...
 //[Reference] 'Hm? So where's my ^c:d03e37;sap^c:pop;?'
-staxel.village.dialogue.Tutorial.line:10006810=응? 나의^c:d03e37;サップ^c:pop;는?
+staxel.village.dialogue.Tutorial.line:10006810=응? 내 ^c:d03e37;고로쇠표 꽃물^c:pop;은?
 //[Reference] 'You don't have it?!'
-staxel.village.dialogue.Tutorial.line:10006815=안갖고있어?!
+staxel.village.dialogue.Tutorial.line:10006815=없다고?
 //[Reference] '^c:1486b0;Rowan^c:pop; assured you that this was all you needed?!'
-staxel.village.dialogue.Tutorial.line:10006820=필요한것은 이것뿐,이라구^c:1486b0;로완^c:pop;이?!
+staxel.village.dialogue.Tutorial.line:10006820=필요한것은 이것뿐... 이라구, ^c:1486b0;로완^c:pop;씨가?!
 //[Reference] 'Oh.'
-staxel.village.dialogue.Tutorial.line:10006823=그래.
+staxel.village.dialogue.Tutorial.line:10006823=으음...
 //[Reference] 'By the way... is... is that ^c:d03e37;letter^c:pop; for me?'
-staxel.village.dialogue.Tutorial.line:10006825=어,어쨌든...이것은 나에게로 온^c:d03e37;편지^c:pop;?
+staxel.village.dialogue.Tutorial.line:10006825=어, 어쨌든...이건 뭐야. ^c:d03e37;편지^c:pop;?
 //[Reference] 'Let me just take it off you.'
-staxel.village.dialogue.Tutorial.line:10006826=그럼 받을게.
+staxel.village.dialogue.Tutorial.line:10006826=이리 줘봐.
 //[Reference] '...'
 staxel.village.dialogue.Tutorial.line:10006827=...
 //[Reference] 'Well now... he didn't have to be so blunt about it.'
-staxel.village.dialogue.Tutorial.line:10006828=정말로...실례되는사람이라니까.
+staxel.village.dialogue.Tutorial.line:10006828=정말로... 이렇게 굴 필요는 없는데.
 //[Reference] 'Oh well. Nothing for it I guess...'
-staxel.village.dialogue.Tutorial.line:10006830=후우,어쩔수없네...
+staxel.village.dialogue.Tutorial.line:10006830=후우, 어쩔수없네...
 //[Reference] 'You're lucky I'm a kind-hearted person or I might have withheld your pet in retaliation!'
-staxel.village.dialogue.Tutorial.line:10006840=내가 마음이 상냥한 인물이어서 다행이네.그렇지않으면,애완동물을 넘기지 않았을지도 모르잖아!
+staxel.village.dialogue.Tutorial.line:10006840=내가 마음이 상냥한 사람이어서 다행인줄 알아. 그렇지 않으면, 애완동물을 넘기지 않았을지도 모르거든!
 //[Reference] 'There you go!'
-staxel.village.dialogue.Tutorial.line:10006850=네.여기요!
+staxel.village.dialogue.Tutorial.line:10006850=자, 여기!
 //[Reference] 'I suppose I should teach you how to properly place the ^c:d03e37;pet house^c:pop; too!'
-staxel.village.dialogue.Tutorial.line:10006860=그거랑,^c:d03e37;애완동물 집^c:pop;을 바르게 설치하는 방법도 가르쳐줄게!
+staxel.village.dialogue.Tutorial.line:10006860=^c:d03e37;애완동물 집^c:pop;을 잘 두는 방법도 알려줄게.
 //[Reference] 'A ^c:d03e37;hammer^c:pop; might be useful here just in case you place it incorrectly and want to adjust!'
-staxel.village.dialogue.Tutorial.line:10006862=잘 설치 안됬을때에는,^c:d03e37;망치^c:pop;를 쓰면은 고치는게 가능해!
+staxel.village.dialogue.Tutorial.line:10006862=잘 안둬졌을때에는, ^c:d03e37;망치^c:pop;를 써서 고칠수 있어!
 //[Reference] 'You can place the ^c:d03e37;pet house^c:pop; in a similar way to using a tool.'
-staxel.village.dialogue.Tutorial.line:10006864=도구를 쓸때와 똑같이^c:d03e37;애완동물 집^c:pop;을 설치할수있어.
+staxel.village.dialogue.Tutorial.line:10006864=망치로 ^c:d03e37;애완동물 집^c:pop;을 부셔서 다시 둘수있거든.
 //[Reference] 'If you ^c:d03e37;hold down the button^c:pop;, you can ^c:d03e37;rotate^c:pop; to get it to face the way you want before placing!'
-staxel.village.dialogue.Tutorial.line:10006866=^c:d03e37;버튼을 누르고^c:pop;있으면,^c:d03e37;돌려서^c:pop;원하는 방향으로 설치할수있어!
+staxel.village.dialogue.Tutorial.line:10006866=또 이걸 둘때 ^c:d03e37;마우스 왼쪽 버튼을 누른 상태로^c:pop; ^c:d03e37;스크롤을 돌려서^c:pop; 원하는 방향으로 설치할수있어!
 //[Reference] 'Go on, try it out!'
-staxel.village.dialogue.Tutorial.line:10006868=자,해보라구!
+staxel.village.dialogue.Tutorial.line:10006868=자, 해보라구!
 //[Reference] 'Ah! Good job!'
 staxel.village.dialogue.Tutorial.line:10006870=응! 잘하네!
 //[Reference] 'Are you sure you're happy with that rotation?'
-staxel.village.dialogue.Tutorial.line:10006871=그 방향이 좋아?
+staxel.village.dialogue.Tutorial.line:10006871=그쪽 방향이 좋아?
 //[Reference] 'Remember, if you change your mind, you can use the ^c:d03e37;hammer^c:pop; to break it!'
-staxel.village.dialogue.Tutorial.line:10006872=설치를 다시하고 싶을 때에는,^c:d03e37;망치^c:pop;를 쓰면은 부실수있으니까 기억해두라구!
+staxel.village.dialogue.Tutorial.line:10006872=생각이 바뀌었을때에는, ^c:d03e37;망치^c:pop;를 쓰면 부실수있다는걸 꼭 기억해둬!
 //[Reference] 'The pet will be safely stored until you place it again!'
-staxel.village.dialogue.Tutorial.line:10006874=애완동물은 다시 설치하는 동안,안전하게 보관된다고!
+staxel.village.dialogue.Tutorial.line:10006874=애완동물은 다시 설치하는 동안, 안전하게 보관되니까 걱정마!
 //[Reference] 'If you ^c:d03e37;hold down the button while placing^c:pop;, you can ^c:d03e37;rotate^c:pop; it first!'
-staxel.village.dialogue.Tutorial.line:10006875=^c:d03e37;두고있는 동안에 버튼을 누르고있으면은^c:pop;,^c:d03e37;돌릴^c:pop;수가 있어
+staxel.village.dialogue.Tutorial.line:10006875=이때도 ^c:d03e37;마우스 왼쪽 버튼을 누른 상태로^c:pop; ^c:d03e37;스크롤을 돌려서^c:pop; 원하는 방향으로 둘 수 있어!
 //[Reference] 'Well? What are you waiting for?'
-staxel.village.dialogue.Tutorial.line:10006876=왜 그래? 작업을 계속하자.
+staxel.village.dialogue.Tutorial.line:10006876=왜 그래?
 //[Reference] 'Go ahead and place your ^c:d03e37;pet house^c:pop; so you can meet your new pet!'
-staxel.village.dialogue.Tutorial.line:10006878=^c:d03e37;애완동물 집^c:pop;을 지어서,새로운 애완동물에게 만날 준비를 하는거야!
+staxel.village.dialogue.Tutorial.line:10006878=어서 ^c:d03e37;애완동물 집^c:pop;을 지어봐. 새로운 애완동물과 만날 준비를 해야지!
 //[Reference] '^c:d03e37;Holding down the button^c:pop; during placement will let you ^c:d03e37;rotate^c:pop; it just right!'
-staxel.village.dialogue.Tutorial.line:10006880=설치작업중에^c:d03e37;버튼을 누르고^c:pop;있고,올바른 방향으로^c:d03e37;돌^c:pop;려봐!
+staxel.village.dialogue.Tutorial.line:10006880=^c:d03e37;마우스 왼쪽 버튼을 누른^c:pop;상태로, 스크롤을 돌려서 원하는 방향으로 ^c:d03e37;돌려봐!^c:pop;
 //[Reference] 'Your pet is going to get hungry pretty quickly by the way.'
-staxel.village.dialogue.Tutorial.line:10006900=그나저나,당신의 애완동물은 곧 배를 굶을꺼야.
+staxel.village.dialogue.Tutorial.line:10006900=그나저나, 네 애완동물은 지금 꽤 배가 고플꺼야.
 //[Reference] 'Hmm? Who might you be?'
 staxel.village.dialogue.Tutorial.line:10006974=응? 누구세요?
 //[Reference] 'I think it might be a good idea to stock up on some ^c:d03e37;pet food^c:pop; when you can.'
-staxel.village.dialogue.Tutorial.line:10007000=가능 할 때에^c:d03e37;애완동물 먹이^c:pop;를 사와두면 안심이지.
+staxel.village.dialogue.Tutorial.line:10007000=가능 할 때 ^c:d03e37;애완동물 먹이^c:pop;를 미리 사두면 안심이지.
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] '^c:1486b0;{0-playername}^c:pop; you say?'
 staxel.village.dialogue.Tutorial.line:10007074={0-playername}？
 //[Reference] 'The ^c:1486b0;supermarket^c:pop; sells many of the things you need for everyday life.'
-staxel.village.dialogue.Tutorial.line:10007100=^c:1486b0;슈퍼마켓^c:pop;이라면,그러한 일용품을 사는 것이 가능할꺼야.
+staxel.village.dialogue.Tutorial.line:10007100=^c:1486b0;상점^c:pop;에서 이런 여러가지 유용한 물건들을 살수 있으니 기억해둬!
 //[Reference] 'Let me see... doesn't look like you're on my list!'
 staxel.village.dialogue.Tutorial.line:10007174=어디보자...당신의 이름은 나의 목록에 실려있지 않나보네!
 //[Reference] 'I'd check there.'
-staxel.village.dialogue.Tutorial.line:10007200=나도 잘 간다구.
+staxel.village.dialogue.Tutorial.line:10007200=나도 종종 들른다구.
 //[Reference] 'I'm guessing you're a friend of the farm's new owner?'
 staxel.village.dialogue.Tutorial.line:10007274=혹시,새로운 목장주씨의 친구이려나?
 //[Reference] 'For now, you can place the ^c:d03e37;bowl^c:pop; you got earlier and fill that.'
-staxel.village.dialogue.Tutorial.line:10007300=일단,아까 얻은^c:d03e37;먹이 그릇^c:pop;을 두고,먹이를 넣어보자.
+staxel.village.dialogue.Tutorial.line:10007300=어찌됬건, 아까 준 ^c:d03e37;먹이 그릇^c:pop;을 두고, 먹이를 먹이를 채워 보자.
 //[Reference] 'Welcome to the village! I hope you enjoy your stay!'
 staxel.village.dialogue.Tutorial.line:10007374=마을에 어서와! 즐겼다가라구!
 //[Reference] '...'
 staxel.village.dialogue.Tutorial.line:10007378=…
 //[Reference] 'Still here?'
-staxel.village.dialogue.Tutorial.line:10007382=まだここに？
-//[Reference] 'Well I guess I could give you a small welcome pacakge...'
+staxel.village.dialogue.Tutorial.line:10007382=아직도?
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Well I guess I could give you a small welcome package...'
 staxel.village.dialogue.Tutorial.line:10007386=그러면,작은 환영 선물을 줄게...
 //[Reference] 'Just don't go telling anyone about this...'
 staxel.village.dialogue.Tutorial.line:10007388=이 일은 아무에게도 알려주지 말아줘...
 //[Reference] 'Let me know once it's done!'
-staxel.village.dialogue.Tutorial.line:10007400=끝난다면 알려줘!
+staxel.village.dialogue.Tutorial.line:10007400=끝날때 알려줘!
 //[Reference] 'Great! Now your pet should be good for a while!'
-staxel.village.dialogue.Tutorial.line:10007500=완벽해! 이걸로 애완동물은 잠시동안 괜찮겠네!
+staxel.village.dialogue.Tutorial.line:10007500=완벽해! 이걸로 한동안 네 애완동물은 괜찮을꺼야.
 //[Reference] 'Hmm...'
-staxel.village.dialogue.Tutorial.line:10007600=흠...
+staxel.village.dialogue.Tutorial.line:10007600=그런데...
 //[Reference] 'You know what? I'm tired of waiting on that crop...'
-staxel.village.dialogue.Tutorial.line:10007650=저기말야.그 농작물이 자라는것을 기다리는것에 지쳤어...
+staxel.village.dialogue.Tutorial.line:10007650=있잖아. 식물은 도대체 언제쯤 다 자랄까?
 //[Reference] 'I want to see a ^c:d03e37;bowl^c:pop; filled to the brim with ^c:d03e37;pet food^c:pop;.'
-staxel.village.dialogue.Tutorial.line:10007700=^c:d03e37;먹이 그릇^c:pop;을^c:d03e37;애완동물 먹이^c:pop;로 가득 채워줘.
+staxel.village.dialogue.Tutorial.line:10007700=^c:d03e37;먹이 그릇^c:pop;을 ^c:d03e37;애완동물 먹이^c:pop;로 가득 채워줘.
 //[Reference] 'The ^c:1486b0;supermarket^c:pop; should sell them.'
-staxel.village.dialogue.Tutorial.line:10007800=^c:1486b0;슈퍼마켓^c:pop;이라면 어느것이라도 팔고있을꺼야.
+staxel.village.dialogue.Tutorial.line:10007800=^c:1486b0;상점^c:pop;에서 둘다 팔고 있으니 참고해둬.
 //[Reference] 'I imagine you're also getting a bit tired of looking at me by now.'
-staxel.village.dialogue.Tutorial.line:10007900=당신도 슬슬,내 얼굴이 질려간다는 모습이네.
+staxel.village.dialogue.Tutorial.line:10007900=내 얼굴도 이제 슬슬... 지겹지?
 //[Reference] 'You see that ^c:d03e37;jar of water^c:pop; I just gave you?'
-staxel.village.dialogue.Tutorial.line:10008100=아까 당신에게 넘긴^c:d03e37;물병^c:pop;말인데...
+staxel.village.dialogue.Tutorial.line:10008100=아까 너한테 준 ^c:d03e37;물병^c:pop; 말인데...
 //[Reference] 'This is no standard tap water!'
-staxel.village.dialogue.Tutorial.line:10008200=평범한 수돗물이 아니라구!
+staxel.village.dialogue.Tutorial.line:10008200=이건 평범한 물이 아니라구!
 //[Reference] '^c:d03e37;Magic Water^c:pop; will grow any crop instantly! Cool huh?'
-staxel.village.dialogue.Tutorial.line:10008300=한순간에 어떤 농작물을 자라게하는^c:d03e37;마법의 물^c:pop;이야! 굉장하지?
+staxel.village.dialogue.Tutorial.line:10008300=한순간에 식물을 자라게하는 ^c:d03e37;마법의 물^c:pop;이야! 굉장하지?
 //[Reference] 'Some merchants might sell it so keep an eye out. It's pretty rare and expensive though!'
-staxel.village.dialogue.Tutorial.line:10008400=일부 상인이 팔고있으니까,놓치지 않으려는게 좋을꺼야.하지만,꽤 드물고 비쌀꺼야!
+staxel.village.dialogue.Tutorial.line:10008400=가끔 판매대에 올라오는걸 놓치지 않는게 좋을꺼야. 많이 드물거든! 대신 비싸지만.
 //[Reference] 'Pour it over that crop you just planted and get to harvesting!'
-staxel.village.dialogue.Tutorial.line:10008500=막 심은 농작물에 마법의 물을 뿌리고,수확해보자구!
+staxel.village.dialogue.Tutorial.line:10008500=방금 심은 농작물에 마법의 물을 뿌리고, 수확해보자구!
 //[Reference] 'You did it! Not as hard as it sounds is it?'
-staxel.village.dialogue.Tutorial.line:10008600=해냈네! 생각보다 간단한지?
+staxel.village.dialogue.Tutorial.line:10008600=해냈네! 생각보다 간단하지?
 //[Reference] 'The time has finally come to give you your ^c:d03e37;Farm Registration Letter^c:pop;!'
-staxel.village.dialogue.Tutorial.line:10008700=당신에게^c:d03e37;목장의 등록용지^c:pop;를 드디어 넘기는구나!
+staxel.village.dialogue.Tutorial.line:10008700=드디어... ^c:d03e37;농장 신청서^c:pop;를 건내줄 때가 온것같아.
 //[Reference] 'You should head to the ^c:1486b0;town hall^c:pop; to file it with ^c:1486b0;Max^c:pop; as soon as possible.'
-staxel.village.dialogue.Tutorial.line:10008800=될 수 있으면 빨리,이 용지를^c:1486b0;役所^c:pop;の^c:1486b0;맥스^c:pop;씨가 있는곳에 기다리고 있으라구.
+staxel.village.dialogue.Tutorial.line:10008800=되는대로 이 신청서를 이장 ^c:1486b0;Maxmilian^c:pop;씨가 있는곳에 가져가도록 해.
 //[Reference] 'In exchange you'll get a special package to help jump start your farm!'
-staxel.village.dialogue.Tutorial.line:10008900=용지를 넘기면,목장운영을 시작할 경우에 도움이 될 것을 받을 수 있어!
+staxel.village.dialogue.Tutorial.line:10008900=신청서를 내면 농장 운영 시작에 도움이 될만한 것 을 받을 수 있을거야!
 //[Reference] 'As for me, I think it's about time I get out of your way.'
-staxel.village.dialogue.Tutorial.line:10009000=이정도면, 내 역활은 끝난것 같아.
+staxel.village.dialogue.Tutorial.line:10009000=그럼, 이정도면 내 역활은 끝난것 같아.
 //[Reference] 'You can always look me up in town!'
-staxel.village.dialogue.Tutorial.line:10009100=마을에 있으니까,언제라도 만나러 와달라구!
+staxel.village.dialogue.Tutorial.line:10009100=마을에 있으니까, 언제라도 만나러 와달라구!
 //[Reference] 'Good luck!'
-staxel.village.dialogue.Tutorial.line:10009200=힘내라구!
+staxel.village.dialogue.Tutorial.line:10009200=행운을 빌어!
 //[Reference] 'It doesn't look like you've harvested the crop yet.'
 staxel.village.dialogue.Tutorial.line:10009300=아무래도 아직 농작물을 수확하지 못했나보네.
 //[Reference] 'Pour ^c:d03e37;Magic Water^c:pop; on crop. Pick crop. Easy!'
-staxel.village.dialogue.Tutorial.line:10009400=^c:d03e37;마법의 물^c:pop;을 뿌리는거야.농작물을 수확해보자.간단하지!
+staxel.village.dialogue.Tutorial.line:10009400=^c:d03e37;마법의 물^c:pop;을 뿌려서 농작물을 수확해보자. 간단하지!
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Hi ^c:1486b0;{0-playername}^c:pop;!'
-staxel.village.dialogue.Tutorial.line:10009500=어라,{0-playername}!
+staxel.village.dialogue.Tutorial.line:10009500=어라, {0-playername}!
 //[Reference] 'It looks like you've achieved some interesting new feats!'
 staxel.village.dialogue.Tutorial.line:10009600=보니까,특별한 일을 해냈나보네!
 //[Reference] 'These are from the town to commemorate the occasion!'
@@ -293,7 +294,7 @@ staxel.village.dialogue.Tutorial.line:10010600=어... 도움이 필요하지 않
 //[Reference] 'Not interested in the subtleties of farming?'
 staxel.village.dialogue.Tutorial.line:10010700=농업의 섬세함과 깊이를 몰라봐주는거야?
 //[Reference] 'Are you absolutely sure?'
-staxel.village.dialogue.Tutorial.line:10010800=확실해?
+staxel.village.dialogue.Tutorial.line:10010800=정말로?
 //[Reference] 'Positive.'
 staxel.village.dialogue.Tutorial.line:10010900=아마도요.
 //[Reference] 'Actually...'
@@ -330,3 +331,21 @@ staxel.village.dialogue.Tutorial.line:10012400=별로 관심없어요.
 staxel.village.dialogue.Tutorial.line:10012500=그러면, 왜 여기에 왔어?
 //[Reference] 'Come back when you're ready to grovel!'
 staxel.village.dialogue.Tutorial.line:10012600=네 실수를 깨달았을때나 오라구!
+//TODO Translate [Reference] 'I'm already a licensed farmer.'
+staxel.village.dialogue.Tutorial.line:10012700=
+//TODO Translate [Reference] 'Oh, really? That's encouraging!'
+staxel.village.dialogue.Tutorial.line:10012800=
+//TODO Translate [Reference] 'You'll need a ^w:i;local^w:clear; license, but I see you already have your ^c:d03e37;Farm Registration Letter^c:pop; prepared for that!'
+staxel.village.dialogue.Tutorial.line:10012900=
+//TODO Translate [Reference] 'Don't forget to run it over to ^c:1486b0;Max^c:pop; at the ^c:1486b0;town hall^c:pop;!'
+staxel.village.dialogue.Tutorial.line:10013000=
+//TODO Translate [Reference] 'There's still a barn waiting to be built!'
+staxel.village.dialogue.Tutorial.line:10013100=
+//TODO Translate [Reference] 'Oh, right, I have a pet for you too! Which one did you want?'
+staxel.village.dialogue.Tutorial.line:10013200=
+//TODO Translate [Reference] 'I'll take the cat!'
+staxel.village.dialogue.Tutorial.line:10013300=
+//TODO Translate [Reference] 'I'll take the dog!'
+staxel.village.dialogue.Tutorial.line:10013400=
+//TODO Translate [Reference] 'There you go! Good luck with the farm!'
+staxel.village.dialogue.Tutorial.line:10013500=

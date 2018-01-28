@@ -1,26 +1,26 @@
 language.code=ko-KR
 language=한국어
 //[Reference] 'Ah, so ^c:1486b0;{0-bar_name}^c:pop; has finally sent someone to pick up his order...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000100=Ah, so ^c:1486b0;{0-bar_name}^c:pop; has finally sent someone to pick up his order...
+staxel.village.dialogue.ShopKeepPrimary.line:10000100=아, 드디어 왔구나. ^c:1486b0;{0-bar_name}^c:pop;씨한테서 왔지?
 //[Reference] 'Certainly took him long enough...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000200=Certainly took him long enough...
+staxel.village.dialogue.ShopKeepPrimary.line:10000200=너무 오래 기다렸단 말이지...
 //[Reference] 'Whatever it is, it's starting to smell a bit funny - I'll be happy to see it go!'
-staxel.village.dialogue.ShopKeepPrimary.line:10000300=Whatever it is, it's starting to smell a bit funny - I'll be happy to see it go!
+staxel.village.dialogue.ShopKeepPrimary.line:10000300=뭐 어쨌거나, 여기에서 뭔가 재밌는 냄새가 난단 말이야. 무슨 반응일지 기대되는걸!
 //[Reference] 'By the way, congratulations on your new pet!'
-staxel.village.dialogue.ShopKeepPrimary.line:10000400=By the way, congratulations on your new pet!
+staxel.village.dialogue.ShopKeepPrimary.line:10000400=아무튼, 애완동물이 생긴걸 축하해!
 //[Reference] 'Must be nice to have such a good companion...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000500=Must be nice to have such a good companion...
+staxel.village.dialogue.ShopKeepPrimary.line:10000500=분명 내 옆에 누군가가 있다는것 만으로도 기분이 좋아질꺼야...
 //[Reference] 'It can get pretty lonely out here...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000600=It can get pretty lonely out here...
+staxel.village.dialogue.ShopKeepPrimary.line:10000600=특히나 그쪽은 많이 외로울테니까...
 //[Reference] 'You look a bit confused? Well, never mind, I have something for you too!'
-staxel.village.dialogue.ShopKeepPrimary.line:10000700=You look a bit confused? Well, never mind, I have something for you too!
+staxel.village.dialogue.ShopKeepPrimary.line:10000700=응? 뭔소린지 모르겠다구? 뭐, 신경쓰지마. 아무튼 여기 네 선물이야!
 //[Reference] 'These will definitely come in handy now that you have a pet...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000800=These will definitely come in handy now that you have a pet...
+staxel.village.dialogue.ShopKeepPrimary.line:10000800=애완동물이 있으니 분명 유용하게 쓰이겠지.
 //[Reference] 'We sell a lot of useful stuff here in the store.'
-staxel.village.dialogue.ShopKeepPrimary.line:10000900=We sell a lot of useful stuff here in the store.
+staxel.village.dialogue.ShopKeepPrimary.line:10000900=이런것 말고도 우리 상점에서는 여러가지를 팔고 있으니까
 //[Reference] 'Feel free to browse the shelves and buy whatever you need any time!'
-staxel.village.dialogue.ShopKeepPrimary.line:10001000=Feel free to browse the shelves and buy whatever you need any time!
+staxel.village.dialogue.ShopKeepPrimary.line:10001000=언제든지 보러와!
 //[Reference] 'But for now, you'd better get that ^c:d03e37;parcel^c:pop; out of here...'
-staxel.village.dialogue.ShopKeepPrimary.line:10001100=But for now, you'd better get that ^c:d03e37;parcel^c:pop; out of here...
+staxel.village.dialogue.ShopKeepPrimary.line:10001100=뭐 그건 어찌됬든, 일단 그 ^c:d03e37;택배^c:pop;부터 처리해야겠지...
 //[Reference] 'I'm not sure how much longer I can stand it.'
-staxel.village.dialogue.ShopKeepPrimary.line:10001200=I'm not sure how much longer I can stand it.
+staxel.village.dialogue.ShopKeepPrimary.line:10001200=난 그거 냄새맡고 기절할뻔했다니까.

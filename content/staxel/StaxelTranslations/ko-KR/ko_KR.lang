@@ -42,7 +42,7 @@ controlHint.verb.Cast=Cast
 //[Reference] 'Catch'
 controlHint.verb.Catch=채집
 //[Reference] 'Check'
-controlHint.verb.Check=Check
+controlHint.verb.Check=상태 확인하기
 //[Reference] 'Chop'
 controlHint.verb.Chop=베기
 //[Reference] 'Command'
@@ -124,7 +124,7 @@ controlHint.verb.Talk=말 걸기
 controlHint.verb.Till=땅 갈구기
 //[Reference] 'Water'
 controlHint.verb.Water=물 주기
-//TODO Translate [Reference] 'Item Hotkeys'
+//[Reference] 'Item Hotkeys'
 controllerHints.hotkeys=아이템 드는 방법
 //[Reference] 'Inventory'
 controllerHints.inventory=가방 여는 방법
@@ -232,6 +232,8 @@ error.back=돌아가기
 
 //[Reference] 'Bad Version'
 error.badVersion=서버와 버전이 맞지 않아요.
+//TODO Translate [Reference] 'Server Full'
+error.serverFull=서버가 가득 찼어요.
 //[Reference] 'The Staxel.net server appears to be offline. Please try again later.'
 error.serverOffline=The Staxel.net server appears to be offline. Please try again later.
 //[Reference] 'SORRY!'
@@ -239,7 +241,7 @@ error.sorry=죄송해요!
 //[Reference] 'Cancel'
 escapemenu.cancel=아니요
 //[Reference] 'Are you sure you want to exit to desktop? Progress is saved automatically.'
-escapemenu.confirmExit=게임을 종료하실래요? 지금까지 해온 일과들은 자동으로 저장됩니다.
+escapemenu.confirmExit=게임을 종료하실래요? 지금까지 해온 일지들은 자동으로 저장됩니다.
 //[Reference] 'Exit'
 escapemenu.exit=나가기
 
@@ -349,6 +351,8 @@ looting.stealFrom=Steal from
 multiplayerMenu.back=돌아가기
 //[Reference] 'Join Server'
 multiplayerMenu.joinServer=서버 참가
+//TODO Translate [Reference] 'Play With Friends'
+multiplayerMenu.playWithFriends=친구랑 같이하기
 //[Reference] 'Server IP:'
 multiplayerMenu.serverIP=서버 주소 (IP):
 //[Reference] 'Server List'
@@ -383,7 +387,7 @@ options.admin.debug.IncreasedViewRange=시야 증가
 //[Reference] 'Make a crashlog'
 options.admin.debug.makeCrashlog=crashlog 만들기
 //[Reference] 'No Clip Mode'
-options.admin.debug.noClipMode=충돌 해제(노클립 모드)
+options.admin.debug.noClipMode=충돌 해제
 //[Reference] 'Show name tags'
 options.admin.debug.showNames=이름표 표시
 
@@ -444,6 +448,8 @@ options.gameplay.mouse.mouseVelocity=마우스 감도:
 options.gameplay.other=기타
 //[Reference] 'Active Achievement Tracker'
 options.gameplay.other.activeAchievement=도전과제 알리미 활성화
+//TODO Translate [Reference] 'Text Speed:'
+options.gameplay.other.ChatSpeed=대화 진행 속도
 //[Reference] 'Chat Timestamps'
 options.gameplay.other.chatTimestamps=채팅 시간 기록
 //[Reference] 'Left Handed Mode'
@@ -457,7 +463,7 @@ options.gameplay.other.showClock=시계 표시
 //[Reference] 'Show Console'
 options.gameplay.other.ShowConsole=콘솔 표시
 //[Reference] 'Crafting Keyword Tags'
-options.gameplay.other.showCraftingKeywordTags=Crafting Keyword Tags
+options.gameplay.other.showCraftingKeywordTags=제작대의 이름표 표시
 //[Reference] 'Don't stretch UI'
 options.gameplay.other.StepWiseUIScale=Don't stretch UI
 //[Reference] 'Prevent NPC Staring'
@@ -494,13 +500,13 @@ options.general.graphics.bloom=블룸(Bloom) 효과
 //[Reference] 'Borderless Window'
 options.general.graphics.borderless=테두리 없는 창모드
 //[Reference] 'Camera Distance:'
-options.general.graphics.cameraDistance=카메라의 거리:
+options.general.graphics.cameraDistance=카메라와의 거리:
 //[Reference] 'Field Of View:'
 options.general.graphics.fieldOfView=시야각(FOV):
 //[Reference] 'Fullscreen'
 options.general.graphics.fullscreen=전체 화면
 //[Reference] 'Half Resolution'
-options.general.graphics.halfResolution=Half Resolution
+options.general.graphics.halfResolution=절반 해상도로 렌더링
 //[Reference] 'High'
 options.general.graphics.high=높음
 //[Reference] 'Increased View Range'
@@ -521,7 +527,7 @@ options.general.graphics.reducedViewRange=시야 거리 줄이기
 //[Reference] 'Shadows'
 options.general.graphics.shadows=그림자 표시
 //[Reference] 'Show Grid Cursor'
-options.general.graphics.showGridCursor=Show Grid Cursor
+options.general.graphics.showGridCursor=바라보는 블럭의 격자 표시
 //[Reference] 'Super Low'
 options.general.graphics.superLow=아주 낮음
 //[Reference] 'Super Sampling'
@@ -530,11 +536,11 @@ options.general.graphics.superSampling=슈퍼 샘플링
 options.general.graphics.thirdPerson=3인칭 시점
 
 //[Reference] 'Transparent Player Avatar'
-options.general.graphics.transparentThirdPerson=Transparent Player Avatar
+options.general.graphics.transparentThirdPerson=내 캐릭터를 투명하게 표시
 //[Reference] 'Ultra'
 options.general.graphics.ultra=최고
 //[Reference] 'Prevent Indoor Weather'
-options.general.graphics.WeatherParticles=Prevent Indoor Weather
+options.general.graphics.WeatherParticles=실내에서의 날씨 효과 해제
 //[Reference] 'Language'
 options.general.language=언어
 //[Reference] 'Misc'
@@ -642,17 +648,19 @@ singleplayer.confirmDelete=이 세계를 지우실래요?
 //[Reference] 'Copying world...'
 singleplayer.copyingWorld=기존 세계 복사중...
 //[Reference] 'Creative'
-singleplayer.creative=Creative
+singleplayer.creative=창작
 //[Reference] 'Creative Mode'
-singleplayer.creativeMode=Creative Mode
+singleplayer.creativeMode=창작 모드
 //[Reference] 'Creative Mode On'
-singleplayer.creativeModeEnabled=Creative Mode On
+singleplayer.creativeModeEnabled=창작 모드 켜짐
 //[Reference] 'My World'
 singleplayer.defaultWorldName=My World
 //[Reference] 'Delete'
 singleplayer.delete=지우기
 //[Reference] 'Failed to delete world'
 singleplayer.failedToDeleteWorld=세계를 지우는데 실패했습니다.
+//TODO Translate [Reference] 'Allow friend joins'
+singleplayer.friendJoin=친구랑 같이하기 허용
 //[Reference] 'Launch'
 singleplayer.launch=시작
 //[Reference] 'Storage with this name already exists'
@@ -661,6 +669,8 @@ singleplayer.nameAlreadyExists=이 이름은 이미 있는 이름입니다.
 singleplayer.nameTooShort=이름이 너무 짧아요. (최소 3자 이상)
 //[Reference] 'New World'
 singleplayer.newWorld=새로운 세계
+//TODO Translate [Reference] 'Play With Friends'
+singleplayer.playWithFriends=친구랑 같이하기
 //[Reference] 'Name'
 singleplayer.serverName=이름
 
@@ -2676,6 +2686,9 @@ staxel.tileObject.crafting.TilingStation.name=Tiling Station
 staxel.tileObject.creepyBiome.CampfireLarge.description=
 //[Reference] 'Campfire Large'
 staxel.tileObject.creepyBiome.CampfireLarge.name=Campfire Large
+staxel.tileObject.decorations.BottledFirefly.description=
+//TODO Translate [Reference] 'Bottled Firefly'
+staxel.tileObject.decorations.BottledFirefly.name=
 staxel.tileObject.decorations.Dryer.description=
 
 //[Reference] 'Dryer'
