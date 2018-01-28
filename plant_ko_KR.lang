@@ -82,121 +82,121 @@ staxel.plant.crop.Oat.description=
 staxel.plant.crop.Oat.name=오트밀
 staxel.plant.crop.Onion.description=
 //[Reference] 'Onion'
-staxel.plant.crop.Onion.name=양파ギ
+staxel.plant.crop.Onion.name=양파
 staxel.plant.crop.Potato.description=
 //[Reference] 'Potato'
-staxel.plant.crop.Potato.name=ジャガイモ
+staxel.plant.crop.Potato.name=감자
 staxel.plant.crop.Pumpkin.description=
 //[Reference] 'Pumpkin'
-staxel.plant.crop.Pumpkin.name=カボチャ
+staxel.plant.crop.Pumpkin.name=호박
 staxel.plant.crop.Strawberry.description=
 //[Reference] 'Strawberry'
 staxel.plant.crop.Strawberry.name=イチゴ
 staxel.plant.crop.SugarBeet.description=
 //[Reference] 'Sugar Beet'
-staxel.plant.crop.SugarBeet.name=テンサイ
+staxel.plant.crop.SugarBeet.name=사탕무
 
 staxel.plant.crop.SugarCane.description=
 //[Reference] 'Sugar Cane'
-staxel.plant.crop.SugarCane.name=サトウキビ
+staxel.plant.crop.SugarCane.name=사탕수수
 staxel.plant.crop.SweetPotato.description=
 //[Reference] 'Sweet Potato'
-staxel.plant.crop.SweetPotato.name=サツマイモ
+staxel.plant.crop.SweetPotato.name=고구마
 //[Reference] 'Fresh, soft and juicy! Mmm.'
-staxel.plant.crop.Tomato.description=新鮮、やわらかくてジューシー！うまい。
+staxel.plant.crop.Tomato.description=신선하고 부드럽고 달아! 맛있어!
 //[Reference] 'Tomato'
-staxel.plant.crop.Tomato.name=トマト
+staxel.plant.crop.Tomato.name=토마토
 staxel.plant.crop.Turnip.description=
 //[Reference] 'Turnip'
-staxel.plant.crop.Turnip.name=カブ
+staxel.plant.crop.Turnip.name=무
 staxel.plant.crop.Watermelon.description=
 //[Reference] 'Watermelon'
-staxel.plant.crop.Watermelon.name=スイカ
+staxel.plant.crop.Watermelon.name=수박
 staxel.plant.crop.WhiteRose.description=
 //[Reference] 'White Rose'
-staxel.plant.crop.WhiteRose.name=白バラ
+staxel.plant.crop.WhiteRose.name=하얀 장미
 //[Reference] 'A pretty, blue, round flower.'
-staxel.plant.flower.Allium.blue.1.description=かわいらしい青色の丸い花。
+staxel.plant.flower.Allium.blue.1.description=귀여운 둥근 파랑꽃
 //[Reference] 'Blue Allium'
-staxel.plant.flower.Allium.blue.1.name=青色のアリウム
+staxel.plant.flower.Allium.blue.1.name=파란 알리움
 //[Reference] 'A pretty, blue, round flower.'
-staxel.plant.flower.Allium.blue.2.description=かわいらしい青色の丸い花。
+staxel.plant.flower.Allium.blue.2.description=귀여운 둥근 파랑꽃
 //[Reference] 'Blue Allium'
-staxel.plant.flower.Allium.blue.2.name=青色のアリウム
+staxel.plant.flower.Allium.blue.2.name=파랑 알리움
 //[Reference] 'A pretty, pink, round flower.'
-staxel.plant.flower.Allium.pink.1.description=かわいらしいピンク色の丸い花。
+staxel.plant.flower.Allium.pink.1.description=귀여운 둥근 분홍꽃.
 //[Reference] 'Pink Allium'
-staxel.plant.flower.Allium.pink.1.name=ピンク色のアリウム
+staxel.plant.flower.Allium.pink.1.name=분홍 알리움
 //[Reference] 'A pretty, pink, round flower.'
-staxel.plant.flower.Allium.pink.2.description=かわいらしいピンク色の丸い花。
+staxel.plant.flower.Allium.pink.2.description=귀여운 둥근 분홍꽃.
 //[Reference] 'Pink Allium'
-staxel.plant.flower.Allium.pink.2.name=ピンク色のアリウム
+staxel.plant.flower.Allium.pink.2.name=분홍 알리움
 //[Reference] 'A pretty, purple, round flower.'
-staxel.plant.flower.Allium.purple.description=かわいらしい紫色の丸い花。
+staxel.plant.flower.Allium.purple.description=귀여움 둥근 보라꽃
 //[Reference] 'Purple Allium'
-staxel.plant.flower.Allium.purple.name=紫色のアリウム
+staxel.plant.flower.Allium.purple.name=보라 알리움
 //[Reference] 'A pretty, white, round flower.'
-staxel.plant.flower.Allium.white.description=かわいらしい白色の丸い花。
+staxel.plant.flower.Allium.white.description=귀여운 둥근 하양꽃.
 //[Reference] 'White Allium'
-staxel.plant.flower.Allium.white.name=白色のアリウム
+staxel.plant.flower.Allium.white.name=하양 알리움
 staxel.plant.flower.Bluebell.description=
 
 //[Reference] 'Bluebell'
-staxel.plant.flower.Bluebell.name=ブルーベル
+staxel.plant.flower.Bluebell.name=초롱꽃
 //[Reference] 'A small, cute bush.'
-staxel.plant.flower.Bush.small.description=小さくてキュートな茂み。
+staxel.plant.flower.Bush.small.description=작고 깜찍한 덤불.
 //[Reference] 'Small Bush'
-staxel.plant.flower.Bush.small.name=小さな茂み
+staxel.plant.flower.Bush.small.name=작은 덤불
 //[Reference] 'A pink, elegant flower.'
-staxel.plant.flower.CallaLily.pink.description=ピンク色のエレガントな花。
+staxel.plant.flower.CallaLily.pink.description=우아한 분홍 꽃。
 //[Reference] 'Pink Calla Lily'
-staxel.plant.flower.CallaLily.pink.name=ピンク色のカラーリリー
+staxel.plant.flower.CallaLily.pink.name=분홍 칼라리리
 //[Reference] 'An orange, elegant flower.'
-staxel.plant.flower.CallaLily.slim.orange.description=オレンジ色のエレガントな花。
+staxel.plant.flower.CallaLily.slim.orange.description=우아한 오렌지색 꽃
 //[Reference] 'Orange Calla Lily'
-staxel.plant.flower.CallaLily.slim.orange.name=オレンジ色のカラーリリー
+staxel.plant.flower.CallaLily.slim.orange.name=オレンジ色の칼라리리
 //[Reference] 'A pink, elegant flower.'
-staxel.plant.flower.CallaLily.slim.pink.description=ピンク色のエレガントな花。
+staxel.plant.flower.CallaLily.slim.pink.description=우아한 분홍 꽃。
 //[Reference] 'Pink Calla Lily'
-staxel.plant.flower.CallaLily.slim.pink.name=ピンク色のカラーリリー
+staxel.plant.flower.CallaLily.slim.pink.name=분홍 칼라리리
 //[Reference] 'A purple, elegant flower.'
-staxel.plant.flower.CallaLily.slim.purple.description=紫色のエレガントな花。
+staxel.plant.flower.CallaLily.slim.purple.description=우아한 보라 꽃
 //[Reference] 'Purple Calla Lily'
-staxel.plant.flower.CallaLily.slim.purple.name=紫色のカラーリリー
+staxel.plant.flower.CallaLily.slim.purple.name=보라 칼라리리
 //[Reference] 'A red, elegant flower.'
-staxel.plant.flower.CallaLily.slim.red.description=赤色のエレガントな花。
+staxel.plant.flower.CallaLily.slim.red.description=우아한 빨강 꽃
 //[Reference] 'Red Calla Lily'
-staxel.plant.flower.CallaLily.slim.red.name=赤色のカラーリリー
+staxel.plant.flower.CallaLily.slim.red.name=赤色の칼라리리
 //[Reference] 'A violet, elegant flower.'
-staxel.plant.flower.CallaLily.slim.violet.description=スミレ色のエレガントな花。
+staxel.plant.flower.CallaLily.slim.violet.description=우아한 청자색 꽃
 //[Reference] 'Violet Calla Lily'
-staxel.plant.flower.CallaLily.slim.violet.name=スミレ色のカラーリリー
+staxel.plant.flower.CallaLily.slim.violet.name=청자색 칼라리리
 //[Reference] 'A white, elegant flower.'
-staxel.plant.flower.CallaLily.slim.white.description=白色のエレガントな花。
+staxel.plant.flower.CallaLily.slim.white.description=우아한 하양 꽃
 //[Reference] 'White Calla Lily'
-staxel.plant.flower.CallaLily.slim.white.name=白色のカラーリリー
+staxel.plant.flower.CallaLily.slim.white.name=白色の칼라리리
 //[Reference] 'A white, elegant flower.'
-staxel.plant.flower.CallaLily.white.description=白色のエレガントな花。
+staxel.plant.flower.CallaLily.white.description=우아한 하양 꽃
 //[Reference] 'White Calla Lily'
-staxel.plant.flower.CallaLily.white.name=白色のカラーリリー
+staxel.plant.flower.CallaLily.white.name=하양 칼라리리
 //[Reference] 'A big, beautiful, orange flower with a great deal of small petals.'
-staxel.plant.flower.Chrysanthemum.orange.description=大きくて美しい小さな花びらをたくさんつけたオレンジ色の花。
+staxel.plant.flower.Chrysanthemum.orange.description=크고 아름다운 작은 꽃다발을 많이 붙인 오렌지색 꽃
 //[Reference] 'Orange Chrysanthemum'
-staxel.plant.flower.Chrysanthemum.orange.name=オレンジ色のキク
+staxel.plant.flower.Chrysanthemum.orange.name=오렌지색 국화
 //[Reference] 'A big, beautiful, red flower with a great deal of small petals.'
-staxel.plant.flower.Chrysanthemum.red.description=大きくて美しい小さな花びらをたくさんつけた赤色の花。
+staxel.plant.flower.Chrysanthemum.red.description=크고 아름다운 작은 꽃다발을 많이 붙인 빨강 꽃
 //[Reference] 'Red Chrysanthemum'
-staxel.plant.flower.Chrysanthemum.red.name=赤色のキク
+staxel.plant.flower.Chrysanthemum.red.name=빨강 국화
 //[Reference] 'A big, beautiful, yellow flower with a great deal of small petals.'
-staxel.plant.flower.Chrysanthemum.yellow.description=大きくて美しい小さな花びらをたくさんつけた黄色の花。
+staxel.plant.flower.Chrysanthemum.yellow.description=크고 아름다운 작은 꽃다발을 많이 붙인 노랑 꽃
 //[Reference] 'Yellow Chrysanthemum'
-staxel.plant.flower.Chrysanthemum.yellow.name=黄色のキク
+staxel.plant.flower.Chrysanthemum.yellow.name=노랑 국화
 //[Reference] 'A simple, but pretty, little flower.'
-staxel.plant.flower.Daisies.pink.description=シンプルでかわいらしい小さな花。
+staxel.plant.flower.Daisies.pink.description=심플하나 귀엽고 작은 꽃.
 //[Reference] 'Pink Daisy'
-staxel.plant.flower.Daisies.pink.name=ピンク色のヒナギク
+staxel.plant.flower.Daisies.pink.name=분홍 데이지
 //[Reference] 'A simple, but pretty, little flower.'
-staxel.plant.flower.Daisies.white.description=シンプルでかわいらしい小さな花。
+staxel.plant.flower.Daisies.white.description=심플하나 귀엽고 작은 꽃.
 //[Reference] 'White Daisy'
 staxel.plant.flower.Daisies.white.name=白色のヒナギク
 staxel.plant.flower.Dandelion.big.description=
@@ -208,23 +208,23 @@ staxel.plant.flower.Dandelion.small.name=タンポポ
 //[Reference] 'A towering bunch of stunning flowers.'
 staxel.plant.flower.Delphinium.lightPink.1.description=複数の美しい花びらを咲かせる背の高い植物。
 //[Reference] 'Light Pink Delphinium'
-staxel.plant.flower.Delphinium.lightPink.1.name=ライトピンク色のヒエンソウ
+staxel.plant.flower.Delphinium.lightPink.1.name=밝은 분홍 ヒエンソウ
 //[Reference] 'A towering bunch of stunning flowers.'
 staxel.plant.flower.Delphinium.lightPink.2.description=複数の美しい花びらを咲かせる背の高い植物。
 //[Reference] 'Light Pink Delphinium'
-staxel.plant.flower.Delphinium.lightPink.2.name=ライトピンク色のヒエンソウ
+staxel.plant.flower.Delphinium.lightPink.2.name=밝은 분홍 ヒエンソウ
 //[Reference] 'A towering bunch of stunning flowers.'
 staxel.plant.flower.Delphinium.lightPurple.description=複数の美しい花びらを咲かせる背の高い植物。
 //[Reference] 'Light Purple Delphinium'
-staxel.plant.flower.Delphinium.lightPurple.name=薄紫色のヒエンソウ
+staxel.plant.flower.Delphinium.lightPurple.name=연한 보라 ヒエンソウ
 //[Reference] 'A towering bunch of stunning flowers.'
 staxel.plant.flower.Delphinium.pink.description=複数の美しい花びらを咲かせる背の高い植物。
 //[Reference] 'Pink Delphinium'
-staxel.plant.flower.Delphinium.pink.name=ピンク色のヒエンソウ
+staxel.plant.flower.Delphinium.pink.name=분홍 ヒエンソウ
 //[Reference] 'A towering bunch of stunning flowers.'
 staxel.plant.flower.Delphinium.purple.description=複数の美しい花びらを咲かせる背の高い植物。
 //[Reference] 'Purple Delphinium'
-staxel.plant.flower.Delphinium.purple.name=紫色のヒエンソウ
+staxel.plant.flower.Delphinium.purple.name=보라 ヒエンソウ
 //[Reference] 'A towering bunch of stunning flowers.'
 staxel.plant.flower.Delphinium.white.1.description=複数の美しい花びらを咲かせる背の高い植物。
 //[Reference] 'White Delphinium'
@@ -240,7 +240,7 @@ staxel.plant.flower.Iris.blue.name=青色のアイリス
 //[Reference] 'A gorgeous, delicate flower.'
 staxel.plant.flower.Iris.purple.description=ゴージャスでデリケートな花。
 //[Reference] 'Purple Iris'
-staxel.plant.flower.Iris.purple.name=紫色のアイリス
+staxel.plant.flower.Iris.purple.name=보라 アイリス
 staxel.plant.flower.Lavender.big.description=
 //[Reference] 'Lavender'
 staxel.plant.flower.Lavender.big.name=ラベンダー
@@ -258,11 +258,11 @@ staxel.plant.flower.Lily.orange.1.name=オレンジ色のユリ
 //[Reference] 'A fine, trumpet shaped flower.'
 staxel.plant.flower.Lily.pink.1.description=上品なトランペット型の花。
 //[Reference] 'Pink Lily'
-staxel.plant.flower.Lily.pink.1.name=ピンク色のユリ
+staxel.plant.flower.Lily.pink.1.name=분홍 ユリ
 //[Reference] 'A fine, trumpet shaped flower.'
 staxel.plant.flower.Lily.pink.2.description=上品なトランペット型の花。
 //[Reference] 'Pink Lily'
-staxel.plant.flower.Lily.pink.2.name=ピンク色のユリ
+staxel.plant.flower.Lily.pink.2.name=분홍 ユリ
 //[Reference] 'A fine, trumpet shaped flower.'
 staxel.plant.flower.Lily.white.description=上品なトランペット型の花。
 //[Reference] 'White Lily'
@@ -277,7 +277,7 @@ staxel.plant.flower.Pansies.blue.name=青色のスミレ
 //[Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
 staxel.plant.flower.Pansies.pink.description=独特なパターンの花びらを持つ花。チョウチョみたいな模様！
 //[Reference] 'Pink Pansies'
-staxel.plant.flower.Pansies.pink.name=ピンク色のスミレ
+staxel.plant.flower.Pansies.pink.name=분홍 スミレ
 //[Reference] 'An eye catching flower with large petals.'
 staxel.plant.flower.Petunias.blue.description=大きな花びらを持った目立つな花。
 //[Reference] 'Blue Petunias'
@@ -309,7 +309,7 @@ staxel.plant.flower.Roses.yellow.name=黄色のバラ
 //[Reference] 'A breath taking, vividly coloured flower with long petals.'
 staxel.plant.flower.Senneti.pink.description=長い花びらを持った、息を呑むほど鮮やかな色をした花。
 //[Reference] 'Pink Senetti'
-staxel.plant.flower.Senneti.pink.name=ピンク色のセネッティ
+staxel.plant.flower.Senneti.pink.name=분홍 セネッティ
 //[Reference] 'A breath taking, vividly coloured flower with long petals.'
 staxel.plant.flower.Senneti.pinkWhite.description=長い花びらを持った、息を呑むほど鮮やかな色をした花。
 //[Reference] 'Pink & White Senetti'
@@ -317,7 +317,7 @@ staxel.plant.flower.Senneti.pinkWhite.name=ピンクと白のセネッティ
 //[Reference] 'A breath taking, vividly coloured flower with long petals.'
 staxel.plant.flower.Senneti.purple.description=長い花びらを持った、息を呑むほど鮮やかな色をした花。
 //[Reference] 'Purple Senetti'
-staxel.plant.flower.Senneti.purple.name=紫色のセネッティ
+staxel.plant.flower.Senneti.purple.name=보라 セネッティ
 //[Reference] 'A bright, cheerful flower.'
 staxel.plant.flower.Sunflower.yellow.1.description=明るくて元気のいい花。
 //[Reference] 'Sunflower'
