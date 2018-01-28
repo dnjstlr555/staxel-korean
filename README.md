@@ -43,11 +43,11 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] category_ko_KR.lang
 - [ ] CecileFond_ko_KR.lang
 - [ ] CecileIntro_ko_KR.lang
-- [ ] characterDesigner_ko_KR.lang
+- [X] characterDesigner_ko_KR.lang
 - [ ] commands_ko_KR.lang
 - [X] crafting_ko_KR.lang
-- [ ]  
-- [ ]  
+- [ ] Cutesy_ko_KR.lang
+- [ ] DeliveryQuest1_ko_KR.lang
 - [ ] 
 - [ ] 
 - [ ] 
