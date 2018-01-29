@@ -31,24 +31,24 @@ commands.tripod.success=success
 
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Break'
-controlHint.verb.Break=Break
+controlHint.verb.Break=부수기
 //[Reference] 'Buy'
-controlHint.verb.Buy=구매
+controlHint.verb.Buy=사기
 //[Reference] 'Calm'
 controlHint.verb.Calm=Calm
 //[Reference] 'Cast'
 controlHint.verb.Cast=Cast
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Catch'
-controlHint.verb.Catch=채집
+controlHint.verb.Catch=잡기
 //[Reference] 'Check'
-controlHint.verb.Check=상태 확인하기
+controlHint.verb.Check=상태 확인
 //[Reference] 'Chop'
 controlHint.verb.Chop=베기
 //[Reference] 'Command'
 controlHint.verb.Command=Command
 //[Reference] 'Craft'
-controlHint.verb.Craft=Craft
+controlHint.verb.Craft=만들기
 //[Reference] 'Cancel'
 controlHint.verb.default.Cancel=힘 빼기
 //[Reference] 'Charge'
@@ -69,11 +69,11 @@ controlHint.verb.default.ManualRestart=Restart
 //[Reference] 'Memorise'
 controlHint.verb.default.Memorise=배우기
 //[Reference] 'Replace'
-controlHint.verb.default.reDock=Replace
+controlHint.verb.default.reDock=복구하기
 //[Reference] 'Rotate'
 controlHint.verb.default.Rotate=돌리기
 //[Reference] 'Stop'
-controlHint.verb.default.Stop=Stop
+controlHint.verb.default.Stop=멈추기
 //[Reference] 'Throw'
 controlHint.verb.default.Throw=던지기
 //[Reference] 'Pick Up'
@@ -83,15 +83,15 @@ controlHint.verb.default.Use=쓰기
 //[Reference] 'Dig'
 controlHint.verb.Dig=파기
 //[Reference] 'Fill'
-controlHint.verb.Fill=Fill
+controlHint.verb.Fill=채우기
 //[Reference] 'Inspect'
 controlHint.verb.Inspect=Inspect
 //[Reference] 'Launch'
 controlHint.verb.Launch=Launch
 //[Reference] 'Milk'
-controlHint.verb.Milk=Milk
+controlHint.verb.Milk=젖 짜기
 //[Reference] 'Open'
-controlHint.verb.Open=Open
+controlHint.verb.Open=열기
 //[Reference] 'Plant'
 controlHint.verb.Plant=심기
 //[Reference] 'Play'
@@ -101,7 +101,7 @@ controlHint.verb.Pull=뽑기
 //[Reference] 'Reap'
 controlHint.verb.Reap=베기
 //[Reference] 'Rename'
-controlHint.verb.Rename=Rename
+controlHint.verb.Rename=이름 짓기
 //[Reference] 'Reset'
 controlHint.verb.Reset=Reset
 //[Reference] 'Resize'
@@ -109,7 +109,7 @@ controlHint.verb.Resize=Resize
 //[Reference] 'Sell'
 controlHint.verb.Sell=판매
 //[Reference] 'Sell Back'
-controlHint.verb.SellBack=Sell Back
+controlHint.verb.SellBack=환불
 //[Reference] 'Shear'
 controlHint.verb.Shear=Shear
 //[Reference] 'Sit'
@@ -232,7 +232,7 @@ error.back=돌아가기
 
 //[Reference] 'Bad Version'
 error.badVersion=서버와 버전이 맞지 않아요.
-//TODO Translate [Reference] 'Server Full'
+//[Reference] 'Server Full'
 error.serverFull=서버가 가득 찼어요.
 //[Reference] 'The Staxel.net server appears to be offline. Please try again later.'
 error.serverOffline=The Staxel.net server appears to be offline. Please try again later.
@@ -351,7 +351,7 @@ looting.stealFrom=Steal from
 multiplayerMenu.back=돌아가기
 //[Reference] 'Join Server'
 multiplayerMenu.joinServer=서버 참가
-//TODO Translate [Reference] 'Play With Friends'
+//[Reference] 'Play With Friends'
 multiplayerMenu.playWithFriends=친구랑 같이하기
 //[Reference] 'Server IP:'
 multiplayerMenu.serverIP=서버 주소 (IP):
@@ -448,7 +448,7 @@ options.gameplay.mouse.mouseVelocity=마우스 감도:
 options.gameplay.other=기타
 //[Reference] 'Active Achievement Tracker'
 options.gameplay.other.activeAchievement=도전과제 알리미 활성화
-//TODO Translate [Reference] 'Text Speed:'
+//[Reference] 'Text Speed:'
 options.gameplay.other.ChatSpeed=대화 진행 속도
 //[Reference] 'Chat Timestamps'
 options.gameplay.other.chatTimestamps=채팅 시간 기록
@@ -659,7 +659,7 @@ singleplayer.defaultWorldName=My World
 singleplayer.delete=지우기
 //[Reference] 'Failed to delete world'
 singleplayer.failedToDeleteWorld=세계를 지우는데 실패했습니다.
-//TODO Translate [Reference] 'Allow friend joins'
+//[Reference] 'Allow friend joins'
 singleplayer.friendJoin=친구랑 같이하기 허용
 //[Reference] 'Launch'
 singleplayer.launch=시작
@@ -669,7 +669,7 @@ singleplayer.nameAlreadyExists=이 이름은 이미 있는 이름입니다.
 singleplayer.nameTooShort=이름이 너무 짧아요. (최소 3자 이상)
 //[Reference] 'New World'
 singleplayer.newWorld=새로운 세계
-//TODO Translate [Reference] 'Play With Friends'
+//[Reference] 'Play With Friends'
 singleplayer.playWithFriends=친구랑 같이하기
 //[Reference] 'Name'
 singleplayer.serverName=이름
