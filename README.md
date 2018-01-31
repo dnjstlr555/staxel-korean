@@ -3,8 +3,12 @@
 0 600 Line >  SuRang<br>
 600 1200 Line > SexyKang<br>
 1200 1800 Line > Candy<br>
+1800 2400 Line > SexyKang<br>
 ## ko_KR.lang
 2424 ~ 3038 > SuRang
+## Items_ko_KR.lang<br>
+0 ~ 547 > Candy
+547 ~ eof > SuRang
 
 # Guideline
 ## 꼭!! 게임이랑 확인하며 번역
