@@ -7,8 +7,8 @@
 ## ko_KR.lang
 2424 ~ 3038 > SuRang
 ## Items_ko_KR.lang<br>
-0 ~ 547 > Candy
-547 ~ eof > SuRang
+0 ~ 547 > Candy<br>
+547 ~ eof > SuRang<br>
 
 # Guideline
 ## 꼭!! 게임이랑 확인하며 번역
