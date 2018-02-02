@@ -1,0 +1,573 @@
+﻿//[Reference] 'en-GB'
+language.code=ko-KR
+//[Reference] 'English'
+language=한국어
+
+staxel.plant.bush.BlackberryBush.description=
+//[Reference] 'Blackberry Bush'
+staxel.plant.bush.BlackberryBush.name=블랙베리 덤불
+staxel.plant.bush.BlueberryBush.description=
+//[Reference] 'Blueberry Bush'
+staxel.plant.bush.BlueberryBush.name=블루베리 덤불
+staxel.plant.bush.GoldenberryBush.description=
+//[Reference] 'Goldenberry Bush'
+staxel.plant.bush.GoldenberryBush.name=골든베리 덤불
+staxel.plant.bush.RaspberryBush.description=
+//[Reference] 'Raspberry Bush'
+staxel.plant.bush.RaspberryBush.name=라즈베리 덤불
+staxel.plant.crop.Beet.description=
+//[Reference] 'Beet'
+staxel.plant.crop.Beet.name=비트
+staxel.plant.crop.Cabbage.description=
+//[Reference] 'Cabbage'
+staxel.plant.crop.Cabbage.name=양배추
+staxel.plant.crop.Carrot.description=
+//[Reference] 'Carrot'
+staxel.plant.crop.Carrot.name=당근
+staxel.plant.crop.Corn.description=
+//[Reference] 'Corn'
+staxel.plant.crop.Corn.name=옥수수
+staxel.plant.crop.Cucumber.description=
+//[Reference] 'Cucumber'
+staxel.plant.crop.Cucumber.name=오이
+staxel.plant.crop.Eggplant.description=
+//[Reference] 'Eggplant'
+staxel.plant.crop.Eggplant.name=가지
+staxel.plant.crop.GoldenBeet.description=
+//[Reference] 'Golden Beet'
+staxel.plant.crop.GoldenBeet.name=황금 비트
+staxel.plant.crop.GoldenCarrot.description=
+//[Reference] 'Golden Carrot'
+staxel.plant.crop.GoldenCarrot.name=황금 당근
+staxel.plant.crop.GoldenCorn.description=
+//[Reference] 'Golden Corn'
+staxel.plant.crop.GoldenCorn.name=황금 옥수수
+staxel.plant.crop.GoldenCucumber.description=
+//[Reference] 'Golden Cucumber'
+staxel.plant.crop.GoldenCucumber.name=황금 오이
+staxel.plant.crop.GoldenEggplant.description=
+//[Reference] 'Golden Eggplant'
+staxel.plant.crop.GoldenEggplant.name=황금 가지
+staxel.plant.crop.GoldenLettuce.description=
+//[Reference] 'Golden Lettuce'
+staxel.plant.crop.GoldenLettuce.name=황금 상추
+staxel.plant.crop.GoldenOats.description=
+//[Reference] 'Golden Oats'
+staxel.plant.crop.GoldenOats.name=황금 오트밀
+staxel.plant.crop.GoldenOnion.description=
+//[Reference] 'Golden Onion'
+staxel.plant.crop.GoldenOnion.name=황금 양파staxel.plant.crop.GoldenPotato.description=
+//[Reference] 'Golden Potato'
+staxel.plant.crop.GoldenPotato.name=황금 감자
+staxel.plant.crop.GoldenSugarBeet.description=
+//[Reference] 'Golden Sugar Beet'
+staxel.plant.crop.GoldenSugarBeet.name=황금 사탕무
+staxel.plant.crop.GoldenSugarCane.description=
+//[Reference] 'Golden Sugar Cane'
+staxel.plant.crop.GoldenSugarCane.name=황금 사탕수수
+staxel.plant.crop.GoldenSweetPotato.description=
+//[Reference] 'Golden Sweet Potato'
+staxel.plant.crop.GoldenSweetPotato.name=황금 고구마
+staxel.plant.crop.GoldenTomato.description=
+//[Reference] 'Golden Tomato'
+staxel.plant.crop.GoldenTomato.name=황금 토마토
+staxel.plant.crop.GoldenTurnip.description=
+//[Reference] 'Golden Turnip'
+staxel.plant.crop.GoldenTurnip.name=황금 무
+staxel.plant.crop.Lettuce.description=
+//[Reference] 'Lettuce'
+staxel.plant.crop.Lettuce.name=상추
+staxel.plant.crop.Oat.description=
+//[Reference] 'Oat'
+staxel.plant.crop.Oat.name=오트밀
+staxel.plant.crop.Onion.description=
+//[Reference] 'Onion'
+staxel.plant.crop.Onion.name=양파
+staxel.plant.crop.Potato.description=
+//[Reference] 'Potato'
+staxel.plant.crop.Potato.name=감자
+staxel.plant.crop.Pumpkin.description=
+//[Reference] 'Pumpkin'
+staxel.plant.crop.Pumpkin.name=호박
+staxel.plant.crop.Strawberry.description=
+//[Reference] 'Strawberry'
+staxel.plant.crop.Strawberry.name=딸기
+staxel.plant.crop.SugarBeet.description=
+//[Reference] 'Sugar Beet'
+staxel.plant.crop.SugarBeet.name=사탕무
+
+staxel.plant.crop.SugarCane.description=
+//[Reference] 'Sugar Cane'
+staxel.plant.crop.SugarCane.name=사탕수수
+staxel.plant.crop.SweetPotato.description=
+//[Reference] 'Sweet Potato'
+staxel.plant.crop.SweetPotato.name=고구마
+//[Reference] 'Fresh, soft and juicy! Mmm.'
+staxel.plant.crop.Tomato.description=신선하고 부드럽고 달아! 맛있어!
+//[Reference] 'Tomato'
+staxel.plant.crop.Tomato.name=토마토
+staxel.plant.crop.Turnip.description=
+//[Reference] 'Turnip'
+staxel.plant.crop.Turnip.name=무
+staxel.plant.crop.Watermelon.description=
+//[Reference] 'Watermelon'
+staxel.plant.crop.Watermelon.name=수박
+staxel.plant.crop.WhiteRose.description=
+//[Reference] 'White Rose'
+staxel.plant.crop.WhiteRose.name=하얀 장미
+//[Reference] 'A pretty, blue, round flower.'
+staxel.plant.flower.Allium.blue.1.description=귀여운 둥근 파랑꽃
+//[Reference] 'Blue Allium'
+staxel.plant.flower.Allium.blue.1.name=파란 알리움
+//[Reference] 'A pretty, blue, round flower.'
+staxel.plant.flower.Allium.blue.2.description=귀여운 둥근 파랑꽃
+//[Reference] 'Blue Allium'
+staxel.plant.flower.Allium.blue.2.name=파랑 알리움
+//[Reference] 'A pretty, pink, round flower.'
+staxel.plant.flower.Allium.pink.1.description=귀여운 둥근 분홍꽃.
+//[Reference] 'Pink Allium'
+staxel.plant.flower.Allium.pink.1.name=분홍 알리움
+//[Reference] 'A pretty, pink, round flower.'
+staxel.plant.flower.Allium.pink.2.description=귀여운 둥근 분홍꽃.
+//[Reference] 'Pink Allium'
+staxel.plant.flower.Allium.pink.2.name=분홍 알리움
+//[Reference] 'A pretty, purple, round flower.'
+staxel.plant.flower.Allium.purple.description=귀여움 둥근 보라꽃
+//[Reference] 'Purple Allium'
+staxel.plant.flower.Allium.purple.name=보라 알리움
+//[Reference] 'A pretty, white, round flower.'
+staxel.plant.flower.Allium.white.description=귀여운 둥근 하양꽃.
+//[Reference] 'White Allium'
+staxel.plant.flower.Allium.white.name=하양 알리움
+staxel.plant.flower.Bluebell.description=
+
+//[Reference] 'Bluebell'
+staxel.plant.flower.Bluebell.name=초롱꽃
+//[Reference] 'A small, cute bush.'
+staxel.plant.flower.Bush.small.description=작고 깜찍한 덤불.
+//[Reference] 'Small Bush'
+staxel.plant.flower.Bush.small.name=작은 덤불
+//[Reference] 'A pink, elegant flower.'
+staxel.plant.flower.CallaLily.pink.description=우아한 분홍 꽃。
+//[Reference] 'Pink Calla Lily'
+staxel.plant.flower.CallaLily.pink.name=분홍 칼라리리
+//[Reference] 'An orange, elegant flower.'
+staxel.plant.flower.CallaLily.slim.orange.description=우아한 주황색 꽃
+//[Reference] 'Orange Calla Lily'
+staxel.plant.flower.CallaLily.slim.orange.name=주황 칼라리리
+//[Reference] 'A pink, elegant flower.'
+staxel.plant.flower.CallaLily.slim.pink.description=우아한 분홍 꽃。
+//[Reference] 'Pink Calla Lily'
+staxel.plant.flower.CallaLily.slim.pink.name=분홍 칼라리리
+//[Reference] 'A purple, elegant flower.'
+staxel.plant.flower.CallaLily.slim.purple.description=우아한 보라 꽃
+//[Reference] 'Purple Calla Lily'
+staxel.plant.flower.CallaLily.slim.purple.name=보라 칼라리리
+//[Reference] 'A red, elegant flower.'
+staxel.plant.flower.CallaLily.slim.red.description=우아한 빨강 꽃
+//[Reference] 'Red Calla Lily'
+staxel.plant.flower.CallaLily.slim.red.name=빨간 칼라리리
+//[Reference] 'A violet, elegant flower.'
+staxel.plant.flower.CallaLily.slim.violet.description=우아한 청자색 꽃
+//[Reference] 'Violet Calla Lily'
+staxel.plant.flower.CallaLily.slim.violet.name=청자 칼라리리
+//[Reference] 'A white, elegant flower.'
+staxel.plant.flower.CallaLily.slim.white.description=우아한 하양 꽃
+//[Reference] 'White Calla Lily'
+staxel.plant.flower.CallaLily.slim.white.name=하양 칼라리리
+//[Reference] 'A white, elegant flower.'
+staxel.plant.flower.CallaLily.white.description=우아한 하양 꽃
+//[Reference] 'White Calla Lily'
+staxel.plant.flower.CallaLily.white.name=하양 칼라리리
+//[Reference] 'A big, beautiful, orange flower with a great deal of small petals.'
+staxel.plant.flower.Chrysanthemum.orange.description=크고 아름다운 작은 꽃다발을 많이 붙인 주황색 꽃입니다.
+//[Reference] 'Orange Chrysanthemum'
+staxel.plant.flower.Chrysanthemum.orange.name=오렌지색 국화
+//[Reference] 'A big, beautiful, red flower with a great deal of small petals.'
+staxel.plant.flower.Chrysanthemum.red.description=크고 아름다운 작은 꽃다발을 많이 붙인 빨강 꽃입니다.
+//[Reference] 'Red Chrysanthemum'
+staxel.plant.flower.Chrysanthemum.red.name=빨강 국화
+//[Reference] 'A big, beautiful, yellow flower with a great deal of small petals.'
+staxel.plant.flower.Chrysanthemum.yellow.description=크고 아름다운 작은 꽃다발을 많이 붙인 노랑 꽃입니다.
+//[Reference] 'Yellow Chrysanthemum'
+staxel.plant.flower.Chrysanthemum.yellow.name=노랑 국화
+//[Reference] 'A simple, but pretty, little flower.'
+staxel.plant.flower.Daisies.pink.description=심플하나 귀엽고 작은 꽃입니다.
+//[Reference] 'Pink Daisy'
+staxel.plant.flower.Daisies.pink.name=분홍 데이지
+//[Reference] 'A simple, but pretty, little flower.'
+staxel.plant.flower.Daisies.white.description=심플하나 귀엽고 작은 꽃입니다.
+//[Reference] 'White Daisy'
+staxel.plant.flower.Daisies.white.name=하얀 데이지
+staxel.plant.flower.Dandelion.big.description=
+//[Reference] 'Dandelion'
+staxel.plant.flower.Dandelion.big.name=민들레
+staxel.plant.flower.Dandelion.small.description=
+//[Reference] 'Dandelion'
+staxel.plant.flower.Dandelion.small.name=민들레
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.lightPink.1.description=많은 꽃잎들을 피게 해주는 아름답고 큰 식물입니다.
+//[Reference] 'Light Pink Delphinium'
+staxel.plant.flower.Delphinium.lightPink.1.name=밝은 분홍 제비고깔
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.lightPink.2.description=많은 꽃잎들을 피게 해주는 아름답고 큰 식물입니다.
+//[Reference] 'Light Pink Delphinium'
+staxel.plant.flower.Delphinium.lightPink.2.name=밝은 분홍 제비고깔
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.lightPurple.description=많은 꽃잎들을 피게 해주는 아름답고 큰 식물입니다.
+//[Reference] 'Light Purple Delphinium'
+staxel.plant.flower.Delphinium.lightPurple.name=연한 보라 제비고깔
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.pink.description=많은 꽃잎들을 피게 해주는 아름답고 큰 식물입니다.
+//[Reference] 'Pink Delphinium'
+staxel.plant.flower.Delphinium.pink.name=분홍 제비고깔
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.purple.description=많은 꽃잎들을 피게 해주는 아름답고 큰 식물입니다.
+//[Reference] 'Purple Delphinium'
+staxel.plant.flower.Delphinium.purple.name=보라 제비고깔
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.white.1.description=많은 꽃들을 피게 해주는 아름답고 큰 식물입니다.
+//[Reference] 'White Delphinium'
+staxel.plant.flower.Delphinium.white.1.name=하얀 제비고깔
+//[Reference] 'A towering bunch of stunning flowers.'
+staxel.plant.flower.Delphinium.white.2.description=많은 꽃들을 피게 해주는 아름답고 큰 식물입니다.
+//[Reference] 'White Delphinium'
+staxel.plant.flower.Delphinium.white.2.name=하얀 제비고깔
+//[Reference] 'A gorgeous, delicate flower.'
+staxel.plant.flower.Iris.blue.description=아름답지만 연약한 꽃입니다.
+//[Reference] 'Blue Iris'
+staxel.plant.flower.Iris.blue.name=파란 붓꽃
+//[Reference] 'A gorgeous, delicate flower.'
+staxel.plant.flower.Iris.purple.description=아름답지만 연약한 꽃입니다.
+//[Reference] 'Purple Iris'
+staxel.plant.flower.Iris.purple.name=보라 붓꽃
+staxel.plant.flower.Lavender.big.description=
+//[Reference] 'Lavender'
+staxel.plant.flower.Lavender.big.name=라벤더
+staxel.plant.flower.Lavender.small.description=
+//[Reference] 'Lavender'
+staxel.plant.flower.Lavender.small.name=라벤더
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.blue.description=품위있는 트럼펫 모양의 꽃입니다.
+//[Reference] 'Blue Lily'
+staxel.plant.flower.Lily.blue.name=파란 백합
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.orange.1.description=품위있는 트럼펫 모양의 꽃입니다.
+//[Reference] 'Orange Lily'
+staxel.plant.flower.Lily.orange.1.name=주황 백합
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.pink.1.description=품위있는 트럼펫 모양의 꽃입니다.
+//[Reference] 'Pink Lily'
+staxel.plant.flower.Lily.pink.1.name=분홍 백합
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.pink.2.description=품위있는 트럼펫 모양의 꽃입니다.
+//[Reference] 'Pink Lily'
+staxel.plant.flower.Lily.pink.2.name=분홍 백합
+//[Reference] 'A fine, trumpet shaped flower.'
+staxel.plant.flower.Lily.white.description=품위있는 트럼펫 모양의 꽃입니다.
+//[Reference] 'White Lily'
+staxel.plant.flower.Lily.white.name=하얀 백합
+staxel.plant.flower.Madia.description=
+//[Reference] 'Madia'
+staxel.plant.flower.Madia.name=마디아
+//[Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Pansies.blue.description=독특한 무늬의 꽃잎을 가진 꽃입니다. 나비처럼 생겼네요!
+//[Reference] 'Blue Pansies'
+staxel.plant.flower.Pansies.blue.name=파란 제비꽃
+//[Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Pansies.pink.description=독특한 무늬의 꽃잎을 가진 꽃입니다. 나비처럼 생겼네요!
+//[Reference] 'Pink Pansies'
+staxel.plant.flower.Pansies.pink.name=분홍 제비꽃
+//[Reference] 'An eye catching flower with large petals.'
+staxel.plant.flower.Petunias.blue.description=큰 꽃잎을 가지고 있어 눈에 띄는 꽃입니다.
+//[Reference] 'Blue Petunias'
+staxel.plant.flower.Petunias.blue.name=파란 페튜니아
+//[Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Petunias.pinkWhite.description=독특한 무늬의 꽃잎을 가진 꽃입니다. 나비처럼 생겼네요!
+//[Reference] 'Pink & White Petunias'
+staxel.plant.flower.Petunias.pinkWhite.name=분홍색과 하얀색의 페튜니아
+//[Reference] 'A flower with a unique pattern on its petals. It almost looks like a butterfly!'
+staxel.plant.flower.Petunias.purpleWhite.description=독특한 무늬의 꽃잎을 가진 꽃입니다. 나비처럼 생겼네요!
+//[Reference] 'Purple & White Petunias'
+staxel.plant.flower.Petunias.purpleWhite.name=보라색과 하얀색의 페튜니아
+//[Reference] 'A small, simple and very beautiful flower.'
+staxel.plant.flower.Poppies.red.description=작고 아주 아름다운 꽃입니다.
+//[Reference] 'Red Poppies'
+staxel.plant.flower.Poppies.red.name=빨간 양귀비
+//[Reference] 'A small, simple and very beautiful flower.'
+staxel.plant.flower.Poppies.white.description=작고 아주 아름다운 꽃입니다.
+//[Reference] 'White Poppies'
+staxel.plant.flower.Poppies.white.name=하얀 양귀비
+//[Reference] 'A glamorous, iconic flower.'
+staxel.plant.flower.Roses.red.description=매력적이라 널리 알려진 꽃입니다.
+//[Reference] 'Red Roses'
+staxel.plant.flower.Roses.red.name=붉은 장미
+//[Reference] 'A glamorous, iconic flower.'
+staxel.plant.flower.Roses.yellow.description=매력적이라 널리 알려진 꽃입니다.
+//[Reference] 'Yellow Roses'
+staxel.plant.flower.Roses.yellow.name=노란 장미
+//[Reference] 'A breath taking, vividly coloured flower with long petals.'
+staxel.plant.flower.Senneti.pink.description=긴 꽃잎을 가지고 있으며, 놀라울 정도로 산뜻한 색을 가진 꽃입니다.
+//[Reference] 'Pink Senetti'
+staxel.plant.flower.Senneti.pink.name=분홍 시네라리아
+//[Reference] 'A breath taking, vividly coloured flower with long petals.'
+staxel.plant.flower.Senneti.pinkWhite.description=긴 꽃잎을 가지고 있으며, 놀라울 정도로 산뜻한 색을 가진 꽃입니다.
+//[Reference] 'Pink & White Senetti'
+staxel.plant.flower.Senneti.pinkWhite.name=분홍색과 하얀색의 시네라리아
+//[Reference] 'A breath taking, vividly coloured flower with long petals.'
+staxel.plant.flower.Senneti.purple.description=긴 꽃잎을 가지고 있으며, 놀라울 정도로 산뜻한 색을 가진 꽃입니다.
+//[Reference] 'Purple Senetti'
+staxel.plant.flower.Senneti.purple.name=보라 시네라리아
+//[Reference] 'A bright, cheerful flower.'
+staxel.plant.flower.Sunflower.yellow.1.description=밝고, 생기있는 꽃입니다.
+//[Reference] 'Sunflower'
+staxel.plant.flower.Sunflower.yellow.1.name=해바라기
+//[Reference] 'A bright, cheerful flower.'
+staxel.plant.flower.Sunflower.yellow.2.description=밝고, 생기있는 꽃입니다.
+//[Reference] 'Sunflower'
+staxel.plant.flower.Sunflower.yellow.2.name=해바라기
+//[Reference] 'Some wild, extra long grass.'
+staxel.plant.flower.WildGrass.description=아주 큰 들풀입니다.
+//[Reference] 'Wild Grass'
+staxel.plant.flower.WildGrass.name=들풀
+
+//[Reference] 'A freshly picked brown mushroom. This one looks safe to eat.'
+staxel.plant.gatherable.BrownMushroom.description=방금 채집한 갈색 버섯입니다. 먹어도 될 것 같이 보입니다.
+//[Reference] 'Brown Mushroom'
+staxel.plant.gatherable.BrownMushroom.name=갈색 버섯
+staxel.plant.gatherable.HermitShell.description=
+//[Reference] 'Hermit Shell'
+staxel.plant.gatherable.HermitShell.name=소라게 껍데기
+staxel.plant.gatherable.PearlShell.description=
+//[Reference] 'Pearl Shell'
+staxel.plant.gatherable.PearlShell.name=진주 껍데기
+staxel.plant.gatherable.RedCoral.description=
+//[Reference] 'Red Coral'
+staxel.plant.gatherable.RedCoral.name=붉은 산호
+staxel.plant.gatherable.RedWhiteMushroom.description=
+//[Reference] 'Red White Mushroom'
+staxel.plant.gatherable.RedWhiteMushroom.name=빨갛고 하얀 버섯
+staxel.plant.gatherable.Starfish.description=
+//[Reference] 'Starfish'
+staxel.plant.gatherable.Starfish.name=불가사리
+staxel.plant.gatherable.SwirlyShell.description=
+//[Reference] 'Swirly Shell'
+staxel.plant.gatherable.SwirlyShell.name=달팽이 껍질
+staxel.plant.gatherable.WhiteMushrooms.description=
+//[Reference] 'White Mushrooms'
+staxel.plant.gatherable.WhiteMushrooms.name=하얀 버섯
+
+//[Reference] 'What a cute little bonsai tree!'
+staxel.plant.indoors.Bonsai.small.description=작고 귀여운 분재야!
+//[Reference] 'Small Bonsai Tree'
+staxel.plant.indoors.Bonsai.small.name=작은 분재
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.1.description=작고 귀여운 선인장이야!
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.1.name=작은 선인장
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.2.description=작고 귀여운 선인장이야!
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.2.name=작은 선인장
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.3.description=작고 귀여운 선인장이야!
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.3.name=작은 선인장
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.4.description=작고 귀여운 선인장이야!
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.4.name=작은 선인장
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.5.description=작고 귀여운 선인장이야!
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.5.name=작은 선인장
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.6.description=작고 귀여운 선인장이야!
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.6.name=작은 선인장
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.7.description=작고 귀여운 선인장이야!
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.7.name=작은 선인장
+//[Reference] 'An adorable mini cactus!'
+staxel.plant.indoors.Cactus.mini.8.description=작고 귀여운 선인장이야!
+//[Reference] 'Mini Cactus'
+staxel.plant.indoors.Cactus.mini.8.name=작은 선인장
+//[Reference] 'An empty pot.'
+staxel.plant.indoors.EmptyPot.mini.1.description=아무것도 들어있지 않은 화분입니다.
+//[Reference] 'Empty Pot'
+staxel.plant.indoors.EmptyPot.mini.1.name=빈 화분
+//[Reference] 'An empty pot.'
+staxel.plant.indoors.EmptyPot.mini.2.description=아무것도 들어있지 않은 화분입니다.
+//[Reference] 'Empty Pot'
+staxel.plant.indoors.EmptyPot.mini.2.name=빈 화분
+//[Reference] 'An empty glass vase, ready for use.'
+staxel.plant.indoors.GlassJar.empty.description=사용 할 수 있는 빈 병입니다.
+//[Reference] 'Empty Glass Vase'
+staxel.plant.indoors.GlassJar.empty.name=빈 병
+//[Reference] 'A mug with a heart on it, how sweet!'
+staxel.plant.indoors.HeartMug.empty.description=하트모양이 그려진 멋진 머그컵이에요!
+//[Reference] 'Heart Mug'
+staxel.plant.indoors.HeartMug.empty.name=하트 머그컵
+//[Reference] 'A heart mug with roses inside!'
+staxel.plant.indoors.HeartMug.roses.description=장미가 심어진 하트모양 머그컵이에요!
+//[Reference] 'Heart Mug With Roses'
+staxel.plant.indoors.HeartMug.roses.name=장미가 심어진 하트 머그컵
+//[Reference] 'A healthy looking Hydrangea in a pot.'
+staxel.plant.indoors.Hydrangea.small.description=생생한 수국이 심어진 화분입니다.
+//[Reference] 'Small Potted Hydrangea'
+staxel.plant.indoors.Hydrangea.small.name=작은 수국이 심어진 화분
+//[Reference] 'A healthy looking Hydrangea in a pot.'
+staxel.plant.indoors.HydrangeaPot.small.description=생생한 수국이 심어진 화분입니다.
+//[Reference] 'Potted Hydrangea'
+staxel.plant.indoors.HydrangeaPot.small.name=수국이 심어진 화분
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.1.description=작고 귀여운 식물이 심어진 통입니다. 꾸미기에 안성맞춤이에요!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.1.name=잉크통 화분
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.2.description=작고 귀여운 식물이 심어진 통입니다. 구미기에 안성맞춤이에요!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.2.name=잉크통 화분
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.3.description=작고 귀여운 식물이 심어진 통입니다. 꾸미기에 안성맞춤이에요!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.3.name=잉크통 화분
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.4.description=작고 귀여운 식물이 심어진 통입니다. 꾸미기에 안성맞춤이에요!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.4.name=잉크통 화분
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.5.description=작고 귀여운 식물이 심어진 통입니다. 꾸미기에 안성맞춤이에요!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.5.name=잉크통 화분
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.6.description=작고 귀여운 식물이 심어진 통입니다. 꾸미기에 안성맞춤이에요!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.6.name=잉크통 화분
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.7.description=작고 귀여운 식물이 심어진 통입니다. 꾸미기에 안성맞춤이에요!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.7.name=잉크통 화분
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.8.description=작고 귀여운 식물이 심어진 통입니다. 꾸미기에 안성맞춤이에요!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.8.name=잉크통 화분
+//[Reference] 'This small pot contains a cute little plant. Great for decoration!'
+staxel.plant.indoors.InkwellPot.9.description=작고 귀여운 식물이 심어진 통입니다. 꾸미기에 안성맞춤이에요!
+//[Reference] 'Inkwell Pot'
+staxel.plant.indoors.InkwellPot.9.name=잉크통 화분
+//[Reference] 'Empty Inkwell Pot'
+staxel.plant.indoors.InkwellPot.empty.1.description=빈 잉크통 화분입니다
+//[Reference] 'Someone's used all the ink...'
+staxel.plant.indoors.InkwellPot.empty.1.name=누군가 잉크를 전부 쓴 것 같습니다.
+//[Reference] 'Empty Inkwell Pot'
+staxel.plant.indoors.InkwellPot.empty.2.description=빈 잉크통
+//[Reference] 'Someone's used all the ink...'
+staxel.plant.indoors.InkwellPot.empty.2.name=누군가 잉크를 전부 쓴 것 같습니다.
+//[Reference] 'Empty Inkwell Pot'
+staxel.plant.indoors.InkwellPot.empty.3.description=빈 잉크통
+//[Reference] 'Someone's used all the ink...'
+staxel.plant.indoors.InkwellPot.empty.3.name=누군가 잉크를 전부 쓴 것 같습니다.
+//[Reference] 'A pale pot with a lovely, healthy plant inside.'
+staxel.plant.indoors.PottedPlant.description=사랑스럽고 생기있는 식물이 심어진 하얗고 파란색의 화분입니다.
+//[Reference] 'Potted Plant'
+staxel.plant.indoors.PottedPlant.name=식물이 심어진 화분
+//[Reference] 'A large orange pot with primroses growing inside.'
+staxel.plant.indoors.Primroses.description=앵초가 가운데 자라있는, 주황색의 큰 화분입니다.
+//[Reference] 'Primroses'
+staxel.plant.indoors.Primroses.name=앵초
+//[Reference] 'A tiny pot with a very tiny plant growing inside. So cute!'
+staxel.plant.indoors.Sapling.small.1.description=아주 작은 식물이 가운데 자라있는 작은 화분입니다. 너무 귀여워!!
+//[Reference] 'Tiny Potted Plant'
+staxel.plant.indoors.Sapling.small.1.name=작은 식물이 심어진 화분
+//[Reference] 'A tiny pot with a very tiny plant growing inside. So cute!'
+staxel.plant.indoors.Sapling.small.2.description=아주 작은 식물이 가운데 자라있는 작은 화분입니다. 너무 귀여워!!
+//[Reference] 'Tiny Potted Plant'
+staxel.plant.indoors.Sapling.small.2.name=작은 식물이 심어진 화분
+//[Reference] 'A large, detailed pot with sunflowers growing inside.'
+staxel.plant.indoors.Sunflowers.description=해바라기가 가운데 심어진 큰 화분입니다.
+//[Reference] 'Potted Sunflowers'
+staxel.plant.indoors.Sunflowers.name=해바리가기 심어진 화분
+//[Reference] 'Potted tulips in a lovely, simple pot.'
+staxel.plant.indoors.Tulips.purple.description=튤립이 가운데 심어진 사랑스러운 화분입니다.
+//[Reference] 'Potted Tulips'
+staxel.plant.indoors.Tulips.purple.name=튤립이 심어진 화분
+//[Reference] 'A plain, empty pot.'
+staxel.plant.indoors.TulipsMug.empty.purple.description=아무것도 심어져있지 않은 빈 화분입니다.
+//[Reference] 'Empty Pot'
+staxel.plant.indoors.TulipsMug.empty.purple.name=빈 화분
+
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a A note.'
+staxel.plant.musical.PianoA.description=사용하면 피아노 소리가 나는 식물입니다! 이건 A음 (라) 소리가 납니다.
+//[Reference] 'Musical Piano Plant Note A'
+staxel.plant.musical.PianoA.name=피아노 식물 (A음)
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a B note.'
+staxel.plant.musical.PianoB.description=사용하면 피아노 소리가 나는 식물입니다! 이건 B음 (시) 소리가 납니다.
+//[Reference] 'Musical Piano Plant Note B'
+staxel.plant.musical.PianoB.name=피아노 식물 (B음)
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a C note.'
+staxel.plant.musical.PianoC.description=사용하면 피아노 소리가 나는 식물입니다! 이건 C음 (도) 소리가 납니다.
+//[Reference] 'Musical Piano Plant Note C'
+staxel.plant.musical.PianoC.name=피아노 식물 (C음)
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a D note.'
+staxel.plant.musical.PianoD.description=사용하면 피아노 소리가 나는 식물입니다! 이건 D음 (레) 소리가 납니다.
+//[Reference] 'Musical Piano Plant Note D'
+staxel.plant.musical.PianoD.name=피아노 식물 (D음)
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a E note.'
+staxel.plant.musical.PianoE.description=사용하면 피아노 소리가 나는 식물입니다! 이건 E음 (미) 소리가 납니다.
+//[Reference] 'Musical Piano Plant Note E'
+staxel.plant.musical.PianoE.name=피아노 식물 (E음)
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a F note.'
+staxel.plant.musical.PianoF.description=사용하면 피아노 소리가 나는 식물입니다! 이건 F음 (파) 소리가 납니다.
+//[Reference] 'Musical Piano Plant Note F'
+staxel.plant.musical.PianoF.name=피아노 식물 (F음)
+//[Reference] 'This plant makes the sound of a piano when interacted with! This particular one makes a G note.'
+staxel.plant.musical.PianoG.description=사용하면 피아노 소리가 나는 식물입니다! 이건 G음 (솔) 소리가 납니다.
+//[Reference] 'Musical Piano Plant Note G'
+staxel.plant.musical.PianoG.name=피아노 식물 (G음)
+staxel.plant.tree.AppleTree.description=
+//[Reference] 'Apple Tree'
+staxel.plant.tree.AppleTree.name=사과 나무
+staxel.plant.tree.BananaTree.description=
+//[Reference] 'Banana Tree'
+staxel.plant.tree.BananaTree.name=바난 나무
+staxel.plant.tree.CherryTree.description=
+//[Reference] 'Cherry Tree'
+staxel.plant.tree.CherryTree.name=체리 나무
+staxel.plant.tree.CocoaTree.description=
+//[Reference] 'Cocoa Tree'
+staxel.plant.tree.CocoaTree.name=카카오 나무
+staxel.plant.tree.CoconutTree.description=
+//[Reference] 'Coconut Tree'
+staxel.plant.tree.CoconutTree.name=코코넛 나무
+staxel.plant.tree.DragonFruitTree.description=
+//[Reference] 'Dragon Fruit Tree'
+staxel.plant.tree.DragonFruitTree.name=용과 나무
+staxel.plant.tree.KiwiTree.description=
+//[Reference] 'Kiwi Tree'
+staxel.plant.tree.KiwiTree.name=키위 나무
+staxel.plant.tree.LemonTree.description=
+//[Reference] 'Lemon Tree'
+staxel.plant.tree.LemonTree.name=레몬 나무
+staxel.plant.tree.LimeTree.description=
+//[Reference] 'Lime Tree'
+staxel.plant.tree.LimeTree.name=라임 나무
+staxel.plant.tree.MangoTree.description=
+//[Reference] 'Mango Tree'
+staxel.plant.tree.MangoTree.name=망고 나무
+staxel.plant.tree.OrangeTree.description=
+//[Reference] 'Orange Tree'
+staxel.plant.tree.OrangeTree.name=오렌지 나무
+staxel.plant.tree.PeachTree.description=
+//[Reference] 'Peach Tree'
+staxel.plant.tree.PeachTree.name=복숭아 나무
+staxel.plant.tree.PearTree.description=
+//[Reference] 'Pear Tree'
+staxel.plant.tree.PearTree.name=배 나무
+staxel.plant.tree.TangerineTree.description=
+//[Reference] 'Tangerine Tree'
+staxel.plant.tree.TangerineTree.name=홍귤 나무
+staxel.plant.weed.Weed1.description=
+//[Reference] 'Weeds'
+staxel.plant.weed.Weed1.name=잡초
