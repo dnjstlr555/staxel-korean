@@ -2634,26 +2634,26 @@ staxel.tileObject.biomeDebris.LongMeadowGrass.4.Winter.description=
 staxel.tileObject.biomeDebris.LongMeadowGrass.4.Winter.name=겨울
 staxel.tileObject.bobbleheads.BadgerBobbleHead.description=
 //[Reference] 'Badger Bobble Head'
-staxel.tileObject.bobbleheads.BadgerBobbleHead.name=Badger Bobble Head
+staxel.tileObject.bobbleheads.BadgerBobbleHead.name=Badger 버블헤드
 staxel.tileObject.bobbleheads.CurtisBobbleHead.description=
 //[Reference] 'Curtis Bobble Head'
-staxel.tileObject.bobbleheads.CurtisBobbleHead.name=Curtis Bobble Head
+staxel.tileObject.bobbleheads.CurtisBobbleHead.name=Curtis 버블헤드
 staxel.tileObject.bobbleheads.DeamonHunterBobbleHead.description=
 //[Reference] 'Deamon Hunter Bobble Head'
-staxel.tileObject.bobbleheads.DeamonHunterBobbleHead.name=Deamon Hunter Bobble Head
+staxel.tileObject.bobbleheads.DeamonHunterBobbleHead.name=Deamon Hunter 버블헤드
 //[Reference] 'The one and only!'
 staxel.tileObject.bobbleheads.FarmFanBobblehead.description=The one and only!
 //[Reference] 'Farm Fan Bobblehead'
-staxel.tileObject.bobbleheads.FarmFanBobblehead.name=Farm Fan Bobblehead
+staxel.tileObject.bobbleheads.FarmFanBobblehead.name=Farm Fan 버블헤드
 staxel.tileObject.bobbleheads.LambdaBobbleHead.description=
 //[Reference] 'Lambda Bobble Head'
-staxel.tileObject.bobbleheads.LambdaBobbleHead.name=Lambda Bobble Head
+staxel.tileObject.bobbleheads.LambdaBobbleHead.name=Lambda 버블헤드
 staxel.tileObject.bobbleheads.ThomasBobbleHead.description=
 //[Reference] 'Thomas Bobble Head'
-staxel.tileObject.bobbleheads.ThomasBobbleHead.name=Thomas Bobble Head
+staxel.tileObject.bobbleheads.ThomasBobbleHead.name=Thomas 버블헤드
 staxel.tileObject.bobbleheads.WintersBobbleHead.description=
 //[Reference] 'Winters Bobble Head'
-staxel.tileObject.bobbleheads.WintersBobbleHead.name=Winters Bobble Head
+staxel.tileObject.bobbleheads.WintersBobbleHead.name=Winters 버블헤드
 staxel.tileObject.campingset.SittingLog.description=
 //[Reference] 'Sitting Log'
 staxel.tileObject.campingset.SittingLog.name=통나무 의자
@@ -2792,7 +2792,7 @@ staxel.tileObject.festival.feymasquerade.SmallRoseTable.description=
 staxel.tileObject.festival.feymasquerade.SmallRoseTable.name=작은 장미 잎사귀 테이블
 staxel.tileObject.festival.NekoShrine.description=
 //[Reference] 'Small Shrine'
-staxel.tileObject.festival.NekoShrine.name=Small Shrine
+staxel.tileObject.festival.NekoShrine.name=작은 사당
 staxel.tileObject.festival.PumpkinCarvingStation.description=
 //[Reference] 'Pumpkin Carving Station'
 staxel.tileObject.festival.PumpkinCarvingStation.name=호박 조각대
