@@ -2,287 +2,287 @@
 language.code=ko-KR
 language=한국어
 //[Reference] 'Bugs can be sold for money.'
-staxel.achievement.Catch10Bug.description=벌레도 돈을 받고 판매 할 수 있습니다.
+staxel.achievement.Catch10Bug.description=곤충도 팔아서 돈을 받을 수 있습니다.
 //[Reference] 'Catch 10 Bugs'
-staxel.achievement.Catch10Bug.name=벌레 10마리 잡기
+staxel.achievement.Catch10Bug.name=곤충 10마리 잡기
 //[Reference] 'Use a fishing rod.'
 staxel.achievement.Catch10Fish.description=낚싯대를 사용해서 물고기를 낚으세요.
 //[Reference] 'Catch 10 Fish'
 staxel.achievement.Catch10Fish.name=물고기 10마리 낚기
 //[Reference] 'If only programming bugs were so easy to catch.'
-staxel.achievement.Catch100Bug.description=
+staxel.achievement.Catch100Bug.description='버그'에 걸리면 '곤충'을 더 잘 잡을 수 있답니다.
 //[Reference] 'Catch 100 Bugs'
-staxel.achievement.Catch100Bug.name=
+staxel.achievement.Catch100Bug.name=곤충 100마리 잡기
 //[Reference] 'Them's good eating!'
-staxel.achievement.Catch100Fish.description=잘도 잡히는군!
+staxel.achievement.Catch100Fish.description=잘도 잡히네요!
 //[Reference] 'Catch 100 Fish'
 staxel.achievement.Catch100Fish.name=물고기 100마리 낚기
 //[Reference] 'Use a bug net.'
 staxel.achievement.CatchBug.description=잠자리채로 벌레를 잡으세요.
 //[Reference] 'Catch a Bug'
-staxel.achievement.CatchBug.name=Catch a Bug
+staxel.achievement.CatchBug.name=곤충 잡기
 //[Reference] 'CatchBugOneOfEach'
-staxel.achievement.CatchBugOneOfEach.description=CatchBugOneOfEach
+staxel.achievement.CatchBugOneOfEach.description=모든 종류의 곤충을 잡으세요.
 //[Reference] 'CatchBugOneOfEach'
-staxel.achievement.CatchBugOneOfEach.name=CatchBugOneOfEach
+staxel.achievement.CatchBugOneOfEach.name=모든 종류의 곤충 잡기
 //[Reference] 'Unleash your inner angler and reel in a nice catch.'
-staxel.achievement.CatchFish.description=Unleash your inner angler and reel in a nice catch.
+staxel.achievement.CatchFish.description=낚싯줄을 물에 던져 물고기를 낚아보세요.
 //[Reference] 'Catch a fish'
-staxel.achievement.CatchFish.name=Catch a fish
+staxel.achievement.CatchFish.name=물고기 낚기
 //[Reference] 'CatchFishOneOfEach'
-staxel.achievement.CatchFishOneOfEach.description=CatchFishOneOfEach
+staxel.achievement.CatchFishOneOfEach.description=모든 종류의 물고기를 낚으세요.
 //[Reference] 'CatchFishOneOfEach'
-staxel.achievement.CatchFishOneOfEach.name=CatchFishOneOfEach
+staxel.achievement.CatchFishOneOfEach.name=모든 종류의 물고기 낚기
 //[Reference] 'You can put them into Apiaries to make honey.'
-staxel.achievement.CatchQueen.description=You can put them into Apiaries to make honey.
+staxel.achievement.CatchQueen.description=벌 양봉장에 둬서 꿀을 모으게 할 수 있습니다.
 //[Reference] 'Catch a Queen Bee'
-staxel.achievement.CatchQueen.name=Catch a Queen Bee
+staxel.achievement.CatchQueen.name=여왕벌 잡기
 //[Reference] 'Use a wardrobe to change the way you dress!'
-staxel.achievement.ChangeClothing.description=Use a wardrobe to change the way you dress!
+staxel.achievement.ChangeClothing.description=복장을 바꿔줄 옷장을 사용하세요!
 //[Reference] 'Change Your Clothes'
-staxel.achievement.ChangeClothing.name=Change Your Clothes
+staxel.achievement.ChangeClothing.name=옷 갈아입기
 //[Reference] 'Charge a tool all the way.'
-staxel.achievement.ChargeTool.description=Charge a tool all the way.
+staxel.achievement.ChargeTool.description=도구를 사용할 때 힘을 모으세요.
 //[Reference] 'Charge a tool'
-staxel.achievement.ChargeTool.name=Charge a tool
+staxel.achievement.ChargeTool.name=도구로 힘 모으기
 //[Reference] 'Now you can call yourself a master chef.'
-staxel.achievement.Cook100.description=Now you can call yourself a master chef.
+staxel.achievement.Cook100.description=이제 최고의 요리사라고 불러도 손색이 없겠는데요?
 //[Reference] 'Cook 100 items'
-staxel.achievement.Cook100.name=Cook 100 items
+staxel.achievement.Cook100.name=요리 100번 하기
 //[Reference] 'Follow a cake recipe to bake a cake.'
-staxel.achievement.CookCake.description=Follow a cake recipe to bake a cake.
+staxel.achievement.CookCake.description=조리법을 따라 케이크를 구우세요.
 //[Reference] 'Bake a cake'
-staxel.achievement.CookCake.name=Bake a cake
+staxel.achievement.CookCake.name=케이크 굽기
 //[Reference] 'Bake one of each cake.'
-staxel.achievement.CookCakeOneOfEach.description=Bake one of each cake.
+staxel.achievement.CookCakeOneOfEach.description=모든 종류의 케이크를 구우세요.
 //[Reference] 'Bake One of Each Cake'
-staxel.achievement.CookCakeOneOfEach.name=Bake One of Each Cake
+staxel.achievement.CookCakeOneOfEach.name=모든 종류의 케이크 굽기
 //[Reference] 'Follow a recipe to bake a pie.'
-staxel.achievement.CookPie.description=Follow a recipe to bake a pie.
+staxel.achievement.CookPie.description=조리법을 따라 파이를 구우세요.
 //[Reference] 'Bake a Pie'
-staxel.achievement.CookPie.name=Bake a Pie
+staxel.achievement.CookPie.name=파이 굽기
 //[Reference] 'Bake one of each type of pie.'
-staxel.achievement.CookPieOneOfEach.description=Bake one of each type of pie.
+staxel.achievement.CookPieOneOfEach.description=모든 종류의 파이를 구우세요.
 //[Reference] 'Bake One of Each Pie'
-staxel.achievement.CookPieOneOfEach.name=Bake One of Each Pie
+staxel.achievement.CookPieOneOfEach.name=모든 종류의 파이 굽기
 //[Reference] 'Follow a recipe to make a preserved fruit.'
-staxel.achievement.CookPreserve.description=Follow a recipe to make a preserved fruit.
+staxel.achievement.CookPreserve.description=조리법을 따라 과일 보존식품을 요리하세요
 //[Reference] 'Cook a preserve'
-staxel.achievement.CookPreserve.name=Cook a preserve
+staxel.achievement.CookPreserve.name=보존식품 요리하기
 //[Reference] 'Cook one of each type of preserve.'
-staxel.achievement.CookPreserveOneOfEach.description=Cook one of each type of preserve.
+staxel.achievement.CookPreserveOneOfEach.description=모든 종류의 보존식품을 요리하세요.
 //[Reference] 'Cook One of Each Preserve'
-staxel.achievement.CookPreserveOneOfEach.name=Cook One of Each Preserve
+staxel.achievement.CookPreserveOneOfEach.name=보든종류의 보존식품 요리
 //[Reference] 'Follow a recipe to cook a soup.'
-staxel.achievement.CookSoup.description=Follow a recipe to cook a soup.
+staxel.achievement.CookSoup.description=조리법을 따라 수프를 요리하세요.
 //[Reference] 'Cook a Soup'
-staxel.achievement.CookSoup.name=Cook a Soup
+staxel.achievement.CookSoup.name=수프 요리하기
 //[Reference] 'Cook one of each type of soup.'
-staxel.achievement.CookSoupOneOfEach.description=Cook one of each type of soup.
+staxel.achievement.CookSoupOneOfEach.description=모든 종류의 수프를 요리하세요.
 //[Reference] 'Cook One of Each Soup'
-staxel.achievement.CookSoupOneOfEach.name=Cook One of Each Soup
+staxel.achievement.CookSoupOneOfEach.name=모든 종류의 수프 요리하기
 //[Reference] 'Deliver your farm registration letter to the mayor.'
-staxel.achievement.DeliverLicense.description=Deliver your farm registration letter to the mayor.
+staxel.achievement.DeliverLicense.description=이장님께 농사 자격증 신청서를 드리세요.
 //[Reference] 'Deliver Farm Registration Letter'
-staxel.achievement.DeliverLicense.name=Deliver Farm Registration Letter
+staxel.achievement.DeliverLicense.name=농사 자격증 신청서 전달
 //[Reference] 'Take a tool from the shelf.'
 staxel.achievement.EquipTool.description=Take a tool from the shelf.
 //[Reference] 'Equip a tool'
 staxel.achievement.EquipTool.name=Equip a tool
 //[Reference] 'Fill your pet's food bowl with food.'
-staxel.achievement.FillFoodBowl.description=Fill your pet's food bowl with food.
+staxel.achievement.FillFoodBowl.description=그릇에 어서 먹이를 채워주세요.
 //[Reference] 'Fill a Pet Food Bowl'
-staxel.achievement.FillFoodBowl.name=Fill a Pet Food Bowl
+staxel.achievement.FillFoodBowl.name=애완동물 먹이 그릇에 먹이 채우기
 //[Reference] 'Mushrooms are a great way to make money. Activate them to pick them up.'
-staxel.achievement.Gather10Mushrooms.description=Mushrooms are a great way to make money. Activate them to pick them up.
+staxel.achievement.Gather10Mushrooms.description=용돈 벌이에는 버섯을 파는 것 만 한게 없죠.
 //[Reference] 'Gather 10 Mushrooms'
-staxel.achievement.Gather10Mushrooms.name=Gather 10 Mushrooms
+staxel.achievement.Gather10Mushrooms.name=버섯 10개 줍기
 //[Reference] 'Shells are a great way to make money. Activate them to pick them up.'
-staxel.achievement.Gather10Shells.description=Shells are a great way to make money. Activate them to pick them up.
+staxel.achievement.Gather10Shells.description=용돈 벌이에는 껍데기를 파는 것 만 한게 없죠.
 //[Reference] 'Gather 10 Shells'
-staxel.achievement.Gather10Shells.name=Gather 10 Shells
+staxel.achievement.Gather10Shells.name=껍데기 10개 줍기
 //[Reference] 'Mushrooms are a great way to make money. Activate them to pick them up.'
-staxel.achievement.Gather100Mushrooms.description=Mushrooms are a great way to make money. Activate them to pick them up.
+staxel.achievement.Gather100Mushrooms.description=용돈 벌이에는 버섯을 파는 것 만 한게 없죠.
 //[Reference] 'Gather 100 Mushrooms'
-staxel.achievement.Gather100Mushrooms.name=Gather 100 Mushrooms
+staxel.achievement.Gather100Mushrooms.name=버섯 100개 줍기
 //[Reference] 'Shells are a great way to make money. Activate them to pick them up.'
-staxel.achievement.Gather100Shells.description=Shells are a great way to make money. Activate them to pick them up.
+staxel.achievement.Gather100Shells.description=용돈 벌이에는 껍데기를 파는 것 만 한게 없죠.
 //[Reference] 'Gather 100 Shells'
-staxel.achievement.Gather100Shells.name=Gather 100 Shells
+staxel.achievement.Gather100Shells.name=껍데기 100개 줍기
 //[Reference] 'GatherStarJelly'
-staxel.achievement.GatherStarJelly.description=GatherStarJelly
+staxel.achievement.GatherStarJelly.description=스타젤리를 찾아봅시다!
 //[Reference] 'GatherStarJelly'
-staxel.achievement.GatherStarJelly.name=GatherStarJelly
+staxel.achievement.GatherStarJelly.name=스타젤리 줍기
 //[Reference] 'These make eggs.'
-staxel.achievement.GetChicken.description=These make eggs.
+staxel.achievement.GetChicken.description=닭들은 달걀을 만들어 준답니다.
 //[Reference] 'Get a Chicken in a Crate'
-staxel.achievement.GetChicken.name=Get a Chicken in a Crate
+staxel.achievement.GetChicken.name=닭이 든 상자 얻기
 //[Reference] 'A great source of milk.'
-staxel.achievement.GetCow.description=A great source of milk.
+staxel.achievement.GetCow.description=좋은 우유를 주는 친구입니다.
 //[Reference] 'Get a Cow in a Crate'
-staxel.achievement.GetCow.name=Get a Cow in a Crate
+staxel.achievement.GetCow.name=소가 든 상자 얻기
 //[Reference] 'A gift from your chickens!'
-staxel.achievement.GetEgg.description=A gift from your chickens!
+staxel.achievement.GetEgg.description=닭의 선물입니다!
 //[Reference] 'Pick up an Egg'
-staxel.achievement.GetEgg.name=Pick up an Egg
+staxel.achievement.GetEgg.name=달걀 줍기
 //[Reference] 'Don't put them all in one basket!'
-staxel.achievement.GetEgg100.description=Don't put them all in one basket!
+staxel.achievement.GetEgg100.description=한 바구니로는 부족할 것 같아요!
 //[Reference] 'Pick up 100 Eggs'
-staxel.achievement.GetEgg100.name=Pick up 100 Eggs
+staxel.achievement.GetEgg100.name=달걀 100개 줍기
 //[Reference] 'They love to play in the mud.'
-staxel.achievement.GetPig.description=They love to play in the mud.
+staxel.achievement.GetPig.description=돼지들은 진흙웅덩이에서 노는걸 좋아하죠.
 //[Reference] 'Get a Pig in a Crate'
-staxel.achievement.GetPig.name=Get a Pig in a Crate
+staxel.achievement.GetPig.name=돼지가 든 상자 얻기
 //[Reference] 'Don't forget to pick up after your animals!'
-staxel.achievement.GetPoops.description=Don't forget to pick up after your animals!
+staxel.achievement.GetPoops.description=동물들이 지나간 자리를 잘 둘러보세요!
 //[Reference] 'Pick up 100 Poops'
-staxel.achievement.GetPoops.name=Pick up 100 Poops
+staxel.achievement.GetPoops.name=똥 100개 줍기
 //[Reference] 'Your wooly friend.'
-staxel.achievement.GetSheep.description=Your wooly friend.
+staxel.achievement.GetSheep.description=여러분의 폭신한 친구입니다!
 //[Reference] 'Get a Sheep in a Crate'
-staxel.achievement.GetSheep.name=Get a Sheep in a Crate
+staxel.achievement.GetSheep.name=양이 든 상자 얻기
 //[Reference] 'It's harvest time! Bring in the bounty!'
-staxel.achievement.HarvestCrop.description=It's harvest time! Bring in the bounty!
+staxel.achievement.HarvestCrop.description=수확할 시간이예요!
 //[Reference] 'Harvest a crop'
-staxel.achievement.HarvestCrop.name=Harvest a crop
+staxel.achievement.HarvestCrop.name=농작물 수확하기
 //[Reference] 'You'll need to populate an Apiary for this.'
-staxel.achievement.HarvestHoney.description=You'll need to populate an Apiary for this.
+staxel.achievement.HarvestHoney.description=꿀을 얻기 위해서는 벌 양봉장이 필요합니다.
 //[Reference] 'Harvest Honey'
-staxel.achievement.HarvestHoney.name=Harvest Honey
+staxel.achievement.HarvestHoney.name=꿀 수확하기
 //[Reference] 'LootTreasure'
 staxel.achievement.LootTreasure.description=LootTreasure
 //[Reference] 'LootTreasure'
 staxel.achievement.LootTreasure.name=LootTreasure
 //[Reference] 'Follow a recipe to make some delicious jam.'
-staxel.achievement.MakeJam.description=Follow a recipe to make some delicious jam.
+staxel.achievement.MakeJam.description=조리법을 따라 맛있는 잼을 만드세요.
 //[Reference] 'Make jam'
-staxel.achievement.MakeJam.name=Make jam
+staxel.achievement.MakeJam.name=잼 만들기
 //[Reference] 'Don't forget to milk them every day!'
-staxel.achievement.MilkCow.description=Don't forget to milk them every day!
+staxel.achievement.MilkCow.description=매일매일 우유짜는걸 잊지마세요!
 //[Reference] 'Milk a Cow'
-staxel.achievement.MilkCow.name=Milk a Cow
+staxel.achievement.MilkCow.name=소에게서 우유짜기
 //[Reference] 'Do these things ever run out of milk?'
-staxel.achievement.MilkCow100.description=Do these things ever run out of milk?
+staxel.achievement.MilkCow100.description=우유가 이렇게 많으니 한동안은 부족하지 않겠네요.
 //[Reference] 'Milk a Cow 100 Times'
-staxel.achievement.MilkCow100.name=Milk a Cow 100 Times
+staxel.achievement.MilkCow100.name=우유 100번 짜기
 //[Reference] 'Scythe plants to get 10 mixed seeds.'
-staxel.achievement.Mixed10.description=Scythe plants to get 10 mixed seeds.
+staxel.achievement.Mixed10.description=풀들을 뽑아 10개의 섞인 씨앗을 찾으세요.
 //[Reference] 'Find 10 Mixed Seeds'
-staxel.achievement.Mixed10.name=Find 10 Mixed Seeds
+staxel.achievement.Mixed10.name=섞인 씨앗 10개 찾기
 //[Reference] 'Find 100 mixed seeds. Ah the smell of fresh cut grass.'
-staxel.achievement.Mixed100.description=Find 100 mixed seeds. Ah the smell of fresh cut grass.
+staxel.achievement.Mixed100.description=100개의 섞인 씨앗을 찾으세요. 갓 뽑은 풀들의 냄새가 나네요.
 //[Reference] 'Find 100 Mixed Seeds'
-staxel.achievement.Mixed100.name=Find 100 Mixed Seeds
+staxel.achievement.Mixed100.name=섞인 씨앗 100개 찾기
 //[Reference] 'Order 10 items from the catalogue.'
-staxel.achievement.Order10.description=Order 10 items from the catalogue.
+staxel.achievement.Order10.description=catalogue에서 10개의 아이템을 주문하세요.
 //[Reference] 'Order 10 Items'
-staxel.achievement.Order10.name=Order 10 Items
+staxel.achievement.Order10.name=아이템 10개 주문하기
 //[Reference] 'Order 100 items from the catalogue.'
-staxel.achievement.Order100.description=Order 100 items from the catalogue.
+staxel.achievement.Order100.description=catalogue에서 100개의 아이템을 주문하세요.
 //[Reference] 'Order 100 Items'
-staxel.achievement.Order100.name=Order 100 Items
+staxel.achievement.Order100.name=아이템 100개 주문하기
 //[Reference] 'Place an order for any item in the shipping catalogue.'
-staxel.achievement.OrderItem.description=Place an order for any item in the shipping catalogue.
+staxel.achievement.OrderItem.description=shipping catalogue에서 아무 아이템이나 하나 주문하세요.
 //[Reference] 'Order an item'
-staxel.achievement.OrderItem.name=Order an item
+staxel.achievement.OrderItem.name=아이템 주문하기
 //[Reference] 'Get to building!'
-staxel.achievement.Place100Blocks.description=Get to building!
+staxel.achievement.Place100Blocks.description=건물을 지어봅시다!
 //[Reference] 'Place 100 Blocks'
-staxel.achievement.Place100Blocks.name=Place 100 Blocks
+staxel.achievement.Place100Blocks.name=블럭 100개 두기
 //[Reference] 'You can build a mansion with all these blocks.'
-staxel.achievement.Place1000Blocks.description=You can build a mansion with all these blocks.
+staxel.achievement.Place1000Blocks.description=이정도의 블럭으로는 아파트도 지을 수 있을 것 같아요!
 //[Reference] 'Place 1000 Blocks'
-staxel.achievement.Place1000Blocks.name=Place 1000 Blocks
+staxel.achievement.Place1000Blocks.name=블럭 1000개 두기
 //[Reference] 'Place a boiling, chopping, baking, mixing, and frying station.'
 staxel.achievement.PlaceCookingStuff.description=Place a boiling, chopping, baking, mixing, and frying station.
 //[Reference] 'Place Cooking Stations'
-staxel.achievement.PlaceCookingStuff.name=Place Cooking Stations
+staxel.achievement.PlaceCookingStuff.name=요리 도구들 전부 두기
 //[Reference] 'Buy and place a seedmaker.'
-staxel.achievement.PlaceSeedMaker.description=Buy and place a seedmaker.
+staxel.achievement.PlaceSeedMaker.description=씨앗 수확기를 구매해서 설치하세요.
 //[Reference] 'Place a Seedmaker'
-staxel.achievement.PlaceSeedMaker.name=Place a Seedmaker
+staxel.achievement.PlaceSeedMaker.name=씨앗 수확기 두기
 //[Reference] 'Place a shipping catalogue and a shipping station.'
-staxel.achievement.PlaceShipping.description=Place a shipping catalogue and a shipping station.
+staxel.achievement.PlaceShipping.description=shipping catalogue와 shipping station를 설치하세요.
 //[Reference] 'Place Shipping Stations'
-staxel.achievement.PlaceShipping.name=Place Shipping Stations
+staxel.achievement.PlaceShipping.name=Shipping Stations 두기
 //[Reference] 'Now you're getting the hang of it!'
-staxel.achievement.Plant10.description=Now you're getting the hang of it!
+staxel.achievement.Plant10.description=이제 감 좀 잡으셨겠죠?
 //[Reference] 'Plant 10 Seeds'
-staxel.achievement.Plant10.name=Plant 10 Seeds
+staxel.achievement.Plant10.name=씨앗 10개 심기
 //[Reference] 'Just think of all the petals you can sell the crops for!'
-staxel.achievement.Plant50.description=Just think of all the petals you can sell the crops for!
+staxel.achievement.Plant50.description=여기서 자란 농작물들을 다 팔면 얼마가 나올까요!
 //[Reference] 'Plant 50 Seeds'
-staxel.achievement.Plant50.name=Plant 50 Seeds
+staxel.achievement.Plant50.name=씨앗 50개 심기
 //[Reference] 'You're well on your way to a thriving farm.'
-staxel.achievement.Plant100.description=You're well on your way to a thriving farm.
+staxel.achievement.Plant100.description=농장을 가꾸는 법을 잘 익히셨나보네요!
 //[Reference] 'Plant 100 Seeds'
-staxel.achievement.Plant100.name=Plant 100 Seeds
+staxel.achievement.Plant100.name=씨앗 100개 심기
 //[Reference] 'You're half way to being able to call yourself a master farmer.'
-staxel.achievement.Plant500.description=You're half way to being able to call yourself a master farmer.
+staxel.achievement.Plant500.description=이 쯤 되면 농사 마스터라고 불러도 되겠는데요?
 //[Reference] 'Plant 500 Seeds'
-staxel.achievement.Plant500.name=Plant 500 Seeds
+staxel.achievement.Plant500.name=씨앗 500개 심기
 //[Reference] 'You're a legend amongst farmers!'
-staxel.achievement.Plant1000.description=You're a legend amongst farmers!
+staxel.achievement.Plant1000.description=전설의 농부가 나타났다!
 //[Reference] 'Plant 1000 Seeds'
-staxel.achievement.Plant1000.name=Plant 1000 Seeds
+staxel.achievement.Plant1000.name=씨앗 1000개 심기
 //[Reference] 'Plant a seed in tilled soil.'
-staxel.achievement.PlantCrop.description=Plant a seed in tilled soil.
+staxel.achievement.PlantCrop.description=괭이로 간 흙에 씨앗을 심으세요.
 //[Reference] 'Plant a Seed'
-staxel.achievement.PlantCrop.name=Plant a Seed
+staxel.achievement.PlantCrop.name=씨앗 심기
 //[Reference] 'Grab a pickaxe and mine some stone!'
-staxel.achievement.RawStone.description=Grab a pickaxe and mine some stone!
+staxel.achievement.RawStone.description=곡괭이를 들고 돌을 캡시다!
 //[Reference] 'Mine Raw Stone'
-staxel.achievement.RawStone.name=Mine Raw Stone
+staxel.achievement.RawStone.name=돌 캐기
 //[Reference] 'Mine 100 raw stone.'
-staxel.achievement.RawStone100.description=Mine 100 raw stone.
+staxel.achievement.RawStone100.description=100개의 돌을 캐세요
 //[Reference] 'Mine 100 Raw Stone'
-staxel.achievement.RawStone100.name=Mine 100 Raw Stone
+staxel.achievement.RawStone100.name=돌 100개 캐기
 //[Reference] 'You must've mined out a mountain by now.'
-staxel.achievement.RawStone1000.description=You must've mined out a mountain by now.
+staxel.achievement.RawStone1000.description=지금 쯤이면 산 하나를 다 캤을 것 같네요.
 //[Reference] 'Mine 1000 Raw Stone'
-staxel.achievement.RawStone1000.name=Mine 1000 Raw Stone
+staxel.achievement.RawStone1000.name=돌 1000개 캐기
 //[Reference] 'Chop some raw wood.'
-staxel.achievement.RawWood.description=Chop some raw wood.
+staxel.achievement.RawWood.description=나무를 베세요.
 //[Reference] 'Chop Raw Wood'
-staxel.achievement.RawWood.name=Chop Raw Wood
+staxel.achievement.RawWood.name=나무 베기
 //[Reference] 'Chop 100 raw wood.'
-staxel.achievement.RawWood100.description=Chop 100 raw wood.
+staxel.achievement.RawWood100.description=100개의 나무를 얻으세요.
 //[Reference] 'Chop 100 Raw Wood'
-staxel.achievement.RawWood100.name=Chop 100 Raw Wood
+staxel.achievement.RawWood100.name=나무 100개 베기
 //[Reference] 'Careful. Deforestation is a serious problem.'
-staxel.achievement.RawWood1000.description=Careful. Deforestation is a serious problem.
+staxel.achievement.RawWood1000.description=조심하세요. 숲이 파괴되는건 심각한 문제라고요.
 //[Reference] 'Chop 1000 Raw Wood'
-staxel.achievement.RawWood1000.name=Chop 1000 Raw Wood
+staxel.achievement.RawWood1000.name=나무 1000개 베기
 //[Reference] 'Use the seedmaker to reap 10 seeds.'
-staxel.achievement.Reap10.description=Use the seedmaker to reap 10 seeds.
+staxel.achievement.Reap10.description=씨앗 수확기로 씨앗을 10개 수확하세요.
 //[Reference] 'Reap 10 Seeds'
-staxel.achievement.Reap10.name=Reap 10 Seeds
+staxel.achievement.Reap10.name=씨앗 10개 수확하기
 //[Reference] 'Get a gold seed from the seedmaker.'
-staxel.achievement.ReapGold.description=Get a gold seed from the seedmaker.
+staxel.achievement.ReapGold.description=씨앗 수확기로 황금씨앗을 수확하세요
 //[Reference] 'Reap a Gold Seed'
-staxel.achievement.ReapGold.name=Reap a Gold Seed
+staxel.achievement.ReapGold.name=황금씨앗 수확하기
 //[Reference] 'Sell one of your freshly harvested crops via the shipping station.'
-staxel.achievement.SellItem.description=Sell one of your freshly harvested crops via the shipping station.
+staxel.achievement.SellItem.description=shipping station을 이용해 싱싱한 농작물을 판매하세요.
 //[Reference] 'Sell a crop'
-staxel.achievement.SellItem.name=Sell a crop
+staxel.achievement.SellItem.name=농작물 팔기
 //[Reference] 'Shear a Sheep. Don't worry, they'll be fine!'
 staxel.achievement.ShearSheep.description=양털을 깎으세요. 걱정은 마세요, 양들은 괜찮을거예요!
 //[Reference] 'Shear a Sheep'
 staxel.achievement.ShearSheep.name=양털 깎기
 //[Reference] 'Rev up those shears!'
-staxel.achievement.ShearSheep100.description=Rev up those shears!
+staxel.achievement.ShearSheep100.description=전부 깎아봅시다!
 //[Reference] 'Shear a Sheep 100 Times'
-staxel.achievement.ShearSheep100.name=Shear a Sheep 100 Times
+staxel.achievement.ShearSheep100.name=양털 100번 깎기
 //[Reference] 'SweepBall'
 staxel.achievement.SweepBall.description=SweepBall
 //[Reference] 'SweepBall'
 staxel.achievement.SweepBall.name=SweepBall
 //[Reference] 'Use right click or left trigger to talk to her.'
-staxel.achievement.TalkFarmFan.description=오른쪽 클릭이나 left trigger로 말을 거세요.
+staxel.achievement.TalkFarmFan.description=오른쪽 클릭이나 L버튼으로 말을 거세요.
 //[Reference] 'Talk to Farm Fan'
 staxel.achievement.TalkFarmFan.name=Farm Fan과 대화하기
 //[Reference] 'Throw a ball for your pet. They'll fetch it if they're following you!'
-staxel.achievement.ThrowBall.description=Throw a ball for your pet. They'll fetch it if they're following you!
+staxel.achievement.ThrowBall.description=공을 던지세요. 애완동물이 옆에 있다면 공을 가져와 줄 거예요!
 //[Reference] 'Throw a Ball'
 staxel.achievement.ThrowBall.name=공 던지기
 //[Reference] 'Tick the circle in the recipe menu to get an overlay.'
@@ -290,32 +290,32 @@ staxel.achievement.UseRecipeOverlay.description=Tick the circle in the recipe me
 //[Reference] 'Use Recipe Overlay'
 staxel.achievement.UseRecipeOverlay.name=Use Recipe Overlay
 //[Reference] 'Use the watering can to water a crop.'
-staxel.achievement.WaterCrop.description=Use the watering can to water a crop.
+staxel.achievement.WaterCrop.description=물뿌리개를 사용해 농작물에 물을 줄 수 있습니다.
 //[Reference] 'Water a crop'
 staxel.achievement.WaterCrop.name=농작물에 물 주기
 //[Reference] 'Use a wardrobe to change your clothing'
-staxel.achievements.changeClothing=Use a wardrobe to change your clothing
+staxel.achievements.changeClothing=옷을 갈아입을 옷장 사용하기
 //[Reference] 'Charge a tool all the way'
-staxel.achievements.chargeMax=Charge a tool all the way
+staxel.achievements.chargeMax=도구를 사용할 때 최대로 힘 모으기
 //[Reference] 'Orders placed for {0-item}'
 staxel.achievements.descriptions.OrderItem.text=Orders placed for {0-item}
 //[Reference] '{0-item} placed'
-staxel.achievements.descriptions.PlaceItem.text={0-item} placed
+staxel.achievements.descriptions.PlaceItem.text={0-item} 설치 됨
 //[Reference] '{0-item} planted'
-staxel.achievements.descriptions.PlantItem.text={0-item} planted
+staxel.achievements.descriptions.PlantItem.text={0-item} 심어짐
 //[Reference] 'Sales of {0-item}'
-staxel.achievements.descriptions.SellItem.text=Sales of {0-item}
+staxel.achievements.descriptions.SellItem.text={0-item} 팔기
 //[Reference] 'lootTreasure'
 staxel.achievements.lootTreasure=lootTreasure
 //[Reference] 'Reward:'
-staxel.achievements.reward=Reward:
+staxel.achievements.reward=보상:
 //[Reference] 'sweepBall'
 staxel.achievements.sweepBall=sweepBall
 //[Reference] 'Use right click or left trigger to talk to her'
-staxel.achievements.talkFarmFanOverlay=Use right click or left trigger to talk to her
+staxel.achievements.talkFarmFanOverlay=오른쪽 클릭이나 L버튼으로 말을 거세요.
 //[Reference] 'Throw a Ball'
-staxel.achievements.throw=Throw a Ball
+staxel.achievements.throw=공 던지기
 //[Reference] 'Use Recipe Overlay'
-staxel.achievements.UseRecipeOverlay=Use Recipe Overlay
+staxel.achievements.UseRecipeOverlay=조리법 overlay 사용하기
 //[Reference] 'Crops watered'
-staxel.achievements.WaterCrop.text=Crops watered
+staxel.achievements.WaterCrop.text=물 뿌려짐
