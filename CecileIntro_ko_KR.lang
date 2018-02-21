@@ -1,0 +1,12 @@
+//[Reference] 'en-GB'
+language.code=ko-KR
+//[Reference] 'English'
+language=한국어
+//[Reference] 'Well now, this is just what the village needed!'
+staxel.village.dialogue.intro.Cecile.line:10000100=그래, 이거야말로, 마을이 필요로 했던거야!
+//[Reference] 'Fresh bloo- no. Mea- hm. Eloquence, eloquence.'
+staxel.village.dialogue.intro.Cecile.line:10000200=신선한 피...아니.고기... 말조심, 말조심.
+//[Reference] 'Aha!'
+staxel.village.dialogue.intro.Cecile.line:10000300=아!
+//[Reference] 'I'm ^c:1486b0;{0-name}^c:pop; and I have absolutely no intention of using you as a test subject!'
+staxel.village.dialogue.intro.Cecile.line:10000400=난^c:1486b0;{0-name}^c:pop;. 널 실험체로 쓸 생각이 전혀 없어!
