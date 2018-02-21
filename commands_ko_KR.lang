@@ -2,19 +2,19 @@ language.code=ko-KR
 language=한국어
 
 //[Reference] '^c:F2E200;advanceTime ^c:FFFFFF;amount(0.0-1.0)'
-commands.advanceTime.description=^c:F2E200;advanceTime ^c:FFFFFF;amount(0.0-1.0)
+commands.advanceTime.description=^c:F2E200;advanceTime ^c:FFFFFF;값(0.0-1.0)
 //[Reference] 'Enter a float by which to advance time. 1.0 is a full day'
-commands.advanceTime.enterFloat=값을 입력하여 하루의 길이를 조절할 수 있습니다. 1.0은 기본값입니다.
+commands.advanceTime.enterFloat=소숫점을 입력해서 하루의 길이를 건너뛸수 있습니다. 1.0은 하루 전체입니다.
 //[Reference] 'failed: arg(1) must be a number. Floating points OK'
-commands.advanceTime.mustBeNumber=처리 실패: arg(1) 숫자 값을 입력해야 합니다. 소수점 입력은 가능합니다.
+commands.advanceTime.mustBeNumber=실패: 첫번째 인수는 숫자 값이여야 합니다. 소수점도 괜찮습니다.
 //[Reference] 'Advancing time by {0-time}...'
-commands.advanceTime.success=시간을 {0-time}으로 변경합니다...
+commands.advanceTime.success=시간을 {0-time}만큼 건너뛰는중...
 //[Reference] '^c:F2E200;ban ^c:FFFFFF;playerName (optional)reason'
-commands.ban.description=^c:F2E200;ban ^c:FFFFFF;playerName (optional)reason
+commands.ban.description=^c:F2E200;ban ^c:FFFFFF;닉네임 (필요시에만)사유
 //[Reference] 'Unable to ban {0-player}: player is an admin or already banned.'
-commands.ban.failure=처리 실패 {0-player}: 해당 플레이어는 관리자이거나 이미 제명되었습니다.
+commands.ban.failure=제명 실패 {0-player}: 해당 플레이어는 관리자이거나 이미 제명되었습니다.
 //[Reference] '{0-player} has been banned from the server.'
-commands.ban.success={0-player} 는 해당 게임으로부터 제명되었습니다.
+commands.ban.success={0-player} 는(은) 해당 게임으로부터 제명되었습니다.
 //[Reference] '^c:F2E200;bla'
 commands.bla.description=^c:F2E200;bla
 //[Reference] 'Moved to a new location in debug region: {0-region}'
@@ -24,55 +24,55 @@ commands.cameraCapture.description=^c:F2E200;cameraCapture
 //[Reference] 'Captured player camera'
 commands.cameraCapture.success=플레이어의 화면을 캡쳐하였습니다.
 //[Reference] '^c:F2E200;cameraCapture ^c:FFFFFF;savedCameraFilePath'
-commands.cameraLoad.description=^c:F2E200;cameraCapture ^c:FFFFFF;savedCameraFilePath
+commands.cameraLoad.description=^c:F2E200;cameraCapture ^c:FFFFFF;저장된_화면캡쳐_경로
 //[Reference] 'Loaded player camera from file: {0-filename}'
 commands.cameraLoad.success=플레이어의 화면을 해당 파일에서 불러왔습니다: {0-filename}
 //[Reference] '^c:F2E200;cameraPlay ^c:FFFFFF;(optional)duration(0.0-1.0) (optional)loop(true/false) (optional)savedCameraFilePath'
-commands.cameraPlay.description=^c:F2E200;cameraPlay ^c:FFFFFF;(optional)duration(0.0-1.0) (optional)loop(true/false) (optional)savedCameraFilePath
+commands.cameraPlay.description=^c:F2E200;cameraPlay ^c:FFFFFF;(필요시에만)길이(0.0-1.0) (필요시에만)반복재생(true/false) (필요시에만)저장된_화면캡쳐_경로
 //[Reference] 'Playing back player camera'
-commands.cameraPlay.success=플레이어의 화면을 돌려보는 중입니다.
+commands.cameraPlay.success=플레이어의 화면을 재생합니다.
 //[Reference] '^c:F2E200;cameraReset'
 commands.cameraReset.description=^c:F2E200;cameraReset
 //[Reference] 'Reset player camera'
 commands.cameraReset.success=플레이어의 화면을 초기 상태로 되돌립니다.
 //[Reference] '^c:F2E200;cameraSave ^c:FFFFFF;cameraSaveFilePath'
-commands.cameraSave.description=^c:F2E200;cameraSave ^c:FFFFFF;cameraSaveFilePath
+commands.cameraSave.description=^c:F2E200;cameraSave ^c:FFFFFF;저장할_화면캡쳐_경로
 //[Reference] 'Saved player camera to file: {0-filename}'
 commands.cameraSave.success=플레이어의 화면을 파일로 저장했습니다: {0-filename}
 //[Reference] '^c:F2E200;cameraStop'
 commands.cameraStop.description=^c:F2E200;cameraStop
 //[Reference] 'Stopped camera mode'
-commands.cameraStop.success=카메라 모드를 중지햇습니다.
+commands.cameraStop.success=카메라 모드를 중지했습니다.
 //[Reference] 'Not looking at an animal'
 commands.changeMood.animalNotFound=동물을 보고 있어야 합니다.
 //[Reference] '^c:F2E200;changeMood ^c:FFFFFF;increase/decrease(true/false)'
-commands.changeMood.description=^c:F2E200;changeMood ^c:FFFFFF;increase/decrease(true/false)
+commands.changeMood.description=^c:F2E200;changeMood ^c:FFFFFF;증가/감소(true/false)
 //[Reference] 'Mood altered successfully'
 commands.changeMood.success=기분이 성공적으로 변경되었습니다.
 //[Reference] '^c:F2E200;creative ^c:FFFFFF;(optional)playerName (optional)startCreativeMode(true/false)'
-commands.creative.description=^c:F2E200;creative ^c:FFFFFF;(optional)playerName (optional)startCreativeMode(true/false)
+commands.creative.description=^c:F2E200;creative ^c:FFFFFF;(필요시에만)닉네임 (필요시에만)창작모드_시작_여부(true/false)
 //[Reference] 'Temporarily switched creative mode for {0-user} to {1-creative}'
-commands.creative.success=일시적으로 {0-user} 을 {1-creative} 모드로 변경하였습니다.
+commands.creative.success={0-user} 을 {1-creative} 모드로 변경하였습니다.
 //[Reference] '^c:F2E200;currentTime'
 commands.currentTime.description=^c:F2E200;currentTime
 //[Reference] 'The day is {0-day} and phase is {1:G2-phase} ({2-time}).'
-commands.currentTime.success=지금은 {0-day} 이며 상태는 {1:G2-phase} ({2-time}) 입니다.
+commands.currentTime.success=지금은 {0-day} 이며 {1:G2-phase} 만큼 진행중입니다. ({2-time})
 //[Reference] '^c:F2E200;demoMode ^c:FFFFFF;(optional)on(true/false)'
-commands.demoMode.description=^c:F2E200;demoMode ^c:FFFFFF;(optional)on(true/false)
+commands.demoMode.description=^c:F2E200;demoMode ^c:FFFFFF;(필요시에만)활성화_여부(true/false)
 //[Reference] 'Switched server demo mode to {0-demoMode}'
-commands.demoMode.success=서버를 {0-demoMode} 데모 모드로 변경하였습니다.
+commands.demoMode.success=서버의 데모모드를 {0-demoMode} 으로 변경하였습니다.
 //[Reference] '^c:F2E200;describeitem ^c:FFFFFF;(optional)playerName'
-commands.describeItem.description=^c:F2E200;describeitem ^c:FFFFFF;(optional)playerName
+commands.describeItem.description=^c:F2E200;describeitem ^c:FFFFFF;(필요시에만)닉네임
 //[Reference] 'Item description: {0-itemDesc}'
-commands.describeItem.success=아이템 설명: {0-itemDesc}
+commands.describeItem.success=아이템 오브젝트: {0-itemDesc}
 //[Reference] '^c:F2E200;ditto ^c:FFFFFF;(optional)playerName villagernpcCode'
-commands.ditto.description=^c:F2E200;ditto ^c:FFFFFF;(optional)playerName villagernpcCode
+commands.ditto.description=^c:F2E200;ditto ^c:FFFFFF;(필요시에만)닉네임 NPC코드
 //[Reference] 'Player {0-playerName} does not have enough inventory space for all npc clothing items'
-commands.ditto.notEnoughSpace=플레이어 {0-playerName} 는 모든 NPC의 의상 아이템을 위한 인벤토리 공간이 부족합니다.
+commands.ditto.notEnoughSpace=플레이어 {0-playerName} 는 NPC의 의상 아이템을 위한 인벤토리 공간이 부족합니다.
 //[Reference] 'Player {0-playerName} disguised successfully'
-commands.ditto.success=플레이어 {0-playerName} 이 성공적으로 변장하였습니다.
+commands.ditto.success=플레이어 {0-playerName} 이 성공적으로 변장되었습니다.
 //[Reference] '^c:F2E200;doemote ^c:FFFFFF;emoteName (optional)useLookatEntity(true/false)'
-commands.doemote.description=^c:F2E200;doemote ^c:FFFFFF;emoteName (optional)useLookatEntity(true/false)
+commands.doemote.description=^c:F2E200;doemote ^c:FFFFFF;emoteName (필요시에만)useLookatEntity(true/false)
 //[Reference] '^c:F2E200;emote ^c:FFFFFF;emoteName'
 commands.emote.description=^c:F2E200;emote ^c:FFFFFF;emoteName
 //[Reference] 'No such emote {0-emote}'
@@ -146,11 +146,11 @@ commands.model.success=캐릭터 모델을 {0-model} 로 변경하였습니다.
 //[Reference] '^c:F2E200;mute ^c:FFFFFF;playerName (optional[default 60])lengthInMinutes'
 commands.mute.description=^c:F2E200;mute ^c:FFFFFF;playerName (optional[default 60])lengthInMinutes
 //[Reference] 'Unable to mute {0-player}: player is an admin.'
-commands.mute.failure= {0-player} 을 침묵시킬 수 없습니다: 해당 플레이어는 관리자입니다.
+commands.mute.failure= {0-player} 을 음소거시킬 수 없습니다: 해당 플레이어는 관리자입니다.
 //[Reference] 'Invalid time (should be in whole minutes)'
 commands.mute.invalidTime=잘못된 시간 값입니다. (분 단위로 표시해주세요.)
 //[Reference] '{0-player} has been silenced.'
-commands.mute.success={0-player} 은 침묵되었습니다.
+commands.mute.success={0-player} 가 음소거되었습니다.
 //[Reference] '^c:F2E200;noclip ^c:FFFFFF;(optional)playerName (optional)startNoclip(true/false)'
 commands.noClip.description=^c:F2E200;noclip ^c:FFFFFF;(optional)playerName (optional)startNoclip(true/false)
 //[Reference] 'Switched noclip mode to: {0-noclip}'
@@ -309,7 +309,7 @@ commands.unban.description=^c:F2E200;unban ^c:FFFFFF;playerName
 //[Reference] 'Unable to unban {0-player}: player was not banned.'
 commands.unban.failure={0-player}의 제명을 취소하지 못했습니다: 제명된 플레이어가 아닙니다.
 //[Reference] '{0-player} has been unbanned from the server.'
-commands.unban.success={0-player}는 해당 게임으로부터 제명 취소되었습니다.
+commands.unban.success={0-player}는 해당 게임으로부터 제명 해제되었습니다.
 //[Reference] 'Unknown command :'{0-command}''
 commands.unknown=알 수 없는 명령어입니다 :'{0-command}'
 //[Reference] 'Unknown error.'
@@ -317,9 +317,9 @@ commands.unknownError=알 수 없는 문제가 발생했습니다.
 //[Reference] '^c:F2E200;unmute ^c:FFFFFF;playerName'
 commands.unmute.description=^c:F2E200;unmute ^c:FFFFFF;playerName
 //[Reference] 'Unable to unmute {0-player}: player is not muted.'
-commands.unmute.failure={0-player}의 침묵을 해제하지 못했습니다: 침묵된 플레이어가 아닙니다.
+commands.unmute.failure={0-player}의 음소거를 해제하지 못했습니다: 침묵된 플레이어가 아닙니다.
 //[Reference] '{0-player} has regained the ability to speak.'
-commands.unmute.success={0-player}는 이제 다시 말할 수 있습니다.
+commands.unmute.success={0-player}의 말문이 트였습니다!
 //[Reference] 'Unrecognised command :'{0-command}''
 commands.unrecognised=인식할 수 없는 명령어입니다 :'{0-command}'
 //[Reference] '^c:F2E200;weather ^c:FFFFFF;Type (Sun, Rain, Snow, Storm or weather code.)'
