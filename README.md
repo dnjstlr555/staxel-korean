@@ -37,16 +37,16 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [X] achievement_ko_KR.lang
 - [ ] Barkeep_ko_KR.lang
 - [X] BarkeepRumour_ko_KR.lang -> Artist_Nau
-- [ ] BarkeepTheft_ko_KR.lang
-- [ ] BarkeepWorkPlaceMissing_ko_KR.lang
+- [ ] BarkeepTheft_ko_KR.lang - NiceKang
+- [ ] BarkeepWorkPlaceMissing_ko_KR.lang - NiceKang
 - [X] BugCatcherJob_ko_KR.lang -> Dalrae
 - [ ] CaithFisher_ko_KR.lang -Surang
 - [ ] CaithFisherRumour_ko_KR.lang -Surang
 - [ ] Caithgirl_ko_KR.lang -Surang
 - [ ] CaithGirlWinter_ko_KR.lang -Surang
 - [ ] category_ko_KR.lang
-- [ ] CecileFond_ko_KR.lang
-- [ ] CecileIntro_ko_KR.lang
+- [ ] CecileFond_ko_KR.lang - NiceKang
+- [ ] CecileIntro_ko_KR.lang - NiceKang
 - [X] characterDesigner_ko_KR.lang
 - [X] commands_ko_KR.lang
 - [X] crafting_ko_KR.lang
