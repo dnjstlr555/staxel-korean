@@ -34,12 +34,12 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 
 # Progress
 - [ ] accessories_ko_KR.lang
-- [ ] achievement_ko_KR.lang
+- [X] achievement_ko_KR.lang
 - [ ] Barkeep_ko_KR.lang
 - [X] BarkeepRumour_ko_KR.lang -> Artist_Nau
 - [ ] BarkeepTheft_ko_KR.lang
 - [ ] BarkeepWorkPlaceMissing_ko_KR.lang
-- [ ] BugCatcherJob_ko_KR.lang -> Dalrae
+- [X] BugCatcherJob_ko_KR.lang -> Dalrae
 - [ ] CaithFisher_ko_KR.lang
 - [ ] CaithFisherRumour_ko_KR.lang
 - [ ] Caithgirl_ko_KR.lang
@@ -48,78 +48,78 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] CecileFond_ko_KR.lang
 - [ ] CecileIntro_ko_KR.lang
 - [X] characterDesigner_ko_KR.lang
-- [ ] commands_ko_KR.lang
+- [X] commands_ko_KR.lang
 - [X] crafting_ko_KR.lang
 - [ ] Cutesy_ko_KR.lang
 - [ ] DeliveryQuest1_ko_KR.lang
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]  
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]  
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]  
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] DeliveryQuestExpiry1_ko_KR.lang
+- [ ] EmiliaFeyMasquerade_ko_KR.lang
+- [ ] EmiliaIntro_ko_KR.lang
+- [ ] ErisIntro_ko_KR.lang
+- [ ] FetchQuest1_ko_KR.lang
+- [ ] FetchQuestExpiry1_ko_KR.lang
+- [ ] FeyQueen_ko_KR.lang
+- [ ] FeyThroneRoomMissing_ko_KR.lang
+- [ ] FirstMeet_ko_KR.lang
+- [ ] FishingSpotMissing_ko_KR.lang
+- [ ] FunStuffVendor_ko_KR.lang
+- [ ] GeneralChat1_ko_KR.lang
+- [ ] GeneralChat2_ko_KR.lang
+- [ ] GeneralChat3_ko_KR.lang
+- [ ] GeneralChat4_ko_KR.lang
+- [ ] GeneralChat5_ko_KR.lang
+- [ ] GenericResponses_ko_KR.lang
+- [ ] HowAreYou_ko_KR.lang
+- [X] items_ko_KR.lang 
+- [ ] JamieIntro_ko_KR.lang
+- [X] ko_KR.lang
+- [ ] LeavingTownGeneric_ko_KR.lang
+- [ ] LeifBase_ko_KR.lang
+- [ ] LeifBestFriend_ko_KR.lang
+- [ ] LeifIntro_ko_KR.lang
+- [ ] LostItemQuest1_ko_KR.lang
+- [ ] LostItemQuestExpiry1_ko_KR.lang
+- [ ] MaxBestFriend_ko_KR.lang
+- [ ] MayorRumour_ko_KR.lang
+- [ ] MayorWorkPlaceMissing_ko_KR.lang
+- [ ] Mayor_ko_KR.lang
+- [ ] MechanicMain_ko_KR.lang
+- [ ] MechanicPersonality_ko_KR.lang
+- [ ] Mechanic_ko_KR.lang
+- [ ] Meek_ko_KR.lang
+- [ ] MerchantHelp_ko_KR.lang
+- [ ] Merchant_ko_KR.lang
+- [ ] NerdGeneral_ko_KR.lang
+- [ ] NerdTheft_ko_KR.lang
+- [ ] OrderlyGeneral_ko_KR.lang
+- [ ] OscarIntro_ko_KR.lang
+- [ ] PatisserieMissing_ko_KR.lang
+- [ ] PatissierJob_ko_KR.lang
+- [X] plant_ko_KR.lang 
+- [ ] PumpkingEmissary_ko_KR.lang
+- [ ] PumpkingGhost_ko_KR.lang
+- [ ] PumpkingMazeGhost_ko_KR.lang
+- [ ] RainyDay_ko_KR.lang
+- [ ] RecipeQuest1_ko_KR.lang
+- [ ] RecipeQuestExpiry1_ko_KR.lang
+- [ ] RiahIntro_ko_KR.lang
+- [ ] RiahPumpkingFeast_ko_KR.lang
+- [ ] RosemaryIntro_ko_KR.lang
+- [ ] ScientistGeneral_ko_KR.lang
+- [ ] ScientistJob_ko_KR.lang
+- [ ] SeedVendor_ko_KR.lang
+- [ ] ShopKeepPrimary_ko_KR.lang
+- [X] ShyGeneral_ko_KR.lang
+- [ ] SnowdustFaireSpokesperson_ko_KR.lang
+- [ ] SnowdustShrineMissing_ko_KR.lang
+- [X] Steam_ko_KR.lang
+- [ ] SunnyDay_ko_KR.lang
+- [ ] SurrogateShopKeep_ko_KR.lang
+- [ ] SweeperJob_ko_KR.lang
+- [ ] Theft_ko_KR.lang
+- [X] tileobject_ko_KR.lang
+- [X] tile_ko_KR.lang
+- [X] TomboyGeneral_ko_KR.lang 
+- [ ] TutorialNotCompleted_ko_KR.lang
+- [X] Tutorial_ko_KR.lang
+- [ ] YukiOnna_ko_KR.lang
