@@ -40,10 +40,10 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] BarkeepTheft_ko_KR.lang
 - [ ] BarkeepWorkPlaceMissing_ko_KR.lang
 - [X] BugCatcherJob_ko_KR.lang -> Dalrae
-- [ ] CaithFisher_ko_KR.lang
-- [ ] CaithFisherRumour_ko_KR.lang
-- [ ] Caithgirl_ko_KR.lang
-- [ ] CaithGirlWinter_ko_KR.lang
+- [ ] CaithFisher_ko_KR.lang -Surang
+- [ ] CaithFisherRumour_ko_KR.lang -Surang
+- [ ] Caithgirl_ko_KR.lang -Surang
+- [ ] CaithGirlWinter_ko_KR.lang -Surang
 - [ ] category_ko_KR.lang
 - [ ] CecileFond_ko_KR.lang
 - [ ] CecileIntro_ko_KR.lang
