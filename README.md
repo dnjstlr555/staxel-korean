@@ -63,11 +63,11 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] FirstMeet_ko_KR.lang
 - [ ] FishingSpotMissing_ko_KR.lang
 - [ ] FunStuffVendor_ko_KR.lang
-- [ ] GeneralChat1_ko_KR.lang
-- [ ] GeneralChat2_ko_KR.lang
-- [ ] GeneralChat3_ko_KR.lang
-- [ ] GeneralChat4_ko_KR.lang
-- [ ] GeneralChat5_ko_KR.lang
+- [X] GeneralChat1_ko_KR.lang - NiceKang
+- [X] GeneralChat2_ko_KR.lang- NiceKang
+- [X] GeneralChat3_ko_KR.lang- NiceKang
+- [X] GeneralChat4_ko_KR.lang- NiceKang
+- [X] GeneralChat5_ko_KR.lang- NiceKang
 - [ ] GenericResponses_ko_KR.lang
 - [ ] HowAreYou_ko_KR.lang
 - [X] items_ko_KR.lang 
