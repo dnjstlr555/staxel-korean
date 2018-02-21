@@ -3717,7 +3717,7 @@ staxel.tileObject.villagers.RiahSpawner.description=
 //[Reference] 'Riah Spawner'
 staxel.tileObject.villagers.RiahSpawner.name=Riah 스포너
 //[Reference] 'Airship Landing'
-staxel.totem.AirshipLanding=비행선 착륙
+staxel.totem.AirshipLanding=비행선 착륙장
 //[Reference] 'Aliza's Home'
 staxel.totem.AlizaHome=Aliza의 집
 
@@ -3803,9 +3803,9 @@ staxel.totem.workplace.TownSquare=마을 광장
 //[Reference] 'Base Requirements'
 staxel.totemInfo.baseRequirements=기본 요구 사항
 //[Reference] 'Tier {0-level}'
-staxel.totemInfo.tier=Tier {0-level}
+staxel.totemInfo.tier={0-level} 단계
 //[Reference] 'Tier {0-level} Requirements'
-staxel.totemInfo.tierRequirements=Tier {0-level} 요구 사항
+staxel.totemInfo.tierRequirements={0-level} 단계 요구 사항
 //[Reference] 'Toggle Region Display'
 staxel.totems.toggleboundary=영역 표시 고정
 //[Reference] 'This tree grows juicy, crunchy apples. Fruits in Autumn.'
