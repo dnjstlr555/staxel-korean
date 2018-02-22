@@ -1,0 +1,10 @@
+language.code=ko-KR
+language=한국어
+//[Reference] 'Mmmya?'
+staxel.village.dialogue.Caithgirl.line:10000100=먀아아?
+//[Reference] 'Do Caiths always end sentences with mya?'
+staxel.village.dialogue.Caithgirl.line:10000200=고양이들은 언제나 말 끝에 '먀'를 붙이냐고 먀?
+//[Reference] 'N-no! Just sometimes...'
+staxel.village.dialogue.Caithgirl.line:10000300=아..아니! 가끔씩만 그래...
+//[Reference] '...m-mya...'
+staxel.village.dialogue.Caithgirl.line:10000400=...ㅁ..먀아아...
