@@ -3,7 +3,7 @@ language=한국어
 //[Reference] 'Um... hi.'
 staxel.village.dialogue.Shy.line:10000100=음... 안녕.
 //[Reference] 'Did you need something from me?'
-staxel.village.dialogue.Shy.line:10000200=나한테 너가 필요한게 있니?
+staxel.village.dialogue.Shy.line:10000200=나한태 너에게 필요한게 있니?
 //[Reference] 'So... uh...'
 staxel.village.dialogue.Shy.line:10000300=그러니... 움...
 //[Reference] 'Did you bring your pet with you today?'
@@ -13,7 +13,7 @@ staxel.village.dialogue.Shy.line:10000500=난 인사를 하고 싶어...
 //[Reference] 'Ah... ^c:1486b0;{0-playername}^c:pop;.'
 staxel.village.dialogue.Shy.line:10000600=아... ^c:1486b0;{0-playername}^c:pop;.
 //[Reference] 'Don't forget to take good care of your animals.'
-staxel.village.dialogue.Shy.line:10000700=동물을 잘 돌봐야한다는 것을 잊지마.
+staxel.village.dialogue.Shy.line:10000700=애완동물을 잘 돌봐야한다는 것을 잊지마.
 //[Reference] 'It would be bad if something happened to them...'
 staxel.village.dialogue.Shy.line:10000800=그것들에게 무슨일이 생기면 나쁠꺼야...
 //[Reference] '...is there something on my face?'
@@ -51,7 +51,7 @@ staxel.village.dialogue.Shy.line:10002400=오... 그게 괜찮은 경우에만..
 //[Reference] 'I've heard of places that have large numbers of stray cats...'
 staxel.village.dialogue.Shy.line:10002500=난 많은 고양이가 있는 곳이 있다는걸 들었어...
 //[Reference] 'Wouldn't it be nice if was like that around here?'
-staxel.village.dialogue.Shy.line:10002600=이 주위에 그렇게 있으면 좋지 않을까?
+staxel.village.dialogue.Shy.line:10002600=이 주위에 그런게 있다면 좋지 않을까?
 //[Reference] 'I feel... more comfortable around cats I think...'
 staxel.village.dialogue.Shy.line:10002700=내 생각엔... 고양이들과 함께 있으면 더 편안한거 같아...
 //[Reference] 'Hey... ^c:1486b0;{0-playername}^c:pop;... um...'
@@ -63,10 +63,10 @@ staxel.village.dialogue.Shy.line:10003000=나는 정말... 평화로운걸 사�
 //[Reference] 'Sometimes you'll see wildlife too...'
 staxel.village.dialogue.Shy.line:10003100=때론 야생동물도 볼 수 있어...
 //[Reference] 'If you want to move animals around...'
-staxel.village.dialogue.Shy.line:10003200=만약 너가 동물 주변으로 옮기고 싶다면...
+staxel.village.dialogue.Shy.line:10003200=만약 너가 동물을 옮기고 싶다면...
 //[Reference] 'You can make ^c:d03e37;capture crates^c:pop; to pick them up.'
 staxel.village.dialogue.Shy.line:10003300=넌 ^c:d03e37;capture crates^c:pop; 이 필요해.
 //[Reference] 'There might be a ^c:d03e37;blueprint^c:pop; for them in the building store...'
 staxel.village.dialogue.Shy.line:10003400=building store에 ^c:d03e37;청사진^c:pop; 이 있을지도 몰라...
 //[Reference] 'It depends on what they're stocking though...'
-staxel.village.dialogue.Shy.line:10003500=그런데, building store에서 파는지는 모르겠어...
+staxel.village.dialogue.Shy.line:10003500=그런데, building store에서 확실히 파는지는 모르겠어...
