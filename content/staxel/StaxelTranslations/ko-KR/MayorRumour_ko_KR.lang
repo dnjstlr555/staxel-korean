@@ -1,124 +1,124 @@
 language.code=ko-KR
 language=한국어
 //[Reference] 'Hmm...'
-staxel.village.dialogue.MayorRumour.line:10000300=Hmm...
+staxel.village.dialogue.MayorRumour.line:10000300=흠...
 //[Reference] 'I must say I've been thinking about raising taxes again recently.'
-staxel.village.dialogue.MayorRumour.line:10000400=I must say I've been thinking about raising taxes again recently.
+staxel.village.dialogue.MayorRumour.line:10000400=난 최근 다시 세금을 올리려고 생각중이야.
 //[Reference] 'We could really use some renovations.'
-staxel.village.dialogue.MayorRumour.line:10000500=We could really use some renovations.
+staxel.village.dialogue.MayorRumour.line:10000500=수정을 좀 해야겠어.
 //[Reference] 'You should see the state of my office.'
-staxel.village.dialogue.MayorRumour.line:10000600=You should see the state of my office.
+staxel.village.dialogue.MayorRumour.line:10000600=넌 내 사무실의 상태를 봐야해.
 //[Reference] 'Not even a single marble column!'
-staxel.village.dialogue.MayorRumour.line:10000700=Not even a single marble column!
+staxel.village.dialogue.MayorRumour.line:10000700=심지어, 하나의 대리석 기둥도 아냐!
 //[Reference] 'Why are they so against opening a new coal mine?'
-staxel.village.dialogue.MayorRumour.line:10000800=Why are they so against opening a new coal mine?
+staxel.village.dialogue.MayorRumour.line:10000800=왜 그들은 새로운 석탄광산을 만드는걸 반대하는거야?
 //[Reference] 'It's not like it would do any real damage to the environment...'
-staxel.village.dialogue.MayorRumour.line:10000900=It's not like it would do any real damage to the environment...
+staxel.village.dialogue.MayorRumour.line:10000900=그건 사실 환경에 아무런 피해를 입히진 않아...
 //[Reference] 'Oh, sorry, I didn't see you there!'
-staxel.village.dialogue.MayorRumour.line:10001000=Oh, sorry, I didn't see you there!
+staxel.village.dialogue.MayorRumour.line:10001000=오, 미안해, 난 너가 거기 있는줄 몰랐어!
 //[Reference] 'They tell me the opposition is trying to build a strong following.'
-staxel.village.dialogue.MayorRumour.line:10001100=They tell me the opposition is trying to build a strong following.
+staxel.village.dialogue.MayorRumour.line:10001100=그들이 말하길, 반대하는 사람들이 강력한 후보를 새우려고 하고 있어.
 //[Reference] 'Not on my watch!'
-staxel.village.dialogue.MayorRumour.line:10001200=Not on my watch!
+staxel.village.dialogue.MayorRumour.line:10001200=절대 안돼!
 //[Reference] 'If there's one thing I love most about our little town...'
-staxel.village.dialogue.MayorRumour.line:10004300=If there's one thing I love most about our little town...
+staxel.village.dialogue.MayorRumour.line:10004300=우리 작은 마을에서 내가 가장 사랑하는 한가지가 있다면...
 //[Reference] 'It's the degree of trust we residents have in each other.'
-staxel.village.dialogue.MayorRumour.line:10004400=It's the degree of trust we residents have in each other.
+staxel.village.dialogue.MayorRumour.line:10004400=우리 주민들이 서로 얼마나 믿고 있느냐가 중요해.
 //[Reference] 'We haven't needed a police force in more than a decade!'
-staxel.village.dialogue.MayorRumour.line:10004500=We haven't needed a police force in more than a decade!
+staxel.village.dialogue.MayorRumour.line:10004500=우리는 10년 이나 동안 경찰이 필요하지 않았어!
 //[Reference] 'That's why I abolished it. Nothing to do with saving money!'
-staxel.village.dialogue.MayorRumour.line:10004600=That's why I abolished it. Nothing to do with saving money!
+staxel.village.dialogue.MayorRumour.line:10004600=그래서 내가 그걸 없엔거야. 돈을 절약하는 것은 아무것도 아니야!
 //[Reference] 'Airships are extremely beneficial to our island economy!'
-staxel.village.dialogue.MayorRumour.line:10004700=Airships are extremely beneficial to our island economy!
+staxel.village.dialogue.MayorRumour.line:10004700=비행선은 우리 섬의 경제에 매우 유익해!
 //[Reference] 'The requisite traffic laws, however, are nothing if not a headache.'
-staxel.village.dialogue.MayorRumour.line:10004800=The requisite traffic laws, however, are nothing if not a headache.
+staxel.village.dialogue.MayorRumour.line:10004800=그러나 기본적인 교통 규칙들은 골치 거리만은 아니야.
 //[Reference] 'I've lost track of the number of times I've written amendments...'
-staxel.village.dialogue.MayorRumour.line:10004900=I've lost track of the number of times I've written amendments...
+staxel.village.dialogue.MayorRumour.line:10004900=내가 수정안을 몇번이나 작성했는지 모르겠어...
 //[Reference] 'Why, just the other week a near miss shaved some tiles off my roof!'
-staxel.village.dialogue.MayorRumour.line:10005000=Why, just the other week a near miss shaved some tiles off my roof!
+staxel.village.dialogue.MayorRumour.line:10005000=왜, 바로 요전주에, 하마터면 실수할 뻔 했을 때, 지붕타일을 몇개 잘라 버렸어!
 //[Reference] 'I swear that travelling merchant is skipping out on his permit fees...'
-staxel.village.dialogue.MayorRumour.line:10005100=I swear that travelling merchant is skipping out on his permit fees...
+staxel.village.dialogue.MayorRumour.line:10005100=난 여행사에서 그에게 주차 위반 딱지를 뗄 거라고 맹세해...
 //[Reference] 'You know the one I mean right? The one with the funny hood...'
-staxel.village.dialogue.MayorRumour.line:10005200=You know the one I mean right? The one with the funny hood...
+staxel.village.dialogue.MayorRumour.line:10005200=제 말이 맞죠? 재밌는 모자 쓴 사람이...
 //[Reference] 'There's no way our funds for this month should be this low!'
-staxel.village.dialogue.MayorRumour.line:10005300=There's no way our funds for this month should be this low!
+staxel.village.dialogue.MayorRumour.line:10005300=이번달 우리 자금이 이렇게 낮아질 수는 없어!!
 //[Reference] 'Huh? What do you mean they all have funny hoods?'
-staxel.village.dialogue.MayorRumour.line:10005400=Huh? What do you mean they all have funny hoods?
+staxel.village.dialogue.MayorRumour.line:10005400=흠? 다들 이상한 두건을 쓰고 있다니 무슨 말이야?
 //[Reference] 'Be careful when cultivating crops in large quantities.'
-staxel.village.dialogue.MayorRumour.line:10005500=Be careful when cultivating crops in large quantities.
+staxel.village.dialogue.MayorRumour.line:10005500=농작물을 대량으로 경작할 때는 주의해야 해.
 //[Reference] 'If you start selling too much at once, it will result in an oversupply.'
-staxel.village.dialogue.MayorRumour.line:10005600=If you start selling too much at once, it will result in an oversupply.
+staxel.village.dialogue.MayorRumour.line:10005600=한꺼번에 너무 많이 팔기 시작하면 공급이 너무 많아지게 되.
 //[Reference] 'The surplus will gradually be worth less and less the more you sell.'
 staxel.village.dialogue.MayorRumour.line:10005700=The surplus will gradually be worth less and less the more you sell.
 //[Reference] 'It takes quite a while for prices to return to normal.'
-staxel.village.dialogue.MayorRumour.line:10005800=It takes quite a while for prices to return to normal.
+staxel.village.dialogue.MayorRumour.line:10005800=가격이 정상으로 돌아 오려면 상당한 시간이 걸려.
 //[Reference] 'The other day, we had a foreign delegate visiting.'
-staxel.village.dialogue.MayorRumour.line:10005900=The other day, we had a foreign delegate visiting.
+staxel.village.dialogue.MayorRumour.line:10005900=요전 날, 우리는 외국 대표단을 방문했어.
 //[Reference] 'One of those cactus people from warmer lands.'
-staxel.village.dialogue.MayorRumour.line:10006000=One of those cactus people from warmer lands.
+staxel.village.dialogue.MayorRumour.line:10006000=warmer lands 에서 온 선인장 중 한명.
 //[Reference] 'It caused quite the stir!'
-staxel.village.dialogue.MayorRumour.line:10006100=It caused quite the stir!
+staxel.village.dialogue.MayorRumour.line:10006100=그것은 상당한 파문을 일으켰지!
 //[Reference] 'I may start imposing restrictions on ^c:1486b0;{0-s_name}^c:pop;'s experiments.'
-staxel.village.dialogue.MayorRumour.line:10006200=I may start imposing restrictions on ^c:1486b0;{0-s_name}^c:pop;'s experiments.
+staxel.village.dialogue.MayorRumour.line:10006200=내가 ^c:1486b0;{0-s_name}^c:pop;의 실험에 대해 제한을 할지도 몰라.
 //[Reference] 'I've been hearing some... disturbing rumours regarding their subjects.'
-staxel.village.dialogue.MayorRumour.line:10006300=I've been hearing some... disturbing rumours regarding their subjects.
+staxel.village.dialogue.MayorRumour.line:10006300=몇가지 들은게 있는데... 그들에 대한 안좋은 소문들을 말야.
 //[Reference] 'There are limits to what constitutes ethical research!'
-staxel.village.dialogue.MayorRumour.line:10006400=There are limits to what constitutes ethical research!
+staxel.village.dialogue.MayorRumour.line:10006400=윤리적인 연구를 구성하는 것에는 한계가 있어!
 //[Reference] 'The costs incurred in damages to the town are inexcusable!'
-staxel.village.dialogue.MayorRumour.line:10006500=The costs incurred in damages to the town are inexcusable!
+staxel.village.dialogue.MayorRumour.line:10006500=마을에 대한 피해 비용은 용납 할 수 없어!
 //[Reference] 'You have no idea how hard I fought to get this place classified as a town.'
-staxel.village.dialogue.MayorRumour.line:10006600=You have no idea how hard I fought to get this place classified as a town.
+staxel.village.dialogue.MayorRumour.line:10006600=내가 얼마나 힘들게 이 곳을 도시로 분류하려고 했는지 넌 모를 거야.
 //[Reference] 'By all rights, our low population should rule us out...'
 staxel.village.dialogue.MayorRumour.line:10006700=By all rights, our low population should rule us out...
 //[Reference] 'But with some creative negotiation, I managed to get it through!'
-staxel.village.dialogue.MayorRumour.line:10006800=But with some creative negotiation, I managed to get it through!
+staxel.village.dialogue.MayorRumour.line:10006800=하지만 창의적인 협상으로, 난 그걸 해냈어!
 //[Reference] 'In the end, no one seems to care...'
-staxel.village.dialogue.MayorRumour.line:10006900=In the end, no one seems to care...
+staxel.village.dialogue.MayorRumour.line:10006900=결국 아무도 신경 쓰지 않는 것 같아.
 //[Reference] 'I've been reading through some of our legislation in my spare time.'
-staxel.village.dialogue.MayorRumour.line:10007000=I've been reading through some of our legislation in my spare time.
+staxel.village.dialogue.MayorRumour.line:10007000=나는 남는 시간에 우리의 규칙 중 몇가지를 읽었어.
 //[Reference] 'Did you know that until recently, we required all barns to contain a stack of empty crates?'
-staxel.village.dialogue.MayorRumour.line:10007100=Did you know that until recently, we required all barns to contain a stack of empty crates?
+staxel.village.dialogue.MayorRumour.line:10007100=최근까지 모든 헛간에 빈 상자를 쌓아 두라는걸 알고 있었어?
 //[Reference] 'Some of the other by-laws are even stranger...'
-staxel.village.dialogue.MayorRumour.line:10007200=Some of the other by-laws are even stranger...
+staxel.village.dialogue.MayorRumour.line:10007200=다른 몇몇 사항들은 심지어 낯선 것들이야...
 //[Reference] 'Some days, I start to think I need an assistant.'
-staxel.village.dialogue.MayorRumour.line:10007300=Some days, I start to think I need an assistant.
+staxel.village.dialogue.MayorRumour.line:10007300=언젠가는 내게 조수가 필요하다는 생각이 들어.
 //[Reference] 'Handling all the work myself can be quite a burden!'
-staxel.village.dialogue.MayorRumour.line:10007400=Handling all the work myself can be quite a burden!
+staxel.village.dialogue.MayorRumour.line:10007400=모든 일을 직접 처리하는 것은 꽤 부담스러울 수 있어!
 //[Reference] 'But it's hard to find someone I trust to do a good enough job...'
-staxel.village.dialogue.MayorRumour.line:10007500=But it's hard to find someone I trust to do a good enough job...
+staxel.village.dialogue.MayorRumour.line:10007500=하지만 내가 믿을만한 사람을 찾는 것은 어려운 일이야.
 //[Reference] '^c:1486b0;{0-j_name}^c:pop; seems to have filed a proposal for an enormous office complex.'
-staxel.village.dialogue.MayorRumour.line:10007600=^c:1486b0;{0-j_name}^c:pop; seems to have filed a proposal for an enormous office complex.
+staxel.village.dialogue.MayorRumour.line:10007600=^c:1486b0;{0-j_name}^c:pop; , 거대한 사무실 단지에 대한 제안서를 제출한 것 같아.
 //[Reference] 'Supposedly, he has ambitions to start some sort of company...'
-staxel.village.dialogue.MayorRumour.line:10007700=Supposedly, he has ambitions to start some sort of company...
+staxel.village.dialogue.MayorRumour.line:10007700=아마, 그는 어떤 회사를 시작하려는 야망을 가지고 있을 거야…
 //[Reference] 'I had to reject it, of course.'
-staxel.village.dialogue.MayorRumour.line:10007800=I had to reject it, of course.
+staxel.village.dialogue.MayorRumour.line:10007800=물론 거절했어야 했지.
 //[Reference] 'It's important to preserve our rural aesthetic!'
-staxel.village.dialogue.MayorRumour.line:10007900=It's important to preserve our rural aesthetic!
+staxel.village.dialogue.MayorRumour.line:10007900=시골의 풍경을 보존하는 것이 중요해! 
 //[Reference] 'Why are there always so many complaints to trawl through!'
-staxel.village.dialogue.MayorRumour.line:10008000=Why are there always so many complaints to trawl through!
+staxel.village.dialogue.MayorRumour.line:10008000=왜 항상 그렇게 많은 불평들이 있는 걸까!
 //[Reference] 'We don't even have that many residents!'
-staxel.village.dialogue.MayorRumour.line:10008100=We don't even have that many residents!
+staxel.village.dialogue.MayorRumour.line:10008100=우린 그렇게 많은 주민도 없어!
 //[Reference] 'I... I'm not even sure what I'm looking at here!'
-staxel.village.dialogue.MayorRumour.line:10008200=I... I'm not even sure what I'm looking at here!
+staxel.village.dialogue.MayorRumour.line:10008200=나는 ... 내가 여기서 뭘 봐야 할지도 모르겠어!
 //[Reference] 'These proposals from ^c:1486b0;{0-c_name}^c:pop; make my head spin just by looking at them.'
-staxel.village.dialogue.MayorRumour.line:10008300=These proposals from ^c:1486b0;{0-c_name}^c:pop; make my head spin just by looking at them.
+staxel.village.dialogue.MayorRumour.line:10008300=이 제안들은 ^c:1486b0;{0-c_name}^c:pop; 그냥 쳐다보기만 해도 머리가 어지러워지거든.
 //[Reference] 'Rejected! Incomprehensible and potentially dangerous!'
-staxel.village.dialogue.MayorRumour.line:10008400=Rejected! Incomprehensible and potentially dangerous!
+staxel.village.dialogue.MayorRumour.line:10008400=거절당했어! 이해할 수 없어, 위험할 수 있어!
 //[Reference] 'Every year, ^c:1486b0;{0-o_name}^c:pop; submits new proposals to re-establish a police force.'
-staxel.village.dialogue.MayorRumour.line:10008500=Every year, ^c:1486b0;{0-o_name}^c:pop; submits new proposals to re-establish a police force.
+staxel.village.dialogue.MayorRumour.line:10008500=매년 마다, ^c:1486b0;{0-o_name}^c:pop; 경찰을 다시 세우기 위해 새로운 제안을 제출하고 있지.
 //[Reference] 'I invariably give him the same answer yet still he persists.'
-staxel.village.dialogue.MayorRumour.line:10008600=I invariably give him the same answer yet still he persists.
+staxel.village.dialogue.MayorRumour.line:10008600=나는 언제나 똑같은 대답을 그에게 하지만 그는 여전히 계속하고 있어.
 //[Reference] 'Our town is too peaceful to justify the costs of maintaining police!'
-staxel.village.dialogue.MayorRumour.line:10008700=Our town is too peaceful to justify the costs of maintaining police!
+staxel.village.dialogue.MayorRumour.line:10008700=우리 마을은 경찰의 월급을 정당화하기에는 너무 평화로워.
 //[Reference] 'Ah, ^c:1486b0;{0-e_name}^c:pop;...'
-staxel.village.dialogue.MayorRumour.line:10008800=Ah, ^c:1486b0;{0-e_name}^c:pop;...
+staxel.village.dialogue.MayorRumour.line:10008800=아, ^c:1486b0;{0-e_name}^c:pop;...
 //[Reference] 'I'd seriously consider approving her request for a skate park.'
-staxel.village.dialogue.MayorRumour.line:10008900=I'd seriously consider approving her request for a skate park.
+staxel.village.dialogue.MayorRumour.line:10008900=스케이트장에 대한 그녀의 요구를 허락하는 것을 진지하게 고려해 보고 싶어.
 //[Reference] 'We just don't have the funds to spare for such things right now.'
-staxel.village.dialogue.MayorRumour.line:10009000=We just don't have the funds to spare for such things right now.
+staxel.village.dialogue.MayorRumour.line:10009000=우리는 단지 지금 당장은 그러한 것들을 위한 저축된 돈이 없어.
 //[Reference] 'Once a month, ^c:1486b0;{0-l_name}^c:pop; requests permission to grow more trees in town.'
-staxel.village.dialogue.MayorRumour.line:10009100=Once a month, ^c:1486b0;{0-l_name}^c:pop; requests permission to grow more trees in town.
+staxel.village.dialogue.MayorRumour.line:10009100=한달에 한번, ^c:1486b0;{0-l_name}^c:pop; 마을에 더 많은 나무를 키울 수있는 허가를 요청해.
 //[Reference] 'I keep granting it but he never does anything about it...'
-staxel.village.dialogue.MayorRumour.line:10009200=I keep granting it but he never does anything about it...
+staxel.village.dialogue.MayorRumour.line:10009200=계속 그렇게 말하고 있는데도 그 사람은 아무 짓도 안 하고 있어.
 //[Reference] 'Perhaps my notices are going astray?'
-staxel.village.dialogue.MayorRumour.line:10009300=Perhaps my notices are going astray?
+staxel.village.dialogue.MayorRumour.line:10009300=아마 내 게시물이 잘못되어 가고있는 것일까?
