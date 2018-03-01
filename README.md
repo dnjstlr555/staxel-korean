@@ -83,7 +83,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [X] MayorRumour_ko_KR.lang - NAu
 - [ ] MayorWorkPlaceMissing_ko_KR.lang
 - [ ] Mayor_ko_KR.lang
-- [ ] MechanicMain_ko_KR.lang -nau
+- [X] MechanicMain_ko_KR.lang -nau
 - [ ] MechanicPersonality_ko_KR.lang
 - [ ] Mechanic_ko_KR.lang
 - [ ] Meek_ko_KR.lang
@@ -108,7 +108,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [X] ScientistGeneral_ko_KR.lang
 - [X] ScientistJob_ko_KR.lang
 - [ ] SeedVendor_ko_KR.lang
-- [ ] ShopKeepPrimary_ko_KR.lang
+- [X] ShopKeepPrimary_ko_KR.lang
 - [X] ShyGeneral_ko_KR.lang
 - [ ] SnowdustFaireSpokesperson_ko_KR.lang
 - [ ] SnowdustShrineMissing_ko_KR.lang
