@@ -74,9 +74,9 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] JamieIntro_ko_KR.lang
 - [X] ko_KR.lang
 - [ ] LeavingTownGeneric_ko_KR.lang
-- [ ] LeifBase_ko_KR.lang
-- [ ] LeifBestFriend_ko_KR.lang
-- [ ] LeifIntro_ko_KR.lang
+- [X] LeifBase_ko_KR.lang - candy
+- [X] LeifBestFriend_ko_KR.lang -c 
+- [X] LeifIntro_ko_KR.lang - c
 - [ ] LostItemQuest1_ko_KR.lang
 - [ ] LostItemQuestExpiry1_ko_KR.lang
 - [ ] MaxBestFriend_ko_KR.lang
@@ -84,9 +84,9 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] MayorWorkPlaceMissing_ko_KR.lang
 - [ ] Mayor_ko_KR.lang
 - [X] MechanicMain_ko_KR.lang -nau
-- [ ] MechanicPersonality_ko_KR.lang
-- [ ] Mechanic_ko_KR.lang
-- [ ] Meek_ko_KR.lang
+- [X] MechanicPersonality_ko_KR.lang
+- [X] Mechanic_ko_KR.lang
+- [X] Meek_ko_KR.lang
 - [ ] MerchantHelp_ko_KR.lang
 - [ ] Merchant_ko_KR.lang
 - [ ] NerdGeneral_ko_KR.lang
