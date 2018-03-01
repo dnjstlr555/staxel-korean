@@ -872,7 +872,7 @@ staxel.tileObject.serverVillage.Bed.double.red.name=빨간색 2인용 침대
 //[Reference] 'A comfortable, well made, single bed.'
 staxel.tileObject.serverVillage.Bed.single.black.description=편안하고 잘 만들어진 침대네요.
 //[Reference] 'Simply Red Single Bed'
-staxel.tileObject.serverVillage.Bed.single.black.name=빨간색 침대
+staxel.tileObject.serverVillage.Bed.single.black.name=검은색 침대
 //[Reference] 'A comfortable, well made, single bed.'
 staxel.tileObject.serverVillage.Bed.single.blue.description=편안하고 잘 만들어진 침대네요.
 //[Reference] 'Simply Blue Single Bed'
@@ -884,7 +884,7 @@ staxel.tileObject.serverVillage.Bed.single.purple.name=보라색 침대
 //[Reference] 'A comfortable, well made, single bed.'
 staxel.tileObject.serverVillage.Bed.single.red.description=편안하고 잘 만들어진 침대네요.
 //[Reference] 'Simply Red Single Bed'
-staxel.tileObject.serverVillage.Bed.single.red.name=붉은색 침대
+staxel.tileObject.serverVillage.Bed.single.red.name=색 침대
 //[Reference] 'A simple lamp, perfect for reading in bed.'
 staxel.tileObject.serverVillage.BedsideLamp.description=침대에서 책을 읽기에 알맞은 평범한 전등이에요.
 //[Reference] 'Simply White Bedside Lamp'
