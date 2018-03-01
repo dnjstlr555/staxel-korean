@@ -1,0 +1,42 @@
+language.code=ko-KR
+language=한국어
+//[Reference] 'One moment ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000100=잠시만  ^c:1486b0;{0-playername}^c:pop;!
+//[Reference] 'Do you think you could deliver this ^c:d03e37;{0-item}^c:pop; to ^c:1486b0;{1-target}^c:pop; for me?'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000200=^c:d03e37;{0-item}^c:pop;이걸 ^c:1486b0;{1-target}^c:pop;에게 가져다 주지 않을래?
+//[Reference] 'Sure! No problem!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000300=그래! 맞겨만줘
+//[Reference] 'I'm a bit busy today.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000400=오늘은 좀 바빠.
+//[Reference] 'Perfect! Thank you!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000500=완벽해! 고마워!
+//[Reference] 'That's the item!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000600=이게 그 아이템이야!
+//[Reference] 'You need to take the ^c:d03e37;{0-item}^c:pop; to ^c:1486b0;{1-target}^c:pop;!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000700=^c:d03e37;{0-item}^c:pop;이걸 ^c:1486b0;{1-target}^c:pop;에게 가져다 줘!
+//[Reference] 'Sure thing!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000800=당연하지!
+//[Reference] 'I'll pass.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10000900=다음에 할게.
+//[Reference] 'Oh... alright.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001000=음... 좋아.
+//[Reference] 'Oh, is that ^c:d03e37;{0-item}^c:pop; for me?'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001100=앗, ^c:d03e37;{0-item}^c:pop; 이거 나한테 주는거야?
+//[Reference] 'Indeed!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001200=맞아!
+//[Reference] 'Nope.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001300=아니.
+//[Reference] 'Thank you!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001400=고마워!
+//[Reference] 'Please, take this for your trouble!'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001500=이건 필요할 때 써!
+//[Reference] 'Oh... Okay.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001600=아... 알았어.
+//[Reference] 'I hope it arrives soon...'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001700=빨리 도착했으면 좋겠네...
+//[Reference] 'Oh... okay. I understand.'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001800=아... 알았어. 이해했어.
+//[Reference] 'You're not going to give the ^c:d03e37;{0-item}^c:pop; back?'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10001900=^c:d03e37;{0-item}^c:pop; 아직 안갖다줬어?
+//[Reference] 'Hmm... I wonder when I'll get my ^c:d03e37;{0-item}^c:pop;...'
+staxel.village.dialogue.quest.DeliveryQuest.1.line:10002000=흠... 내 ^c:d03e37;{0-item}^c:pop; 어서 받았으면 좋겠는데...
