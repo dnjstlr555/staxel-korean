@@ -33,17 +33,17 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 이 게임이 콜오브듀티같은게 아닌 이상, 이 영어 문구들을 5살 아이들이라 생각하고 최대한 친절한 어투를 유지하도록 노력합시다. <br><br>
 
 # Progress
-- [ ] accessories_ko_KR.lang
+- [X] accessories_ko_KR.lang - Nau
 - [X] achievement_ko_KR.lang
 - [X] Barkeep_ko_KR.lang - Y
 - [X] BarkeepRumour_ko_KR.lang -> Artist_Nau
 - [X] BarkeepTheft_ko_KR.lang - NiceKang
 - [X] BarkeepWorkPlaceMissing_ko_KR.lang - NiceKang
 - [X] BugCatcherJob_ko_KR.lang -> Dalrae
-- [ ] CaithFisher_ko_KR.lang -Surang
-- [ ] CaithFisherRumour_ko_KR.lang -Surang
-- [ ] Caithgirl_ko_KR.lang -Surang
-- [ ] CaithGirlWinter_ko_KR.lang -Surang
+- [X] CaithFisher_ko_KR.lang -Surang
+- [X] CaithFisherRumour_ko_KR.lang -Surang
+- [X] Caithgirl_ko_KR.lang -Surang
+- [X] CaithGirlWinter_ko_KR.lang -Surang
 - [ ] category_ko_KR.lang
 - [X] CecileFond_ko_KR.lang - NiceKang
 - [X] CecileIntro_ko_KR.lang - NiceKang
@@ -80,10 +80,10 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] LostItemQuest1_ko_KR.lang
 - [ ] LostItemQuestExpiry1_ko_KR.lang
 - [ ] MaxBestFriend_ko_KR.lang
-- [ ] MayorRumour_ko_KR.lang
+- [X] MayorRumour_ko_KR.lang - NAu
 - [ ] MayorWorkPlaceMissing_ko_KR.lang
 - [ ] Mayor_ko_KR.lang
-- [ ] MechanicMain_ko_KR.lang
+- [ ] MechanicMain_ko_KR.lang -nau
 - [ ] MechanicPersonality_ko_KR.lang
 - [ ] Mechanic_ko_KR.lang
 - [ ] Meek_ko_KR.lang
@@ -100,13 +100,13 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] PumpkingGhost_ko_KR.lang
 - [ ] PumpkingMazeGhost_ko_KR.lang
 - [ ] RainyDay_ko_KR.lang
-- [ ] RecipeQuest1_ko_KR.lang
-- [ ] RecipeQuestExpiry1_ko_KR.lang
+- [X] RecipeQuest1_ko_KR.lang - Nau
+- [X] RecipeQuestExpiry1_ko_KR.lang - Nau
 - [ ] RiahIntro_ko_KR.lang
 - [ ] RiahPumpkingFeast_ko_KR.lang
 - [ ] RosemaryIntro_ko_KR.lang
-- [ ] ScientistGeneral_ko_KR.lang
-- [ ] ScientistJob_ko_KR.lang
+- [X] ScientistGeneral_ko_KR.lang
+- [X] ScientistJob_ko_KR.lang
 - [ ] SeedVendor_ko_KR.lang
 - [ ] ShopKeepPrimary_ko_KR.lang
 - [X] ShyGeneral_ko_KR.lang
