@@ -51,10 +51,10 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [X] commands_ko_KR.lang
 - [X] crafting_ko_KR.lang
 - [X] Cutesy_ko_KR.lang - NiceKang
-- [ ] DeliveryQuest1_ko_KR.lang
-- [ ] DeliveryQuestExpiry1_ko_KR.lang
-- [ ] EmiliaFeyMasquerade_ko_KR.lang
-- [ ] EmiliaIntro_ko_KR.lang
+- [X] DeliveryQuest1_ko_KR.lang
+- [X] DeliveryQuestExpiry1_ko_KR.lang
+- [X] EmiliaFeyMasquerade_ko_KR.lang
+- [X] EmiliaIntro_ko_KR.lang
 - [ ] ErisIntro_ko_KR.lang
 - [ ] FetchQuest1_ko_KR.lang
 - [ ] FetchQuestExpiry1_ko_KR.lang
