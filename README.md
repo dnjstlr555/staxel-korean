@@ -119,7 +119,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] Theft_ko_KR.lang
 - [X] tileobject_ko_KR.lang
 - [X] tile_ko_KR.lang
-- [X] TomboyGeneral_ko_KR.lang 
+- [X] TomboyGeneral_ko_KR.lang  - Artist_Nau
 - [X] TutorialNotCompleted_ko_KR.lang - Artist_Nau
 - [X] Tutorial_ko_KR.lang
 - [ ] YukiOnna_ko_KR.lang
