@@ -33,7 +33,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 이 게임이 콜오브듀티같은게 아닌 이상, 이 영어 문구들을 5살 아이들이라 생각하고 최대한 친절한 어투를 유지하도록 노력합시다. <br><br>
 
 # Progress
-- [X] accessories_ko_KR.lang - Nau
+- [X] accessories_ko_KR.lang - Artist_Nau
 - [X] achievement_ko_KR.lang
 - [X] Barkeep_ko_KR.lang - Y
 - [X] BarkeepRumour_ko_KR.lang -> Artist_Nau
@@ -80,13 +80,13 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] LostItemQuest1_ko_KR.lang
 - [ ] LostItemQuestExpiry1_ko_KR.lang
 - [ ] MaxBestFriend_ko_KR.lang
-- [X] MayorRumour_ko_KR.lang - NAu
+- [X] MayorRumour_ko_KR.lang - Artist_Nau
 - [ ] MayorWorkPlaceMissing_ko_KR.lang
 - [ ] Mayor_ko_KR.lang
-- [X] MechanicMain_ko_KR.lang -nau
-- [X] MechanicPersonality_ko_KR.lang
-- [X] Mechanic_ko_KR.lang
-- [X] Meek_ko_KR.lang
+- [X] MechanicMain_ko_KR.lang - Artist_Nau
+- [X] MechanicPersonality_ko_KR.lang - Artist_Nau
+- [X] Mechanic_ko_KR.lang - Artist_Nau
+- [X] Meek_ko_KR.lang - Artist_Nau
 - [ ] MerchantHelp_ko_KR.lang
 - [ ] Merchant_ko_KR.lang
 - [ ] NerdGeneral_ko_KR.lang
@@ -100,16 +100,16 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] PumpkingGhost_ko_KR.lang
 - [ ] PumpkingMazeGhost_ko_KR.lang
 - [ ] RainyDay_ko_KR.lang
-- [X] RecipeQuest1_ko_KR.lang - Nau
-- [X] RecipeQuestExpiry1_ko_KR.lang - Nau
+- [X] RecipeQuest1_ko_KR.lang - Nau - Artist_Nau
+- [X] RecipeQuestExpiry1_ko_KR.lang  - Artist_Nau
 - [ ] RiahIntro_ko_KR.lang
 - [ ] RiahPumpkingFeast_ko_KR.lang
 - [ ] RosemaryIntro_ko_KR.lang
-- [X] ScientistGeneral_ko_KR.lang
-- [X] ScientistJob_ko_KR.lang
+- [X] ScientistGeneral_ko_KR.lang - Artist_Nau
+- [X] ScientistJob_ko_KR.lang - Artist_Nau
 - [X] SeedVendor_ko_KR.lang
 - [X] ShopKeepPrimary_ko_KR.lang
-- [X] ShyGeneral_ko_KR.lang
+- [X] ShyGeneral_ko_KR.lang - Artist_Nau
 - [ ] SnowdustFaireSpokesperson_ko_KR.lang
 - [ ] SnowdustShrineMissing_ko_KR.lang
 - [X] Steam_ko_KR.lang
@@ -120,6 +120,6 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [X] tileobject_ko_KR.lang
 - [X] tile_ko_KR.lang
 - [X] TomboyGeneral_ko_KR.lang 
-- [ ] TutorialNotCompleted_ko_KR.lang
+- [X] TutorialNotCompleted_ko_KR.lang - Artist_Nau
 - [X] Tutorial_ko_KR.lang
 - [ ] YukiOnna_ko_KR.lang
