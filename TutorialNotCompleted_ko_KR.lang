@@ -1,0 +1,14 @@
+language.code=ko-KR
+language=한국어
+//[Reference] 'Have you received your ^c:d03e37;farm license^c:pop; yet?'
+staxel.village.dialogue.TutorialNotCompleted.line:10000100=이제 ^c:d03e37;farm license^c:pop; 는 받았니?
+//[Reference] 'You need to talk to ^c:1486b0;{0-fan}^c:pop; so she can show you the ropes!'
+staxel.village.dialogue.TutorialNotCompleted.line:10000200=이제 일하는 법을 알기 위해서 ^c:1486b0;{0-fan}^c:pop; 에게 이야기를 들으러 가는게 좋아!
+//[Reference] 'She's probably somewhere around the ^c:1486b0;Town Hall^c:pop; or ^c:1486b0;Tavern^c:pop;!'
+staxel.village.dialogue.TutorialNotCompleted.line:10000300=그녀는 아마 ^c:1486b0;Town Hall^c:pop; 이나 ^c:1486b0;Tavern^c:pop; 근처에 있을꺼야!
+//[Reference] 'I heard ^c:1486b0;{0-fan}^c:pop; was looking for you.'
+staxel.village.dialogue.TutorialNotCompleted.line:10000400=^c:1486b0;{0-fan}^c:pop; 가 너를 찾는거 같아.
+//[Reference] 'She said she hasn't had a chance to show you around.'
+staxel.village.dialogue.TutorialNotCompleted.line:10000500=그녀는 아직 너에게 안내를 해줄수 있는 조건이 없다고 말했어.
+//[Reference] 'You're supposed to get some rewards from her!'
+staxel.village.dialogue.TutorialNotCompleted.line:10000600=그녀에게서 보상을 받을수 있을꺼야.
