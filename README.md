@@ -107,7 +107,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] RosemaryIntro_ko_KR.lang
 - [X] ScientistGeneral_ko_KR.lang
 - [X] ScientistJob_ko_KR.lang
-- [ ] SeedVendor_ko_KR.lang
+- [X] SeedVendor_ko_KR.lang
 - [X] ShopKeepPrimary_ko_KR.lang
 - [X] ShyGeneral_ko_KR.lang
 - [ ] SnowdustFaireSpokesperson_ko_KR.lang
