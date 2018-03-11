@@ -113,9 +113,9 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] SnowdustFaireSpokesperson_ko_KR.lang
 - [ ] SnowdustShrineMissing_ko_KR.lang
 - [X] Steam_ko_KR.lang
-- [ ] SunnyDay_ko_KR.lang
-- [ ] SurrogateShopKeep_ko_KR.lang
-- [ ] SweeperJob_ko_KR.lang
+- [X] SunnyDay_ko_KR.lang
+- [X] SurrogateShopKeep_ko_KR.lang
+- [X] SweeperJob_ko_KR.lang
 - [ ] Theft_ko_KR.lang
 - [X] tileobject_ko_KR.lang
 - [X] tile_ko_KR.lang
