@@ -71,7 +71,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] GenericResponses_ko_KR.lang
 - [ ] HowAreYou_ko_KR.lang
 - [X] items_ko_KR.lang 
-- [X] JamieIntro_ko_KR.lang
+- [X] JamieIntro_ko_KR.lang - Artist_Nau
 - [X] ko_KR.lang
 - [ ] LeavingTownGeneric_ko_KR.lang
 - [X] LeifBase_ko_KR.lang - candy
@@ -100,7 +100,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] PumpkingGhost_ko_KR.lang
 - [ ] PumpkingMazeGhost_ko_KR.lang
 - [ ] RainyDay_ko_KR.lang
-- [X] RecipeQuest1_ko_KR.lang - Nau - Artist_Nau
+- [X] RecipeQuest1_ko_KR.lang - Artist_Nau
 - [X] RecipeQuestExpiry1_ko_KR.lang  - Artist_Nau
 - [ ] RiahIntro_ko_KR.lang
 - [ ] RiahPumpkingFeast_ko_KR.lang
