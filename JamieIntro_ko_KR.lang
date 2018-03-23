@@ -1,0 +1,12 @@
+language.code=ko-KR
+language=한국어
+//[Reference] 'Oh! It's nice to see a new face in town!'
+staxel.village.dialogue.intro.Jamie.line:10000100=오! 마을에서 새로운 얼굴을 보니 좋네요!
+//[Reference] 'I'm just hunting monsters.'
+staxel.village.dialogue.intro.Jamie.line:10000200=난 지금 몬스터를 잡고 있는 중이야.
+//[Reference] 'How about you?'
+staxel.village.dialogue.intro.Jamie.line:10000300=너는 뭐 하고 있어?
+//[Reference] 'I'm ^c:1486b0;{0-name}^c:pop; by the way!'
+staxel.village.dialogue.intro.Jamie.line:10000400=난 ^c:1486b0;{0-name}^c:pop; 이라고 해!
+//[Reference] 'You should come see my game collection sometime!'
+staxel.village.dialogue.intro.Jamie.line:10000500=언젠가 나의 게임 컬렉션을 보러 와줘!
