@@ -71,7 +71,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] GenericResponses_ko_KR.lang
 - [ ] HowAreYou_ko_KR.lang
 - [X] items_ko_KR.lang 
-- [ ] JamieIntro_ko_KR.lang
+- [X] JamieIntro_ko_KR.lang
 - [X] ko_KR.lang
 - [ ] LeavingTownGeneric_ko_KR.lang
 - [X] LeifBase_ko_KR.lang - candy
