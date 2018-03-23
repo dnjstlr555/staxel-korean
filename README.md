@@ -55,7 +55,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [X] DeliveryQuestExpiry1_ko_KR.lang
 - [X] EmiliaFeyMasquerade_ko_KR.lang
 - [X] EmiliaIntro_ko_KR.lang
-- [ ] ErisIntro_ko_KR.lang
+- [X] ErisIntro_ko_KR.lang
 - [ ] FetchQuest1_ko_KR.lang
 - [ ] FetchQuestExpiry1_ko_KR.lang
 - [ ] FeyQueen_ko_KR.lang
