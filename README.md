@@ -77,7 +77,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [X] LeifBase_ko_KR.lang - candy
 - [X] LeifBestFriend_ko_KR.lang -c 
 - [X] LeifIntro_ko_KR.lang - c
-- [ ] LostItemQuest1_ko_KR.lang
+- [X] LostItemQuest1_ko_KR.lang
 - [ ] LostItemQuestExpiry1_ko_KR.lang
 - [ ] MaxBestFriend_ko_KR.lang
 - [X] MayorRumour_ko_KR.lang - Artist_Nau
