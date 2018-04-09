@@ -44,7 +44,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [X] CaithFisherRumour_ko_KR.lang -Surang
 - [X] Caithgirl_ko_KR.lang -Surang
 - [X] CaithGirlWinter_ko_KR.lang -Surang
-- [ ] category_ko_KR.lang
+- [X] category_ko_KR.lang
 - [X] CecileFond_ko_KR.lang - NiceKang
 - [X] CecileIntro_ko_KR.lang - NiceKang
 - [X] characterDesigner_ko_KR.lang
