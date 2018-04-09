@@ -56,13 +56,13 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [X] EmiliaFeyMasquerade_ko_KR.lang
 - [X] EmiliaIntro_ko_KR.lang
 - [X] ErisIntro_ko_KR.lang
-- [ ] FetchQuest1_ko_KR.lang
-- [ ] FetchQuestExpiry1_ko_KR.lang
+- [X] FetchQuest1_ko_KR.lang
+- [X] FetchQuestExpiry1_ko_KR.lang
 - [ ] FeyQueen_ko_KR.lang
 - [ ] FeyThroneRoomMissing_ko_KR.lang
-- [ ] FirstMeet_ko_KR.lang
+- [X] FirstMeet_ko_KR.lang
 - [ ] FishingSpotMissing_ko_KR.lang
-- [ ] FunStuffVendor_ko_KR.lang
+- [X] FunStuffVendor_ko_KR.lang
 - [X] GeneralChat1_ko_KR.lang - NiceKang
 - [X] GeneralChat2_ko_KR.lang- NiceKang
 - [X] GeneralChat3_ko_KR.lang- NiceKang
