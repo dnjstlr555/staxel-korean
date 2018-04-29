@@ -93,7 +93,7 @@ http://stdweb2.korean.go.kr/main.jsp <br>
 - [ ] NerdTheft_ko_KR.lang
 - [ ] OrderlyGeneral_ko_KR.lang
 - [ ] OscarIntro_ko_KR.lang
-- [ ] PatisserieMissing_ko_KR.lang
+- [X] PatisserieMissing_ko_KR.lang
 - [ ] PatissierJob_ko_KR.lang
 - [X] plant_ko_KR.lang 
 - [ ] PumpkingEmissary_ko_KR.lang
