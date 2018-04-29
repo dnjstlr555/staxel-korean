@@ -27,9 +27,9 @@ staxel.village.dialogue.job.PatisserieMissing.line:10001200=^c:d03e37;제과점 
 //[Reference] 'I can get you another, but it's going to cost you {0-currency}{1-sign}. How's that?'
 staxel.village.dialogue.job.PatisserieMissing.line:10001300=내가 하나 더 줄 수는 있어. 하지만 비용이 {0-currency}{1-sign}정도 들 거야. 어떻게 할래?
 //[Reference] 'You're a lifesaver!'
-staxel.village.dialogue.job.PatisserieMissing.line:10001400=내 생명의 은인이야!
+staxel.village.dialogue.job.PatisserieMissing.line:10001400=하나만 더 줘!
 //[Reference] 'I think I know where it is...'
-staxel.village.dialogue.job.PatisserieMissing.line:10001500=그게 어디있는지 알고 있었는데...
+staxel.village.dialogue.job.PatisserieMissing.line:10001500=잃어버린건 아니야.
 //[Reference] 'Oh, that's good to hear!'
 staxel.village.dialogue.job.PatisserieMissing.line:10001600=오, 그거 정말 잘 됐다!
 //[Reference] 'I hope to see a wonderful patisserie soon!'
